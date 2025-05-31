@@ -1,0 +1,628 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<link rel="icon" type="image/png" href="/sets/SRB-files/icon.png"/>
+	<link rel="stylesheet" href="/resources/header.css">
+	<title>SRB visual preview</title>
+	<style>
+		body {
+			font-family: Arial, sans-serif;
+			margin: 0;
+			padding: 0;
+			overscroll-behavior: none;
+			background-size: cover;
+			background-attachment: fixed;
+		}
+		.main-content {
+			position: relative;
+			width: 100%;
+			float: left;
+			z-index: 2;
+			justify-items: center;
+		}
+		.sidebar {
+			position: sticky;
+			top: 0;
+			display: none;
+			text-align: center;
+			padding-right: 3%;
+			z-index: 1;
+			justify-items: center;
+		}
+		.sidebar-container {
+			width: 80%;
+			max-width: 375px;
+			position: relative;
+		}
+		.sidebar-h-img {
+			display: none;
+			transform: rotate(90deg);
+			position: absolute;
+			left: 10%;
+			top: 10%;
+			width: 85%;
+		}
+		.sidebar-img {
+			vertical-align: middle;
+			width: 100%;
+		}
+		.close-btn {
+			background: url('/img/close.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 10%;
+			height: 10%;
+			border: none;
+			cursor: pointer;
+			position: absolute;
+			right: 4%;
+		}
+		.close-btn:hover {
+			background: url('/img/close-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.grid-container {
+			display: grid;
+			grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+			gap: 2px;
+			padding-left: 5%;
+			padding-right: 5%;
+			padding-bottom: 1%;
+			justify-items: center;
+			max-width: 1200px;
+		}
+		.grid-container img {
+			width: 100%;
+			height: auto;
+			display: block;
+			visibility: hidden;
+			cursor: pointer;
+		}
+		.banner {
+			width: 100%;
+			height: auto;
+			padding-top: 20px;
+			padding-bottom: 50px;
+		}
+		.logo {
+			display: block;
+			margin: auto;
+			max-width: 30%;
+			max-height: 320px;
+		}
+		.container {
+			position: relative;
+			width: 100%;
+		}
+		.container img {
+			width: 100%;
+			height: auto;
+		}
+		.flip-btn {
+			background: url('/img/flip.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 15%;
+			height: 11%;
+			cursor: pointer;
+			border: none;
+			position: absolute;
+			left: 50%;
+			top: 48%;
+			transform: translate(-50%, -50%);
+			opacity: 0.5;
+		}
+		.flip-btn:hover {
+			background: url('/img/flip-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.icon-bar {
+			display: grid;
+			grid-template-columns: repeat(10, 3fr 2fr) 3fr;
+			gap: 1px;
+			padding-left: 5%;
+			padding-right: 5%;
+			padding-top: 2%;
+			padding-bottom: 1%;
+			justify-items: center;
+			align-items: center;
+		}
+		.icon-bar .icon img {
+			width: 90%;
+			max-width: 80px;
+			height: auto;
+			display: block;
+			padding: 5%;
+			margin: auto;
+			text-align: center;
+		}
+		.icon-bar .dot img {
+			width: 50%;
+			max-width: 65px;
+			height: auto;
+			display: block;
+			margin: auto;
+			text-align: center;
+		}
+		.preload-hidden {
+			display: none;
+		}
+		/* This is here to enable the stickiness in a Float environment. I don't know why it works but it does */
+		.footer {
+			clear: both;
+		}
+	</style>
+</head>
+<body>
+	<img class="preload-hidden" src="/img/dot.png" />
+	<img class="preload-hidden" src="/sets/SRB-files/logo.png" />
+	<img class="preload-hidden" src="/sets/SRB-files/icon.png" />
+		<div class="header">
+		<div class="search-grid">
+			<a href="/"><img class="sg-logo" src="/img/banner.png"></a>
+			<img class="sg-icon" src="/img/search.png">
+			<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+			<a href="/all-sets"><img src="/img/sets.png" class="sg-icon">Sets</a>
+			<a href="/deckbuilder"><img src="/img/deck.png" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img src="/img/random.png" class="sg-icon">Random</a>
+		</div>
+	</div>
+
+	<div class="icon-bar">
+			<div class="icon"><a href="SRB"><img src="/sets/SRB-files/icon.png"></img></a></div>
+
+		</div>
+		<div class="banner">
+		<img class="logo" src="/sets/SRB-files/logo.png">
+		</div>
+		<div class="main-content" id="main-content">
+			<div class="grid-container">
+				<div class="container"><img alt="/sets\SRB-files\img\11_Ghostly Crossing.png" id="11_Ghostly Crossing" data-flag="@X" onclick="openSidebar('11_Ghostly Crossing',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\31_Carlos Zevallos, The Brains.png" id="31_Carlos Zevallos, The Brains" data-flag="@X" onclick="openSidebar('31_Carlos Zevallos, The Brains',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\57_Amateur Occultist.png" id="57_Amateur Occultist" data-flag="@X" onclick="openSidebar('57_Amateur Occultist',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\92_Friends Forever.png" id="92_Friends Forever" data-flag="@X" onclick="openSidebar('92_Friends Forever',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\115_Backyard Naturalist.png" id="115_Backyard Naturalist" data-flag="@X" onclick="openSidebar('115_Backyard Naturalist',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\15_Homegrown Studio.png" id="15_Homegrown Studio" data-flag="@X" onclick="openSidebar('15_Homegrown Studio',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\33_Confirm Suspicions.png" id="33_Confirm Suspicions" data-flag="@X" onclick="openSidebar('33_Confirm Suspicions',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\61_Demented Dentist.png" id="61_Demented Dentist" data-flag="@X" onclick="openSidebar('61_Demented Dentist',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\98_Invasion from the Garden.png" id="98_Invasion from the Garden" data-flag="@X" onclick="openSidebar('98_Invasion from the Garden',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\117_Camp Lune Counselor.png" id="117_Camp Lune Counselor" data-flag="@X" onclick="openSidebar('117_Camp Lune Counselor',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\17_Kitted-Out Investigators.png" id="17_Kitted-Out Investigators" data-flag="@X" onclick="openSidebar('17_Kitted-Out Investigators',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\37_Flying Saucer.png" id="37_Flying Saucer" data-flag="@X" onclick="openSidebar('37_Flying Saucer',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\65_Face the Truth.png" id="65_Face the Truth" data-flag="@X" onclick="openSidebar('65_Face the Truth',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\99_Lucy Willhooks, the Heart.png" id="99_Lucy Willhooks, the Heart" data-flag="@X" onclick="openSidebar('99_Lucy Willhooks, the Heart',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\120_Colossal Gastropod.png" id="120_Colossal Gastropod" data-flag="@X" onclick="openSidebar('120_Colossal Gastropod',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\18_Lost and Alone.png" id="18_Lost and Alone" data-flag="@X" onclick="openSidebar('18_Lost and Alone',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\39_Gargantuan Angler.png" id="39_Gargantuan Angler" data-flag="@X" onclick="openSidebar('39_Gargantuan Angler',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\71_The Intruder From Beyond.png" id="71_The Intruder From Beyond" data-flag="@X" onclick="openSidebar('71_The Intruder From Beyond',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\101_Monstrous Melody.png" id="101_Monstrous Melody" data-flag="@X" onclick="openSidebar('101_Monstrous Melody',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\124_Easter Ravager.png" id="124_Easter Ravager" data-flag="@X" onclick="openSidebar('124_Easter Ravager',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\23_Rex Moray, the Soul.png" id="23_Rex Moray, the Soul" data-flag="@X" onclick="openSidebar('23_Rex Moray, the Soul',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\40_Helicopter Faerie.png" id="40_Helicopter Faerie" data-flag="@X" onclick="openSidebar('40_Helicopter Faerie',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\75_Mother Mother.png" id="75_Mother Mother" data-flag="@X" onclick="openSidebar('75_Mother Mother',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\102_One Last Hurrah.png" id="102_One Last Hurrah" data-flag="@X" onclick="openSidebar('102_One Last Hurrah',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\127_Imaginative Rascal.png" id="127_Imaginative Rascal" data-flag="@X" onclick="openSidebar('127_Imaginative Rascal',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\25_Stand Tall.png" id="25_Stand Tall" data-flag="@X" onclick="openSidebar('25_Stand Tall',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\43_Lunar Repetition.png" id="43_Lunar Repetition" data-flag="@X" onclick="openSidebar('43_Lunar Repetition',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\82_Technicolor Tutor.png" id="82_Technicolor Tutor" data-flag="@X" onclick="openSidebar('82_Technicolor Tutor',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\107_Spunky Sportster.png" id="107_Spunky Sportster" data-flag="@X" onclick="openSidebar('107_Spunky Sportster',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\131_Lunar Awakening.png" id="131_Lunar Awakening" data-flag="@X" onclick="openSidebar('131_Lunar Awakening',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\26_Stuffed Savior.png" id="26_Stuffed Savior" data-flag="@X" onclick="openSidebar('26_Stuffed Savior',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\56_Unravel Realities.png" id="56_Unravel Realities" data-flag="@X" onclick="openSidebar('56_Unravel Realities',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\83_Ted Moray, Too Old for This.png" id="83_Ted Moray, Too Old for This" data-flag="@X" onclick="openSidebar('83_Ted Moray, Too Old for This',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\112_Your Greatest Terror.png" id="112_Your Greatest Terror" data-flag="@X" onclick="openSidebar('112_Your Greatest Terror',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\134_Ryan Elworm, the Fist.png" id="134_Ryan Elworm, the Fist" data-flag="@X" onclick="openSidebar('134_Ryan Elworm, the Fist',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\2_Alluring Presence.png" id="2_Alluring Presence" data-flag="@X" onclick="openSidebar('2_Alluring Presence',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\32_Common Sense.png" id="32_Common Sense" data-flag="@X" onclick="openSidebar('32_Common Sense',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\59_The Bogeyman's Clutches.png" id="59_The Bogeymans Clutches" data-flag="@X" onclick="openSidebar('59_The Bogeymans Clutches',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\87_Bedside Bonfire.png" id="87_Bedside Bonfire" data-flag="@X" onclick="openSidebar('87_Bedside Bonfire',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\113_Adventurous Tyke.png" id="113_Adventurous Tyke" data-flag="@X" onclick="openSidebar('113_Adventurous Tyke',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\5_Clinging Toy.png" id="5_Clinging Toy" data-flag="@X" onclick="openSidebar('5_Clinging Toy',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\34_Cram.png" id="34_Cram" data-flag="@X" onclick="openSidebar('34_Cram',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\60_Channel Zero.png" id="60_Channel Zero" data-flag="@X" onclick="openSidebar('60_Channel Zero',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\90_Evening Escapades.png" id="90_Evening Escapades" data-flag="@X" onclick="openSidebar('90_Evening Escapades',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\114_Amphibititan.png" id="114_Amphibititan" data-flag="@X" onclick="openSidebar('114_Amphibititan',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\9_Fakeout.png" id="9_Fakeout" data-flag="@X" onclick="openSidebar('9_Fakeout',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\35_Diligent Notetaking.png" id="35_Diligent Notetaking" data-flag="@X" onclick="openSidebar('35_Diligent Notetaking',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\67_Freaks of Fourth Street.png" id="67_Freaks of Fourth Street" data-flag="@X" onclick="openSidebar('67_Freaks of Fourth Street',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\94_Halloween Wanderers.png" id="94_Halloween Wanderers" data-flag="@X" onclick="openSidebar('94_Halloween Wanderers',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\116_Calamari Cook.png" id="116_Calamari Cook" data-flag="@X" onclick="openSidebar('116_Calamari Cook',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\10_Ghostly Assistant.png" id="10_Ghostly Assistant" data-flag="@X" onclick="openSidebar('10_Ghostly Assistant',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\38_Frosted Fiend.png" id="38_Frosted Fiend" data-flag="@X" onclick="openSidebar('38_Frosted Fiend',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\70_The House of Nightmares.png" id="70_The House of Nightmares" data-flag="@X" onclick="openSidebar('70_The House of Nightmares',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\96_Horrible Harlequin.png" id="96_Horrible Harlequin" data-flag="@X" onclick="openSidebar('96_Horrible Harlequin',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\119_Clutch Spinner.png" id="119_Clutch Spinner" data-flag="@X" onclick="openSidebar('119_Clutch Spinner',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\13_Gossiping Posse.png" id="13_Gossiping Posse" data-flag="@X" onclick="openSidebar('13_Gossiping Posse',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\44_Neighborhood Watch.png" id="44_Neighborhood Watch" data-flag="@X" onclick="openSidebar('44_Neighborhood Watch',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\72_Last Gasp.png" id="72_Last Gasp" data-flag="@X" onclick="openSidebar('72_Last Gasp',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\103_Pint-Sized Pilferer.png" id="103_Pint-Sized Pilferer" data-flag="@X" onclick="openSidebar('103_Pint-Sized Pilferer',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\122_Dead's Best Friend.png" id="122_Deads Best Friend" data-flag="@X" onclick="openSidebar('122_Deads Best Friend',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\14_Hide.png" id="14_Hide" data-flag="@X" onclick="openSidebar('14_Hide',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\46_Playground Poltergeist.png" id="46_Playground Poltergeist" data-flag="@X" onclick="openSidebar('46_Playground Poltergeist',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\76_Puzzler's Watchman.png" id="76_Puzzlers Watchman" data-flag="@X" onclick="openSidebar('76_Puzzlers Watchman',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\104_Ringwoods Invader.png" id="104_Ringwoods Invader" data-flag="@X" onclick="openSidebar('104_Ringwoods Invader',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\128_In The Face of Danger.png" id="128_In The Face of Danger" data-flag="@X" onclick="openSidebar('128_In The Face of Danger',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\20_Popup Puppeteer.png" id="20_Popup Puppeteer" data-flag="@X" onclick="openSidebar('20_Popup Puppeteer',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\51_Starstruck Squids.png" id="51_Starstruck Squids" data-flag="@X" onclick="openSidebar('51_Starstruck Squids',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\79_Starving Slime.png" id="79_Starving Slime" data-flag="@X" onclick="openSidebar('79_Starving Slime',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\105_Say Cheese!.png" id="105_Say Cheese!" data-flag="@X" onclick="openSidebar('105_Say Cheese!',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\132_Monstrous Appetite.png" id="132_Monstrous Appetite" data-flag="@X" onclick="openSidebar('132_Monstrous Appetite',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\28_Youthful Tenacity.png" id="28_Youthful Tenacity" data-flag="@X" onclick="openSidebar('28_Youthful Tenacity',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\53_Storm of Spirits.png" id="53_Storm of Spirits" data-flag="@X" onclick="openSidebar('53_Storm of Spirits',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\80_Surrounded by Shadows.png" id="80_Surrounded by Shadows" data-flag="@X" onclick="openSidebar('80_Surrounded by Shadows',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\111_Uncontrolled Burn.png" id="111_Uncontrolled Burn" data-flag="@X" onclick="openSidebar('111_Uncontrolled Burn',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\140_Swampside Guide.png" id="140_Swampside Guide" data-flag="@X" onclick="openSidebar('140_Swampside Guide',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\1_Accidental Awakening.png" id="1_Accidental Awakening" data-flag="@X" onclick="openSidebar('1_Accidental Awakening',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\29_Birdwatching.png" id="29_Birdwatching" data-flag="@X" onclick="openSidebar('29_Birdwatching',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\58_Blackeye Bully.png" id="58_Blackeye Bully" data-flag="@X" onclick="openSidebar('58_Blackeye Bully',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\85_Adolescent Witch.png" id="85_Adolescent Witch" data-flag="@X" onclick="openSidebar('85_Adolescent Witch',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\118_Club Meetup.png" id="118_Club Meetup" data-flag="@X" onclick="openSidebar('118_Club Meetup',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\3_Bedside Poltergeist.png" id="3_Bedside Poltergeist" data-flag="@X" onclick="openSidebar('3_Bedside Poltergeist',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\30_Bony Blockade.png" id="30_Bony Blockade" data-flag="@X" onclick="openSidebar('30_Bony Blockade',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\62_Discovery in the Dark.png" id="62_Discovery in the Dark" data-flag="@X" onclick="openSidebar('62_Discovery in the Dark',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\86_Awoken Intelligence.png" id="86_Awoken Intelligence" data-flag="@X" onclick="openSidebar('86_Awoken Intelligence',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\121_Consuming Blob.png" id="121_Consuming Blob" data-flag="@X" onclick="openSidebar('121_Consuming Blob',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\4_Benevolent Phantasm.png" id="4_Benevolent Phantasm" data-flag="@X" onclick="openSidebar('4_Benevolent Phantasm',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\36_Enclosed Kraken.png" id="36_Enclosed Kraken" data-flag="@X" onclick="openSidebar('36_Enclosed Kraken',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\63_Dishearten.png" id="63_Dishearten" data-flag="@X" onclick="openSidebar('63_Dishearten',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\88_Chilling Cabbie.png" id="88_Chilling Cabbie" data-flag="@X" onclick="openSidebar('88_Chilling Cabbie',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\123_Destructive Defense.png" id="123_Destructive Defense" data-flag="@X" onclick="openSidebar('123_Destructive Defense',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\6_Confident Punk.png" id="6_Confident Punk" data-flag="@X" onclick="openSidebar('6_Confident Punk',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\41_Invisible Prankster.png" id="41_Invisible Prankster" data-flag="@X" onclick="openSidebar('41_Invisible Prankster',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\64_Driveway Liturgy.png" id="64_Driveway Liturgy" data-flag="@X" onclick="openSidebar('64_Driveway Liturgy',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\89_Cornfield Creeping.png" id="89_Cornfield Creeping" data-flag="@X" onclick="openSidebar('89_Cornfield Creeping',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\125_Frankenboy.png" id="125_Frankenboy" data-flag="@X" onclick="openSidebar('125_Frankenboy',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\7_Detention.png" id="7_Detention" data-flag="@X" onclick="openSidebar('7_Detention',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\42_Lucky Bystander.png" id="42_Lucky Bystander" data-flag="@X" onclick="openSidebar('42_Lucky Bystander',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\66_Foolish Fortune.png" id="66_Foolish Fortune" data-flag="@X" onclick="openSidebar('66_Foolish Fortune',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\91_Fearful Finding.png" id="91_Fearful Finding" data-flag="@X" onclick="openSidebar('91_Fearful Finding',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\126_Genial Treebeard.png" id="126_Genial Treebeard" data-flag="@X" onclick="openSidebar('126_Genial Treebeard',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\8_Disgruntled Librarian.png" id="8_Disgruntled Librarian" data-flag="@X" onclick="openSidebar('8_Disgruntled Librarian',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\45_Normal Neighbor.png" id="45_Normal Neighbor" data-flag="@X" onclick="openSidebar('45_Normal Neighbor',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\68_Fridge Creeper.png" id="68_Fridge Creeper" data-flag="@X" onclick="openSidebar('68_Fridge Creeper',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\93_Guardian of the Grill.png" id="93_Guardian of the Grill" data-flag="@X" onclick="openSidebar('93_Guardian of the Grill',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\129_Ivy Elemental.png" id="129_Ivy Elemental" data-flag="@X" onclick="openSidebar('129_Ivy Elemental',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\12_Gigantic Lepidoptera.png" id="12_Gigantic Lepidoptera" data-flag="@X" onclick="openSidebar('12_Gigantic Lepidoptera',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\47_Public Exorcism.png" id="47_Public Exorcism" data-flag="@X" onclick="openSidebar('47_Public Exorcism',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\69_Grade School Ghouls.png" id="69_Grade School Ghouls" data-flag="@X" onclick="openSidebar('69_Grade School Ghouls',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\95_Happy Campers.png" id="95_Happy Campers" data-flag="@X" onclick="openSidebar('95_Happy Campers',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\130_Juvenile Informant.png" id="130_Juvenile Informant" data-flag="@X" onclick="openSidebar('130_Juvenile Informant',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\16_Keep Tabs.png" id="16_Keep Tabs" data-flag="@X" onclick="openSidebar('16_Keep Tabs',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\48_Rosebury Delinquent.png" id="48_Rosebury Delinquent" data-flag="@X" onclick="openSidebar('48_Rosebury Delinquent',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\73_Malicious Mall Goth.png" id="73_Malicious Mall Goth" data-flag="@X" onclick="openSidebar('73_Malicious Mall Goth',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\97_Inquisitive Youth.png" id="97_Inquisitive Youth" data-flag="@X" onclick="openSidebar('97_Inquisitive Youth',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\133_Morning Mailman.png" id="133_Morning Mailman" data-flag="@X" onclick="openSidebar('133_Morning Mailman',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\19_Novice Puzzler.png" id="19_Novice Puzzler" data-flag="@X" onclick="openSidebar('19_Novice Puzzler',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\49_Seaborn Befuddler.png" id="49_Seaborn Befuddler" data-flag="@X" onclick="openSidebar('49_Seaborn Befuddler',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\74_Morbid Discovery.png" id="74_Morbid Discovery" data-flag="@X" onclick="openSidebar('74_Morbid Discovery',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\100_Momentary Infestation.png" id="100_Momentary Infestation" data-flag="@X" onclick="openSidebar('100_Momentary Infestation',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\135_School Summoner.png" id="135_School Summoner" data-flag="@X" onclick="openSidebar('135_School Summoner',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\21_Rally the Gang.png" id="21_Rally the Gang" data-flag="@X" onclick="openSidebar('21_Rally the Gang',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\50_Spill the Beans.png" id="50_Spill the Beans" data-flag="@X" onclick="openSidebar('50_Spill the Beans',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\77_Repulsive Relative.png" id="77_Repulsive Relative" data-flag="@X" onclick="openSidebar('77_Repulsive Relative',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\106_Shock.png" id="106_Shock" data-flag="@X" onclick="openSidebar('106_Shock',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\136_Slumbering Stargazer.png" id="136_Slumbering Stargazer" data-flag="@X" onclick="openSidebar('136_Slumbering Stargazer',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\22_Remain Courageous.png" id="22_Remain Courageous" data-flag="@X" onclick="openSidebar('22_Remain Courageous',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\52_Stashed Away.png" id="52_Stashed Away" data-flag="@X" onclick="openSidebar('52_Stashed Away',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\78_Sewer Sludge.png" id="78_Sewer Sludge" data-flag="@X" onclick="openSidebar('78_Sewer Sludge',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\108_Station Scaleling.png" id="108_Station Scaleling" data-flag="@X" onclick="openSidebar('108_Station Scaleling',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\137_Spirited Victory.png" id="137_Spirited Victory" data-flag="@X" onclick="openSidebar('137_Spirited Victory',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\24_Sleepless Guide.png" id="24_Sleepless Guide" data-flag="@X" onclick="openSidebar('24_Sleepless Guide',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\54_Suspicious Shortcut.png" id="54_Suspicious Shortcut" data-flag="@X" onclick="openSidebar('54_Suspicious Shortcut',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\81_Tabby of Terror.png" id="81_Tabby of Terror" data-flag="@X" onclick="openSidebar('81_Tabby of Terror',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\109_Sympathetic Soul.png" id="109_Sympathetic Soul" data-flag="@X" onclick="openSidebar('109_Sympathetic Soul',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\138_Spooked Pooch.png" id="138_Spooked Pooch" data-flag="@X" onclick="openSidebar('138_Spooked Pooch',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\27_Unwavering Investigator.png" id="27_Unwavering Investigator" data-flag="@X" onclick="openSidebar('27_Unwavering Investigator',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\55_Teacher's Aide.png" id="55_Teachers Aide" data-flag="@X" onclick="openSidebar('55_Teachers Aide',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\84_Worn Crowherder.png" id="84_Worn Crowherder" data-flag="@X" onclick="openSidebar('84_Worn Crowherder',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\110_Terrifying Teachings.png" id="110_Terrifying Teachings" data-flag="@X" onclick="openSidebar('110_Terrifying Teachings',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\139_Steely Sasquatch.png" id="139_Steely Sasquatch" data-flag="@X" onclick="openSidebar('139_Steely Sasquatch',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\179_Lucy Willhooks, Adventurer.png" id="179_Lucy Willhooks, Adventurer" data-flag="@X" onclick="openSidebar('179_Lucy Willhooks, Adventurer',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+<div id="gold" class="anchor"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\152_Perfect Replacement.png" id="152_Perfect Replacement" data-flag="@X" onclick="openSidebar('152_Perfect Replacement',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\159_Voracious Gremlins.png" id="159_Voracious Gremlins" data-flag="@X" onclick="openSidebar('159_Voracious Gremlins',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\145_Falling to Fear.png" id="145_Falling to Fear" data-flag="@X" onclick="openSidebar('145_Falling to Fear',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\146_Fourth Street Widow.png" id="146_Fourth Street Widow" data-flag="@X" onclick="openSidebar('146_Fourth Street Widow',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\158_Under the Covers.png" id="158_Under the Covers" data-flag="@X" onclick="openSidebar('158_Under the Covers',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\151_Man in Black.png" id="151_Man in Black" data-flag="@X" onclick="openSidebar('151_Man in Black',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\157_Undead Artist.png" id="157_Undead Artist" data-flag="@X" onclick="openSidebar('157_Undead Artist',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\154_Streetlamp Stalker.png" id="154_Streetlamp Stalker" data-flag="@X" onclick="openSidebar('154_Streetlamp Stalker',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\148_Incited Attic.png" id="148_Incited Attic" data-flag="@X" onclick="openSidebar('148_Incited Attic',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\153_Puzzler's Clubhouse.png" id="153_Puzzlers Clubhouse" data-flag="@X" onclick="openSidebar('153_Puzzlers Clubhouse',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\149_Invading Reclaimer.png" id="149_Invading Reclaimer" data-flag="@X" onclick="openSidebar('149_Invading Reclaimer',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\144_Elementary Spymaster.png" id="144_Elementary Spymaster" data-flag="@X" onclick="openSidebar('144_Elementary Spymaster',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\150_Jack, Monstrous Liaison.png" id="150_Jack, Monstrous Liaison" data-flag="@X" onclick="openSidebar('150_Jack, Monstrous Liaison',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\156_Teamwork.png" id="156_Teamwork" data-flag="@X" onclick="openSidebar('156_Teamwork',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\141_Alchemical Breakthrough.png" id="141_Alchemical Breakthrough" data-flag="@X" onclick="openSidebar('141_Alchemical Breakthrough',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\160_Wage Flayer.png" id="160_Wage Flayer" data-flag="@X" onclick="openSidebar('160_Wage Flayer',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\143_Childhood Wanderings.png" id="143_Childhood Wanderings" data-flag="@X" onclick="openSidebar('143_Childhood Wanderings',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\147_Freakish Fiction.png" id="147_Freakish Fiction" data-flag="@X" onclick="openSidebar('147_Freakish Fiction',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\155_Summertime Sharpshooter.png" id="155_Summertime Sharpshooter" data-flag="@X" onclick="openSidebar('155_Summertime Sharpshooter',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\142_Basement Genius.png" id="142_Basement Genius" data-flag="@X" onclick="openSidebar('142_Basement Genius',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+<div id="colorless" class="anchor"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\163_Jack Attack.png" id="163_Jack Attack" data-flag="@X" onclick="openSidebar('163_Jack Attack',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\164_Shambling Suites.png" id="164_Shambling Suites" data-flag="@X" onclick="openSidebar('164_Shambling Suites',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\161_Cursed Camera.png" id="161_Cursed Camera" data-flag="@X" onclick="openSidebar('161_Cursed Camera',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\162_Ice Cream Truck.png" id="162_Ice Cream Truck" data-flag="@X" onclick="openSidebar('162_Ice Cream Truck',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\165_Stuffed Locker.png" id="165_Stuffed Locker" data-flag="@X" onclick="openSidebar('165_Stuffed Locker',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\166_Unsettling Ornaments.png" id="166_Unsettling Ornaments" data-flag="@X" onclick="openSidebar('166_Unsettling Ornaments',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\175_Hilltop Haunt.png" id="175_Hilltop Haunt" data-flag="@X" onclick="openSidebar('175_Hilltop Haunt',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\169_Chilling Cellar.png" id="169_Chilling Cellar" data-flag="@X" onclick="openSidebar('169_Chilling Cellar',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\177_Suspicious Alleyway.png" id="177_Suspicious Alleyway" data-flag="@X" onclick="openSidebar('177_Suspicious Alleyway',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\172_Fearful Fields.png" id="172_Fearful Fields" data-flag="@X" onclick="openSidebar('172_Fearful Fields',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\176_Pumpkin Patch.png" id="176_Pumpkin Patch" data-flag="@X" onclick="openSidebar('176_Pumpkin Patch',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\170_Corporate Cubicle.png" id="170_Corporate Cubicle" data-flag="@X" onclick="openSidebar('170_Corporate Cubicle',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\173_Flooded Playground.png" id="173_Flooded Playground" data-flag="@X" onclick="openSidebar('173_Flooded Playground',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\171_Deep Dark Woods.png" id="171_Deep Dark Woods" data-flag="@X" onclick="openSidebar('171_Deep Dark Woods',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\178_Unsettling Classroom.png" id="178_Unsettling Classroom" data-flag="@X" onclick="openSidebar('178_Unsettling Classroom',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\168_Basement Laboratory.png" id="168_Basement Laboratory" data-flag="@X" onclick="openSidebar('168_Basement Laboratory',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\174_Hiddard's Office.png" id="174_Hiddards Office" data-flag="@X" onclick="openSidebar('174_Hiddards Office',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\167_Autumn Glade.png" id="167_Autumn Glade" data-flag="@X" onclick="openSidebar('167_Autumn Glade',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+<div id="token" class="anchor"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\9t_Clue.png" id="9t_Clue" data-flag="@X" onclick="openSidebar('9t_Clue',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\10t_Construct.png" id="10t_Construct" data-flag="@X" onclick="openSidebar('10t_Construct',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\11t_Doll.png" id="11t_Doll" data-flag="@X" onclick="openSidebar('11t_Doll',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\12t_Thopter.png" id="12t_Thopter" data-flag="@X" onclick="openSidebar('12t_Thopter',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\1t_Human.png" id="1t_Human" data-flag="@X" onclick="openSidebar('1t_Human',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\2t_Rabbit.png" id="2t_Rabbit" data-flag="@X" onclick="openSidebar('2t_Rabbit',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\3t_Horror.png" id="3t_Horror" data-flag="@X" onclick="openSidebar('3t_Horror',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\4t_Gnome.png" id="4t_Gnome" data-flag="@X" onclick="openSidebar('4t_Gnome',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\5t_Egg.png" id="5t_Egg" data-flag="@X" onclick="openSidebar('5t_Egg',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\6t_Fish.png" id="6t_Fish" data-flag="@X" onclick="openSidebar('6t_Fish',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\7t_Plant.png" id="7t_Plant" data-flag="@X" onclick="openSidebar('7t_Plant',false)"></div>
+			<div class="container"><img alt="/sets\SRB-files\img\8t_Spider.png" id="8t_Spider" data-flag="@X" onclick="openSidebar('8t_Spider',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+			<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+	</div>
+</div>
+	<div class="sidebar" id="sidebar">
+		<div class="sidebar-container">
+			<img id="sidebar_img" class="sidebar-img" src="/img/er.png">
+			<img id="sidebar_h_img" class="sidebar-h-img">
+			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
+		</div>
+		<button class="close-btn" onclick="closeSidebar()"></button>
+	</div>
+	<div class="footer"></div>
+
+	<script>
+	const delay = ms => new Promise(res => setTimeout(res, ms));
+		let specialchars = "";
+
+	document.addEventListener('DOMContentLoaded', async function() {
+		await fetch('/lists/all-cards.json')
+					.then(response => response.json())
+					.then(json => {
+						card_list = json;
+				}).catch(error => console.error('Error:', error));
+
+				await fetch('/resources/replacechars.txt')
+					.then(response => response.text())
+					.then(text => {
+						specialchars = text; 
+				}).catch(error => console.error('Error:', error));
+
+				card_list_arrayified = card_list.cards;
+
+		preloadImgs = document.getElementsByClassName('preload-hidden');
+		
+		let images_loaded = [];
+
+		do {
+			await delay(100);
+			images_loaded = []
+			for (const img of preloadImgs)
+			{
+				images_loaded.push(isImageOk(img));
+			}
+		}
+		while (images_loaded.includes(false));
+
+		
+		loadImages();
+	});
+
+	function isImageOk(img) {
+		if (!img.complete || img.naturalWidth == 0) {
+			return false;
+		}
+
+		return true;
+	}
+
+	function loadImages() {
+		const images = document.querySelectorAll('.grid-container img');
+
+		images.forEach(img => {
+			const flag = img.getAttribute('data-flag');
+
+			if (flag === '@N') {
+				img.src = '/img/card_back.png';
+				img.removeAttribute("onclick");
+				img.style.cursor = 'default';
+			}
+			else
+			{
+				img.src = img.alt;
+
+				if (flag === '@E') {
+					img.removeAttribute("onclick");
+					img.style.cursor = 'default';
+				}
+			}
+
+			img.style.visibility = 'visible';
+		});
+	}
+
+	window.addEventListener('resize', function(event) {
+		setSidebarTop();
+	}, true);
+
+	function setSidebarTop() {
+		let vh = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0);
+		let sh = document.getElementById('sidebar').offsetHeight;
+		let height = 100 * ((vh - sh) / 2) / vh;
+		document.getElementById('sidebar').style.top = height + '%';
+	}
+
+	let horizontal = false;
+
+	function imgFlip(num) {
+		tmp = document.getElementById(num).src;
+		console.log(num);
+		document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
+		document.getElementById(num).dataset.alt_src = tmp;
+
+		if (num == 'sidebar_img')
+		{
+			const rotated_img = document.getElementById('sidebar_h_img');
+			const sidebar_img = document.getElementById('sidebar_img');
+
+			if (horizontal && rotated_img.style.display == 'none')
+			{
+				rotated_img.style.display = "block";
+				sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+			}
+			else
+			{
+				rotated_img.style.display = "none";
+				sidebar_img.style.filter = "";
+			}
+		}
+	}
+
+	function openSidebar(id, h = false) {
+		horizontal = h;
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+		
+		document.getElementById('sidebar').style.display = 'grid';
+
+		const rotated_img = document.getElementById('sidebar_h_img');
+		const sidebar_img = document.getElementById('sidebar_img');
+
+		sidebar_img.src = document.getElementById(id).src;
+		rotated_img.src = document.getElementById(id).src.replace("_back", "_front");
+
+		if (horizontal && !sidebar_img.src.includes("_back"))
+		{
+			rotated_img.style.display = "block";
+			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+		}
+		else
+		{
+			rotated_img.style.display = "none";
+			sidebar_img.style.filter = "";
+		}
+
+		if (document.getElementById(id).dataset.alt_src)
+		{
+			document.getElementById('sidebar_img').dataset.alt_src = document.getElementById(id).dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'block';
+		}
+		else
+		{
+			delete document.getElementById('sidebar_img').dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'none';
+		}
+		document.getElementById('main-content').style.width = '60%';
+		
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+		setSidebarTop();
+	}
+
+	function closeSidebar() {
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'none';
+		document.getElementById('main-content').style.width = '100%';
+		
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+	}
+
+	document.getElementById("search").addEventListener("keypress", function(event) {
+		if (event.key === "Enter") {
+			event.preventDefault();
+			search();
+		}
+	});
+
+	function search() {
+		const url = new URL('search', window.location.origin);
+		url.searchParams.append('search', document.getElementById("search").value);
+		window.location.href = url;
+	}
+
+		function randomCard() {
+				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
+				let random_card = card_list_arrayified[i];
+
+				const url = new URL('card', window.location.origin);
+				const params = {
+					set: random_card.set,
+					num: random_card.number,
+					name: random_card.card_name
+				}
+				for (const key in params) {
+					url.searchParams.append(key, params[key]);
+				}
+
+				window.location.href = url;
+			}
+	</script>
+</body>
+</html>
