@@ -1,0 +1,1566 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>VAMP</name>
+			<longname>Vampire: The Masquerade</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-09-30</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Em, Prince of Houston</name>
+			<text>When Em, Prince of Houston enters the battlefield, starting with you, each player chooses a creature you don&apos;t control. Destroy each creature chosen this way.
+Whenever an opponent attacks you, for each creature attacking you beyond the first, create a 1/1 black Vampire creature token with lifelink that can&apos;t block.</text>
+			<set rarity="mythic" picurl="https://gayverygrove.github.io/sets/VAMP-files/img/0.png" num="64">VAMP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Vampire Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>3RWB</manacost>
+				<cmc>6</cmc>
+				<colors>WBR</colors>
+				<coloridentity>WBR</coloridentity>
+				<pt>4/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Opal, Prince of Lincoln</name>
+			<text>Feed (You may sacrifice another creature rather than pay the non-{T} costs of this card&apos;s activated abilities.)
+{T}, Pay X life: You may cast target noncreature card with mana value X or less from your graveyard without paying its mana cost this turn. If Opal, Prince of Lincoln fed, X is equal to her power. If that spell would be put into your graveyard this turn, exile it instead.</text>
+			<set rarity="mythic" picurl="https://gayverygrove.github.io/sets/VAMP-files/img/1.png" num="74">VAMP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Vampire Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>1UBR</manacost>
+				<cmc>4</cmc>
+				<colors>UBR</colors>
+				<coloridentity>UBR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Orion, Prince of Nothing</name>
+			<text>Haste
+Whenever Orion deals combat damage to a player, exile him and target creature card from your graveyard with mana value X or less, where X is the damage dealt. Return the exiled cards to the battlefield at the beginning of your next upkeep.</text>
+			<set rarity="mythic" picurl="https://gayverygrove.github.io/sets/VAMP-files/img/2.png" num="75">VAMP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Vampire Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>WBG</manacost>
+				<cmc>3</cmc>
+				<colors>WBG</colors>
+				<coloridentity>WBG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Xanthe, Baron of Seattle</name>
+			<text>Feed (You may sacrifice another creature rather than pay the non-{T} costs of this card&apos;s activated abilities.)
+{4}, {T}: Return target creature card from an opponent&apos;s graveyard to the battlefield under your control. It gains haste and is goaded for the rest of the game. At the beginning of your next end step, its owner gains control of it.</text>
+			<set rarity="mythic" picurl="https://gayverygrove.github.io/sets/VAMP-files/img/3.png" num="78">VAMP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Vampire Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>BRG</manacost>
+				<cmc>3</cmc>
+				<colors>BRG</colors>
+				<coloridentity>BRG</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Emery, Muse of the Night</name>
+			<text>Each player must attack with at least one creature each combat if able.
+Whenever you&apos;re dealt damage, you may discard your hand. If you do, draw X cards, where X is the damage dealt. This ability triggers only once each turn.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VAMP-files/img/4.png" num="65">VAMP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Vampire</type>
+				<maintype>Creature</maintype>
+				<manacost>BR</manacost>
+				<cmc>2</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Scratch, Sewer Informant</name>
+			<text>Skulk (This creature can&apos;t be blocked by creatures with greater power.)
+Whenever Scratch, Sewer Informant deals combat damage to a player, that player reveals their hand. You may cast a nonland card from that player&apos;s hand with mana value 3 or less. You may spend mana as though it were mana of any color to cast that card.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VAMP-files/img/5.png" num="77">VAMP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Vampire Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1UB</manacost>
+				<cmc>3</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>reminder about the watermarks</name>
+			<text>mainframe style has the card watermark option for a card-by-card basis</text>
+			<set rarity="common" picurl="https://gayverygrove.github.io/sets/VAMP-files/img/6.png" num="1">VAMP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type></type>
+				<maintype></maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Alicia, Spiteful Schemer</name>
+			<text>Whenever an opponent draws a card except the first one they draw in each of their draw steps, that player may pay {2}. If they don&apos;t, put a plot counter on Alicia, Spiteful Schemer.
+{B}, Remove X plot counters from Alicia: You draw X cards and you lose X life.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VAMP-files/img/7.png" num="59">VAMP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Vampire Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>WB</manacost>
+				<cmc>2</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Midora, Alicia&apos;s Eye</name>
+			<text>Whenever Midora, Alicia&apos;s Eye enters the battlefield or attacks, each opponent may exile a creature they control. For each opponent who doesn&apos;t, put a +1/+1 counter on Midora and that player loses 2 life.
+Midora has all activated and triggered abilities of cards exiled with her.</text>
+			<set rarity="mythic" picurl="https://gayverygrove.github.io/sets/VAMP-files/img/8.png" num="71">VAMP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Vampire Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>1RWB</manacost>
+				<cmc>4</cmc>
+				<colors>WBR</colors>
+				<coloridentity>WBR</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gabriel, Salvation Seeker</name>
+			<text>At the beginning of each opponent&apos;s end step, choose a creature card in their graveyard that was put there from the battlefield this turn. They may pay life equal to that card&apos;s mana value. If they don&apos;t, exile it and create a token that&apos;s a copy of it, except it&apos;s a 1/1 black Vampire.</text>
+			<set rarity="mythic" picurl="https://gayverygrove.github.io/sets/VAMP-files/img/9.png" num="67">VAMP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Vampire Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1WBG</manacost>
+				<cmc>4</cmc>
+				<colors>WBG</colors>
+				<coloridentity>WBG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Camarilla Games</name>
+			<text>At the beginning of combat on your turn, each player votes for one of your opponents. Until your next turn, creatures attacking the player with the most votes or tied for the most votes get +1/+1 and have first strike.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VAMP-files/img/10.png" num="5">VAMP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Smiling Jack, Anarch Legend</name>
+			<text>Menace
+At the beginning of combat on each player&apos;s turn, put a +1/+1 counter on Smiling Jack, Anarch Legend. Then, for each +1/+1 counter on Smiling Jack, he deals 1 damage to that player unless they discard a card or sacrifice a permanent.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VAMP-files/img/11.png" num="49">VAMP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Vampire Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Slayer of the Wicked</name>
+			<text>When Slayer of the Wicked enters the battlefield, you may destroy target Vampire, Werewolf, or Zombie.</text>
+			<set rarity="uncommon" picurl="https://gayverygrove.github.io/sets/VAMP-files/img/12.png" num="13">VAMP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Soldier</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hope, Serpent&apos;s Tongue</name>
+			<text>At the beginning of your end step, you may exchange control of two target noncommander creatures until your next end step. Goad both of those creatures. Until your next end step, whenever one of those creatures dies, the controller of the other creature sacrifices it.</text>
+			<set rarity="mythic" picurl="https://gayverygrove.github.io/sets/VAMP-files/img/13.png" num="68">VAMP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Vampire Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>1WUB</manacost>
+				<cmc>4</cmc>
+				<colors>WUB</colors>
+				<coloridentity>WUB</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>City on the Brink</name>
+			<text>If a creature would deal damage to an opponent or a permanent an opponent controls, it deals double that damage instead.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VAMP-files/img/14.png" num="42">VAMP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Condemned Church</name>
+			<text>Condemned Church enters the battlefield tapped.
+{T}: Add {W}, {U}, or {B}. If this mana is spent to cast your commander, it enters the battlefield with a shield counter on it.</text>
+			<set rarity="uncommon" picurl="https://gayverygrove.github.io/sets/VAMP-files/img/15.png" num="83">VAMP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WUB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Penthouse Suite</name>
+			<text>Penthouse Suite enters the battlefield tapped.
+{T}: Add {R}, {W}, or {B}. If this mana is spent to cast your commander, it enters with a menace counter on it.</text>
+			<set rarity="uncommon" picurl="https://gayverygrove.github.io/sets/VAMP-files/img/16.png" num="84">VAMP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WBR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Suburban Palace</name>
+			<text>Suburban Palace enters the battlefield tapped.
+{T}: Add {B}, {G}, or {U}. If this mana is spent to cast your commander, it enters with a trample counter on it.</text>
+			<set rarity="uncommon" picurl="https://gayverygrove.github.io/sets/VAMP-files/img/17.png" num="88">VAMP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UBG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Roadside Hotel</name>
+			<text>Roadside Hotel enters the battlefield tapped.
+{T}: Add {W}, {B}, or {G}. If this mana is spent to cast your commander, it enters with a lifelink counter on it.</text>
+			<set rarity="uncommon" picurl="https://gayverygrove.github.io/sets/VAMP-files/img/18.png" num="86">VAMP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WBG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Cheap Apartment</name>
+			<text>Cheap Apartment enters the battlefield tapped.
+{T}: Add {B}, {R}, or {G}. If this mana is spent to cast your commander, it enters the battlefield with a haste counter on it.</text>
+			<set rarity="uncommon" picurl="https://gayverygrove.github.io/sets/VAMP-files/img/19.png" num="82">VAMP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BRG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Quiet Study</name>
+			<text>Quiet Study enters the battlefield tapped.
+{T}: Add {U}, {B}, or {R}. If this mana is spent to cast your commander, it enters with a deathtouch counter on it.</text>
+			<set rarity="uncommon" picurl="https://gayverygrove.github.io/sets/VAMP-files/img/20.png" num="85">VAMP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UBR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Bianca Giovanni</name>
+			<text>Bianca Giovanni has hexproof as long as you don&apos;t control a Demon.
+{B}{B}{B}, {T}, Discard two cards: Put three +1/+1 counters, a flying counter, and a trample counter on target non-Demon Vampire you control. It becomes a Demon in addition to its other types.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VAMP-files/img/21.png" num="25">VAMP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Vampire</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Theft of Vitae</name>
+			<text>Target opponent sacrifices a creature. When they do, if its mana value was 2 or less, put two +1/+1 counters on target creature you control.</text>
+			<set rarity="uncommon" picurl="https://gayverygrove.github.io/sets/VAMP-files/img/22.png" num="34">VAMP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Cauldron of Blood</name>
+			<text>Target creature deals 5 damage to itself. If that creature would die this turn, exile it instead.</text>
+			<set rarity="uncommon" picurl="https://gayverygrove.github.io/sets/VAMP-files/img/23.png" num="40">VAMP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Defense of the Sacred Haven</name>
+			<text>At the beginning of your upkeep, draw a card and put a blood counter on Defense of the Sacred Haven. Then if it has three or more blood counters on it, sacrifice it.
+Creatures you control have hexproof.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VAMP-files/img/24.png" num="17">VAMP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Intimidation Tactics</name>
+			<text>Whenever a player attacks one of your opponents, each creature attacking that opponent gets +2/+0 and gains trample until end of turn.</text>
+			<set rarity="uncommon" picurl="https://gayverygrove.github.io/sets/VAMP-files/img/25.png" num="69">VAMP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1RG</manacost>
+				<cmc>3</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Fleshcrafting</name>
+			<text>At the beginning of your upkeep, choose a kind of counter from among deathtouch, reach, vigilance, and +1/+1. Put a counter of that kind onto Fleshcrafting.
+For each counter on Fleshcrafting, creature tokens you control enter the battlefield with that counter on them.</text>
+			<set rarity="uncommon" picurl="https://gayverygrove.github.io/sets/VAMP-files/img/26.png" num="66">VAMP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>GU</manacost>
+				<cmc>2</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Forever Wandering</name>
+			<text>Any number of target creatures you control phase out until a land enters the battlefield under your control.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VAMP-files/img/27.png" num="10">VAMP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Anything For My Master</name>
+			<text>As an additional cost to cast this spell, sacrifice a creature token.
+Destroy target permanent.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VAMP-files/img/28.png" num="60">VAMP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1BG</manacost>
+				<cmc>3</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Frog</name>
+			<text>Whenever an opponent casts an instant or sorcery spell, exile it as it resolves.
+{T}, Discard any number of cards with total mana value X: You may cast a card exiled with Frog with mana value X or less without paying its mana cost.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VAMP-files/img/29.png" num="19">VAMP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Vampire</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Title Fight</name>
+			<text>Choose target creature you control and target creature an opponent controls. Each of those creatures deals damage equal to its mana value to the other.</text>
+			<set rarity="uncommon" picurl="https://gayverygrove.github.io/sets/VAMP-files/img/30.png" num="57">VAMP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Eat the Rich</name>
+			<text>For each opponent, choose one—
+• Destroy target artifact that player controls.
+• That player sacrifices a creature or planeswalker with the highest mana value among creatures or planeswalkers they control.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VAMP-files/img/31.png" num="63">VAMP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2BR</manacost>
+				<cmc>4</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>The Masquerade</name>
+			<text>Whenever a creature deals damage, put a breach counter on it.
+Creatures without breach counters on them can&apos;t be blocked.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VAMP-files/img/32.png" num="21">VAMP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The Progeny</name>
+			<text>Whenever an opponent casts a creature spell, that player may have you create a tapped Treasure token. If they don&apos;t, they lose 2 life and you gain 2 life.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VAMP-files/img/33.png" num="30">VAMP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The Destruction</name>
+			<text>The Destruction deals 13 damage to each creature that dealt damage this turn.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VAMP-files/img/34.png" num="8">VAMP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>The Accounting</name>
+			<text>Whenever a nonlegendary creature is dealt damage, The Accounting deals that much damage to its controller. This ability triggers only once each turn for each player.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VAMP-files/img/35.png" num="38">VAMP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The Hospitality</name>
+			<text>Each player may put a legendary creature onto the battlefield from their hand or from the command zone.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VAMP-files/img/36.png" num="53">VAMP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Army of the Dragon</name>
+			<text>Sacrifice a nontoken creature: Create a 1/1 black Ghoul creature token that can&apos;t block and has &quot;When this creature dies, draw a card.&quot; Activate only during your turn.</text>
+			<set rarity="uncommon" picurl="https://gayverygrove.github.io/sets/VAMP-files/img/37.png" num="61">VAMP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>UB</manacost>
+				<cmc>2</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Sascha Vykos, Caine&apos;s Angel</name>
+			<text>[+1]: Create a 1/1 black Ghoul creature token that can&apos;t block and has &quot;When this creature dies, draw a card.&quot;
+[-2]: Remove any number of counters from target creature, then put your choice of two -1/-1 counters or two +1/+1 counters on it.
+[-5]: Each opponent loses life equal to the total power among creatures you control.
+Sascha Vykos, Caine&apos;s Angel can be your commander.</text>
+			<set rarity="mythic" picurl="https://gayverygrove.github.io/sets/VAMP-files/img/38.png" num="76">VAMP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Sascha</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>1BGU</manacost>
+				<cmc>4</cmc>
+				<colors>UBG</colors>
+				<coloridentity>UBG</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The Family Reunion</name>
+			<text>(You may cast a legendary sorcery only if you control a legendary creature or planeswalker.)
+Return any number of creature cards with total mana value 10 or less from your graveyard to the battlefield.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VAMP-files/img/39.png" num="26">VAMP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>The Red Question</name>
+			<text>Enchant creature
+You control enchanted creature.
+Enchanted creature has haste and is goaded.
+If enchanted creature would die, instead sacrifice The Red Question and enchanted creature gains indestructible until end of turn.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VAMP-files/img/40.png" num="46">VAMP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Blood Doll</name>
+			<text>{T}, Put a stun counter on Blood Doll: Target Vampire you control gains indestructible until end of turn.</text>
+			<set rarity="uncommon" picurl="https://gayverygrove.github.io/sets/VAMP-files/img/41.png" num="4">VAMP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>0/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Armies of Caine</name>
+			<text>Until end of turn, creatures you control gain trample and &quot;Whenever this creature deals combat damage to a player, destroy target artifact or enchantment that player controls&quot; and get +X/+X, where X is the number of creature tokens you control.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VAMP-files/img/42.png" num="50">VAMP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Parijat Rossellini</name>
+			<text>At the beginning of your end step, you may sacrifice another creature. When you do, return target creature card with mana value 3 or less from your graveyard to the battlefield with a wraith counter on it. It&apos;s a 1/1 Spirit creature with flying and decayed in addition to its other types. (It can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VAMP-files/img/43.png" num="29">VAMP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Vampire Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Imposing Grandeur</name>
+			<text>Each player may discard their hand and draw cards equal to the greatest mana value of a commander they own on the battlefield or in the command zone.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VAMP-files/img/44.png" num="44">VAMP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>On The Red List</name>
+			<text>Enchant creature
+Enchanted creature must block each turn if able and has &quot;When this creature dies, each opponent draws two cards.&quot;</text>
+			<set rarity="uncommon" picurl="https://gayverygrove.github.io/sets/VAMP-files/img/45.png" num="28">VAMP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Conchita Morales</name>
+			<text>As long as Conchita Morales is tapped, you may cast enchantment spells with mana value X or less from your graveyard. You can&apos;t cast more than X spells this way each turn. X is equal to Conchita Morales&apos;s power.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VAMP-files/img/46.png" num="6">VAMP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Vampire Bard</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Anselma, Troile&apos;s Bane</name>
+			<text>Vigilance
+Whenever Anselma attacks or blocks, another target creature phases out until your next turn. (Treat it and anything attached to it as though they don&apos;t exist until its controller&apos;s next turn.)
+Whenever another creature phases in, put a +1/+1 counter on Anselma.</text>
+			<set rarity="uncommon" picurl="https://gayverygrove.github.io/sets/VAMP-files/img/47.png" num="3">VAMP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Vampire</type>
+				<maintype>Creature</maintype>
+				<manacost>4W</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Kemintiri, of the Red List</name>
+			<text>Whenever one or more creatures deal combat damage to one of your opponents, put a loyalty counter on Kemintiri, of the Red List.
+[0]: Goad target creature. Until your next turn, Kemintiri becomes a copy of that creature, except she has her other abilities and she can&apos;t be blocked.
+[-3]: Gain control of target creature, then sacrifice it.
+Kemintiri can be your commander.</text>
+			<set rarity="special" picurl="https://gayverygrove.github.io/sets/VAMP-files/img/48.png" num="90">VAMP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Keminitri</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2WUB</manacost>
+				<cmc>5</cmc>
+				<colors>WUB</colors>
+				<coloridentity>WUB</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Touch of Oblivion</name>
+			<text>Exile target creature or planeswalker and each permanent attached to it.</text>
+			<set rarity="uncommon" picurl="https://gayverygrove.github.io/sets/VAMP-files/img/49.png" num="35">VAMP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>SchreckNet</name>
+			<text>Commanders your opponents control lose hexproof and can&apos;t have or gain hexproof.
+{T}, Pay 1 life: Draw a card. Activate this ability only if a legendary creature died this turn.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VAMP-files/img/50.png" num="80">VAMP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Where the Veil Thins</name>
+			<text>Choose any number of creature or planeswalker cards in your graveyard and put those cards into your hand. You lose 2 life for each card put into your hand this way.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VAMP-files/img/51.png" num="37">VAMP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Mora, Archbishop of Denver</name>
+			<text>When Mora, Archbishop of Denver enters the battlefield, create three 1/1 black Ghoul creature tokens that can&apos;t block and have &quot;When this creature dies, draw a card.&quot;
+Creature tokens you control have base power and toughness X/X, where X is Mora&apos;s power.</text>
+			<set rarity="mythic" picurl="https://gayverygrove.github.io/sets/VAMP-files/img/52.png" num="72">VAMP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Vampire Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>3BGU</manacost>
+				<cmc>6</cmc>
+				<colors>UBG</colors>
+				<coloridentity>UBG</coloridentity>
+				<pt>3/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Usurp</name>
+			<text>Destroy target creature. You and its controller each lose life equal to its power and draw that many cards.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VAMP-files/img/53.png" num="36">VAMP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Signs of Gehenna</name>
+			<text>Creatures you control have trample.
+Whenever a creature you don&apos;t control dies, put a +1/+1 counter on target creature you control.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VAMP-files/img/54.png" num="56">VAMP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Adler, Magnus&apos;s Sheriff</name>
+			<text>Feed (You may sacrifice another creature rather than pay the non-{T} costs of this card&apos;s activated abilities.)
+Your opponents can&apos;t pay life or sacrifice creatures to pay costs.
+{4}{W}: Creatures you control get +1/+1 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://gayverygrove.github.io/sets/VAMP-files/img/55.png" num="2">VAMP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Vampire Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shameless Caitiff</name>
+			<text>{T}: Draw two cards. Target opponent gains control of Shameless Caitiff. Activate only during your turn.</text>
+			<set rarity="uncommon" picurl="https://gayverygrove.github.io/sets/VAMP-files/img/56.png" num="47">VAMP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vampire Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>.44 Magnum</name>
+			<text>Whenever equipped creature attacks, it deals 1 damage to target creature defending player controls. Tap that creature.
+Equip {2}</text>
+			<set rarity="uncommon" picurl="https://gayverygrove.github.io/sets/VAMP-files/img/57.png" num="79">VAMP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Council&apos;s Judgment</name>
+			<text>Will of the council — Starting with you, each player votes for a nonland permanent you don&apos;t control. Exile each permanent with the most votes or tied for most votes.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VAMP-files/img/58.png" num="7">VAMP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Magnus, Prince of Portland</name>
+			<text>You may look at the top card of your library any time.
+You may play lands and cast spells from the top of your library.
+Once each turn, you may cast a spell from the top of your library by discarding a card rather than paying its mana cost.</text>
+			<set rarity="mythic" picurl="https://gayverygrove.github.io/sets/VAMP-files/img/59.png" num="70">VAMP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Vampire Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>2WUB</manacost>
+				<cmc>5</cmc>
+				<colors>WUB</colors>
+				<coloridentity>WUB</coloridentity>
+				<pt>1/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tenebrous Form</name>
+			<text>Enchant creature
+Enchanted creature has shadow and base power and toughness 1/1. (That creature can block or be blocked by only creatures with shadow.)
+When enchanted creature dies, return that card to its owner&apos;s hand.</text>
+			<set rarity="uncommon" picurl="https://gayverygrove.github.io/sets/VAMP-files/img/60.png" num="33">VAMP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Sister Evangeline&apos;s Cell</name>
+			<text>Humans you control enter the battlefield with your choice of a vigilance or menace counter on them.
+Whenever a nontoken Human you don&apos;t control dies, you may return it to the battlefield under your control. Do this only once each turn.</text>
+			<set rarity="special" picurl="https://gayverygrove.github.io/sets/VAMP-files/img/61.png" num="91">VAMP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>3WB</manacost>
+				<cmc>5</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Apocalypse is Here</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Each player mills three cards, then returns up to one creature card from their graveyard to their hand.
+II — Put two +1/+1 counters on target creature you control. It becomes a Werewolf. (It loses all other types.)
+III — Target Werewolf you control fights target creature you don&apos;t control. Return The Apocalypse is Here to its owner&apos;s hand.</text>
+			<set rarity="special" picurl="https://gayverygrove.github.io/sets/VAMP-files/img/62.png" num="89">VAMP</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Vozhd</name>
+			<text>Vozhd can&apos;t be blocked by creatures with power 2 or less.
+If you would create a creature token, you may instead put two +1/+1 counters on Vozhd.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VAMP-files/img/63.png" num="58">VAMP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ghoul Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Thin-Blood Alchemy</name>
+			<text>Surveil 2, then draw a card.
+{3}{U}, Exile Thin-Blood Alchemy from your graveyard: Copy target instant or sorcery spell you control. You may choose new targets for the copy.</text>
+			<set rarity="uncommon" picurl="https://gayverygrove.github.io/sets/VAMP-files/img/64.png" num="24">VAMP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Deborah, Mora&apos;s Hound</name>
+			<text>Menace
+Deborah, Mora&apos;s Hound can&apos;t block.
+Deborah enters under the control of an opponent of your choice.
+Whenever you cast a noncreature spell, Deborah&apos;s owner puts a +1/+1 counter on each creature they control.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VAMP-files/img/65.png" num="62">VAMP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Vampire Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1BG</manacost>
+				<cmc>3</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rogue&apos;s Passage</name>
+			<text>{T}: Add {C}.
+{4}, {T}: Target creature can&apos;t be blocked this turn.</text>
+			<set rarity="uncommon" picurl="https://gayverygrove.github.io/sets/VAMP-files/img/66.png" num="87">VAMP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>The Information Highway</name>
+			<text>{T}: Each player draws a card, then exiles a card from their hand. They may play that card for as long as it remains exiled.
+Whenever you cast a spell from anywhere other than your hand, you may pay {U}{B}{R}. If you do, copy that spell. You may choose new targets for the copies.</text>
+			<set rarity="mythic" picurl="https://gayverygrove.github.io/sets/VAMP-files/img/67.png" num="20">VAMP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>UBR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mx. Klimovets</name>
+			<text>Trample
+Each player&apos;s maximum hand size is equal to the greatest power among creatures they control.
+Whenever Mx. Klimovets deals combat damage to a player, you may discard your hand. If one or more cards are discarded this way, draw cards equal to your maximum hand size.</text>
+			<set rarity="mythic" picurl="https://gayverygrove.github.io/sets/VAMP-files/img/68.png" num="73">VAMP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Vampire</type>
+				<maintype>Creature</maintype>
+				<manacost>2BRG</manacost>
+				<cmc>5</cmc>
+				<colors>BRG</colors>
+				<coloridentity>BRG</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Domain</name>
+			<text>Each opponent skips their next combat phase. Exile The Domain.
+Draw a card.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VAMP-files/img/69.png" num="9">VAMP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Betrayal</name>
+			<text>Enchant creature an opponent controls
+Whenever enchanted creature becomes tapped, you draw a card.</text>
+			<set rarity="uncommon" picurl="https://gayverygrove.github.io/sets/VAMP-files/img/70.png" num="16">VAMP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Shovelheads</name>
+			<text>Myriad (Whenever this creature attacks, for each opponent other than defending player, you may create a token copy of this creature that&apos;s tapped and attacking that player or a planeswalker they control. Exile the tokens at end of combat.)
+Escape—{2}{B}{B}, Exile four other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)</text>
+			<set rarity="uncommon" picurl="https://gayverygrove.github.io/sets/VAMP-files/img/71.png" num="32">VAMP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vampire Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Emergency Bloodbags</name>
+			<text>Whenever you attack, create a Blood token. (It&apos;s an artifact with &quot;{1}, {T}, Discard a card, Sacrifice this token: Draw a card.&quot;)
+You may sacrifice Blood tokens as though they were creatures to pay the costs of spells and activated abilities.</text>
+			<set rarity="uncommon" picurl="https://gayverygrove.github.io/sets/VAMP-files/img/72.png" num="43">VAMP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Dominate</name>
+			<text>Gain control of target creature with mana value X or less.</text>
+			<set rarity="uncommon" picurl="https://gayverygrove.github.io/sets/VAMP-files/img/73.png" num="18">VAMP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>X1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Rewilding</name>
+			<text>For each opponent, destroy up to one target artifact, enchantment, or nonbasic land that player controls. For each land destroyed this way, its controller creates a tapped colorless Forest token.</text>
+			<set rarity="uncommon" picurl="https://gayverygrove.github.io/sets/VAMP-files/img/74.png" num="55">VAMP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Nosferatu Insider</name>
+			<text>Flash
+When Nosferatu Insider enters the battlefield, until end of turn, whenever a creature deals combat damage to one of your opponents, you may draw a card.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VAMP-files/img/75.png" num="22">VAMP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vampire Spy</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Embrace</name>
+			<text>As an additional cost to cast a creature spell, you may sacrifice a creature you control. If you do, that spell costs {2} less to cast. Do this only once each turn.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VAMP-files/img/76.png" num="52">VAMP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Access Tunnel</name>
+			<text>{T}: Add {C}.
+{3}, {T}: Target creature with power 3 or less can&apos;t be blocked this turn.</text>
+			<set rarity="uncommon" picurl="https://gayverygrove.github.io/sets/VAMP-files/img/77.png" num="81">VAMP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Smothering Tithe</name>
+			<text>Whenever an opponent draws a card, that player may pay {2}. If the player doesn&apos;t, you create a Treasure token.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VAMP-files/img/78.png" num="14">VAMP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Hunt the Beast</name>
+			<text>Split second (As long as this spell is on the stack, players can&apos;t cast spells or activate abilities that aren&apos;t mana abilities.)
+Exile target tapped creature.</text>
+			<set rarity="uncommon" picurl="https://gayverygrove.github.io/sets/VAMP-files/img/79.png" num="11">VAMP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Presence</name>
+			<text>At the beginning of combat on each opponent&apos;s turn, choose up to one target creature. That creature attacks this turn if able. You choose how that creature attacks or blocks this turn.</text>
+			<set rarity="uncommon" picurl="https://gayverygrove.github.io/sets/VAMP-files/img/80.png" num="45">VAMP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Blasphemous Act</name>
+			<text>This spell costs {1} less to cast for each creature on the battlefield.
+Blasphemous Act deals 13 damage to each creature.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VAMP-files/img/81.png" num="39">VAMP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>8R</manacost>
+				<cmc>9</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Potence</name>
+			<text>Target creature you control fights target creature you don&apos;t control.
+At the beginning of your end step, if a creature you control fought this turn, return Potence from your graveyard to your hand. (It must survive the fight.)</text>
+			<set rarity="uncommon" picurl="https://gayverygrove.github.io/sets/VAMP-files/img/82.png" num="54">VAMP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Auspex</name>
+			<text>Draw a card, then choose one —
+• Counter target spell that targets a permanent you control.
+• Goad target creature. It can&apos;t be blocked this turn.</text>
+			<set rarity="uncommon" picurl="https://gayverygrove.github.io/sets/VAMP-files/img/83.png" num="15">VAMP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Celerity</name>
+			<text>Creatures you control have haste.
+{2}{R}: Until end of turn, target creature you control can&apos;t be blocked except by creatures with haste.</text>
+			<set rarity="uncommon" picurl="https://gayverygrove.github.io/sets/VAMP-files/img/84.png" num="41">VAMP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Resistentia</name>
+			<text>Enchant creature
+Untap enchanted creature during each other player&apos;s untap step.
+Prevent all damage that would be dealt to enchanted creature during your turn.</text>
+			<set rarity="uncommon" picurl="https://gayverygrove.github.io/sets/VAMP-files/img/85.png" num="12">VAMP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Shara, Rogue Variable</name>
+			<text>Haste
+At the beginning of each player&apos;s upkeep, if that player controls the creature with the greatest power, that player gains control of Shara and puts a +1/+1 counter on her.
+When Shara dies, she deals damage equal to her power to you.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VAMP-files/img/86.png" num="48">VAMP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Vampire Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shakedown Specialist</name>
+			<text>Menace
+Whenever Shakedown Specialist attacks, defending player may have you draw a card. If they do, untap Shakedown Specialist and remove it from combat.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VAMP-files/img/87.png" num="31">VAMP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vampire Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>6/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Feast of Blood</name>
+			<text>Cast this spell only if you control two or more Vampires.
+Destroy target creature. You gain 4 life.</text>
+			<set rarity="uncommon" picurl="https://gayverygrove.github.io/sets/VAMP-files/img/88.png" num="27">VAMP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Earth Meld</name>
+			<text>Strive — This spell costs {1} more to cast for each target beyond the first.
+Until your next turn, any number of target creatures you control become colorless lands. (They&apos;re not creatures and still have their abilities.)</text>
+			<set rarity="uncommon" picurl="https://gayverygrove.github.io/sets/VAMP-files/img/89.png" num="51">VAMP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Szlachta</name>
+			<text>{T}: Draw a card, then discard a card.
+Whenever your commander enters the battlefield or attacks, untap Szlachta.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VAMP-files/img/90.png" num="23">VAMP</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ghoul</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

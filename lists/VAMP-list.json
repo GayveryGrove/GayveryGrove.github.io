@@ -1,0 +1,933 @@
+﻿[
+    {
+        "card_name": "Camarilla Games",
+        "number": 5,
+        "shape": "normal",
+        "set": "VAMP",
+        "rotated": false,
+        "position": "10"
+    },
+    {
+        "card_name": "The Information Highway",
+        "number": 20,
+        "shape": "normal",
+        "set": "VAMP",
+        "rotated": false,
+        "position": "67"
+    },
+    {
+        "card_name": "Bianca Giovanni",
+        "number": 25,
+        "shape": "normal",
+        "set": "VAMP",
+        "rotated": false,
+        "position": "21"
+    },
+    {
+        "card_name": "The Accounting",
+        "number": 38,
+        "shape": "normal",
+        "set": "VAMP",
+        "rotated": false,
+        "position": "35"
+    },
+    {
+        "card_name": "The Armies of Caine",
+        "number": 50,
+        "shape": "normal",
+        "set": "VAMP",
+        "rotated": false,
+        "position": "42"
+    },
+    {
+        "card_name": "Conchita Morales",
+        "number": 6,
+        "shape": "normal",
+        "set": "VAMP",
+        "rotated": false,
+        "position": "46"
+    },
+    {
+        "card_name": "Defense of the Sacred Haven",
+        "number": 17,
+        "shape": "normal",
+        "set": "VAMP",
+        "rotated": false,
+        "position": "24"
+    },
+    {
+        "card_name": "The Family Reunion",
+        "number": 26,
+        "shape": "normal",
+        "set": "VAMP",
+        "rotated": false,
+        "position": "39"
+    },
+    {
+        "card_name": "Blasphemous Act",
+        "number": 39,
+        "shape": "normal",
+        "set": "VAMP",
+        "rotated": false,
+        "position": "81"
+    },
+    {
+        "card_name": "The Embrace",
+        "number": 52,
+        "shape": "normal",
+        "set": "VAMP",
+        "rotated": false,
+        "position": "76"
+    },
+    {
+        "card_name": "Council's Judgment",
+        "number": 7,
+        "shape": "normal",
+        "set": "VAMP",
+        "rotated": false,
+        "position": "58"
+    },
+    {
+        "card_name": "Frog",
+        "number": 19,
+        "shape": "normal",
+        "set": "VAMP",
+        "rotated": false,
+        "position": "29"
+    },
+    {
+        "card_name": "Parijat Rossellini",
+        "number": 29,
+        "shape": "normal",
+        "set": "VAMP",
+        "rotated": false,
+        "position": "43"
+    },
+    {
+        "card_name": "City on the Brink",
+        "number": 42,
+        "shape": "normal",
+        "set": "VAMP",
+        "rotated": false,
+        "position": "14"
+    },
+    {
+        "card_name": "The Hospitality",
+        "number": 53,
+        "shape": "normal",
+        "set": "VAMP",
+        "rotated": false,
+        "position": "36"
+    },
+    {
+        "card_name": "The Destruction",
+        "number": 8,
+        "shape": "normal",
+        "set": "VAMP",
+        "rotated": false,
+        "position": "34"
+    },
+    {
+        "card_name": "The Masquerade",
+        "number": 21,
+        "shape": "normal",
+        "set": "VAMP",
+        "rotated": false,
+        "position": "32"
+    },
+    {
+        "card_name": "The Progeny",
+        "number": 30,
+        "shape": "normal",
+        "set": "VAMP",
+        "rotated": false,
+        "position": "33"
+    },
+    {
+        "card_name": "Imposing Grandeur",
+        "number": 44,
+        "shape": "normal",
+        "set": "VAMP",
+        "rotated": false,
+        "position": "44"
+    },
+    {
+        "card_name": "Signs of Gehenna",
+        "number": 56,
+        "shape": "normal",
+        "set": "VAMP",
+        "rotated": false,
+        "position": "54"
+    },
+    {
+        "card_name": "The Domain",
+        "number": 9,
+        "shape": "normal",
+        "set": "VAMP",
+        "rotated": false,
+        "position": "69"
+    },
+    {
+        "card_name": "Nosferatu Insider",
+        "number": 22,
+        "shape": "normal",
+        "set": "VAMP",
+        "rotated": false,
+        "position": "75"
+    },
+    {
+        "card_name": "Shakedown Specialist",
+        "number": 31,
+        "shape": "normal",
+        "set": "VAMP",
+        "rotated": false,
+        "position": "87"
+    },
+    {
+        "card_name": "The Red Question",
+        "number": 46,
+        "shape": "normal",
+        "set": "VAMP",
+        "rotated": false,
+        "position": "40"
+    },
+    {
+        "card_name": "Vozhd",
+        "number": 58,
+        "shape": "normal",
+        "set": "VAMP",
+        "rotated": false,
+        "position": "63"
+    },
+    {
+        "card_name": "Forever Wandering",
+        "number": 10,
+        "shape": "normal",
+        "set": "VAMP",
+        "rotated": false,
+        "position": "27"
+    },
+    {
+        "card_name": "Szlachta",
+        "number": 23,
+        "shape": "normal",
+        "set": "VAMP",
+        "rotated": false,
+        "position": "90"
+    },
+    {
+        "card_name": "Usurp",
+        "number": 36,
+        "shape": "normal",
+        "set": "VAMP",
+        "rotated": false,
+        "position": "53"
+    },
+    {
+        "card_name": "Shara, Rogue Variable",
+        "number": 48,
+        "shape": "normal",
+        "set": "VAMP",
+        "rotated": false,
+        "position": "86"
+    },
+    {
+        "card_name": "Earth Meld",
+        "number": 51,
+        "shape": "normal",
+        "set": "VAMP",
+        "rotated": false,
+        "position": "89"
+    },
+    {
+        "card_name": "Smothering Tithe",
+        "number": 14,
+        "shape": "normal",
+        "set": "VAMP",
+        "rotated": false,
+        "position": "78"
+    },
+    {
+        "card_name": "Auspex",
+        "number": 15,
+        "shape": "normal",
+        "set": "VAMP",
+        "rotated": false,
+        "position": "83"
+    },
+    {
+        "card_name": "Where the Veil Thins",
+        "number": 37,
+        "shape": "normal",
+        "set": "VAMP",
+        "rotated": false,
+        "position": "51"
+    },
+    {
+        "card_name": "Smiling Jack, Anarch Legend",
+        "number": 49,
+        "shape": "normal",
+        "set": "VAMP",
+        "rotated": false,
+        "position": "11"
+    },
+    {
+        "card_name": "Potence",
+        "number": 54,
+        "shape": "normal",
+        "set": "VAMP",
+        "rotated": false,
+        "position": "82"
+    },
+    {
+        "card_name": "Adler, Magnus's Sheriff",
+        "number": 2,
+        "shape": "normal",
+        "set": "VAMP",
+        "rotated": false,
+        "position": "55"
+    },
+    {
+        "card_name": "Betrayal",
+        "number": 16,
+        "shape": "normal",
+        "set": "VAMP",
+        "rotated": false,
+        "position": "70"
+    },
+    {
+        "card_name": "Feast of Blood",
+        "number": 27,
+        "shape": "normal",
+        "set": "VAMP",
+        "rotated": false,
+        "position": "88"
+    },
+    {
+        "card_name": "Cauldron of Blood",
+        "number": 40,
+        "shape": "normal",
+        "set": "VAMP",
+        "rotated": false,
+        "position": "23"
+    },
+    {
+        "card_name": "Rewilding",
+        "number": 55,
+        "shape": "normal",
+        "set": "VAMP",
+        "rotated": false,
+        "position": "74"
+    },
+    {
+        "card_name": "Anselma, Troile's Bane",
+        "number": 3,
+        "shape": "normal",
+        "set": "VAMP",
+        "rotated": false,
+        "position": "47"
+    },
+    {
+        "card_name": "Dominate",
+        "number": 18,
+        "shape": "normal",
+        "set": "VAMP",
+        "rotated": false,
+        "position": "73"
+    },
+    {
+        "card_name": "On The Red List",
+        "number": 28,
+        "shape": "normal",
+        "set": "VAMP",
+        "rotated": false,
+        "position": "45"
+    },
+    {
+        "card_name": "Celerity",
+        "number": 41,
+        "shape": "normal",
+        "set": "VAMP",
+        "rotated": false,
+        "position": "84"
+    },
+    {
+        "card_name": "Title Fight",
+        "number": 57,
+        "shape": "normal",
+        "set": "VAMP",
+        "rotated": false,
+        "position": "30"
+    },
+    {
+        "card_name": "Blood Doll",
+        "number": 4,
+        "shape": "normal",
+        "set": "VAMP",
+        "rotated": false,
+        "position": "41"
+    },
+    {
+        "card_name": "Thin-Blood Alchemy",
+        "number": 24,
+        "shape": "normal",
+        "set": "VAMP",
+        "rotated": false,
+        "position": "64"
+    },
+    {
+        "card_name": "Shovelheads",
+        "number": 32,
+        "shape": "normal",
+        "set": "VAMP",
+        "rotated": false,
+        "position": "71"
+    },
+    {
+        "card_name": "Emergency Bloodbags",
+        "number": 43,
+        "shape": "normal",
+        "set": "VAMP",
+        "rotated": false,
+        "position": "72"
+    },
+    {
+        "card_name": "The Apocalypse is Here",
+        "number": 89,
+        "shape": "saga",
+        "set": "VAMP",
+        "rotated": false,
+        "position": "62"
+    },
+    {
+        "card_name": "Hunt the Beast",
+        "number": 11,
+        "shape": "normal",
+        "set": "VAMP",
+        "rotated": false,
+        "position": "79"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Tenebrous Form",
+        "number": 33,
+        "shape": "normal",
+        "set": "VAMP",
+        "rotated": false,
+        "position": "60"
+    },
+    {
+        "card_name": "Presence",
+        "number": 45,
+        "shape": "normal",
+        "set": "VAMP",
+        "rotated": false,
+        "position": "80"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Resistentia",
+        "number": 12,
+        "shape": "normal",
+        "set": "VAMP",
+        "rotated": false,
+        "position": "85"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Theft of Vitae",
+        "number": 34,
+        "shape": "normal",
+        "set": "VAMP",
+        "rotated": false,
+        "position": "22"
+    },
+    {
+        "card_name": "Shameless Caitiff",
+        "number": 47,
+        "shape": "normal",
+        "set": "VAMP",
+        "rotated": false,
+        "position": "56"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Slayer of the Wicked",
+        "number": 13,
+        "shape": "normal",
+        "set": "VAMP",
+        "rotated": false,
+        "position": "12"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Touch of Oblivion",
+        "number": 35,
+        "shape": "normal",
+        "set": "VAMP",
+        "rotated": false,
+        "position": "49"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->gold",
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Scratch, Sewer Informant",
+        "number": 77,
+        "shape": "normal",
+        "set": "VAMP",
+        "rotated": false,
+        "position": "5"
+    },
+    {
+        "card_name": "Eat the Rich",
+        "number": 63,
+        "shape": "normal",
+        "set": "VAMP",
+        "rotated": false,
+        "position": "31"
+    },
+    {
+        "card_name": "Intimidation Tactics",
+        "number": 69,
+        "shape": "normal",
+        "set": "VAMP",
+        "rotated": false,
+        "position": "25"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Army of the Dragon",
+        "number": 61,
+        "shape": "normal",
+        "set": "VAMP",
+        "rotated": false,
+        "position": "37"
+    },
+    {
+        "card_name": "Emery, Muse of the Night",
+        "number": 65,
+        "shape": "normal",
+        "set": "VAMP",
+        "rotated": false,
+        "position": "4"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Alicia, Spiteful Schemer",
+        "number": 59,
+        "shape": "normal",
+        "set": "VAMP",
+        "rotated": false,
+        "position": "7"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Anything For My Master",
+        "number": 60,
+        "shape": "normal",
+        "set": "VAMP",
+        "rotated": false,
+        "position": "28"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Fleshcrafting",
+        "number": 66,
+        "shape": "normal",
+        "set": "VAMP",
+        "rotated": false,
+        "position": "26"
+    },
+    {
+        "card_name": "Sister Evangeline's Cell",
+        "number": 91,
+        "shape": "normal",
+        "set": "VAMP",
+        "rotated": false,
+        "position": "61"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Deborah, Mora's Hound",
+        "number": 62,
+        "shape": "normal",
+        "set": "VAMP",
+        "rotated": false,
+        "position": "65"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Hope, Serpent's Tongue",
+        "number": 68,
+        "shape": "normal",
+        "set": "VAMP",
+        "rotated": false,
+        "position": "13"
+    },
+    {
+        "card_name": "Opal, Prince of Lincoln",
+        "number": 74,
+        "shape": "normal",
+        "set": "VAMP",
+        "rotated": false,
+        "position": "1"
+    },
+    {
+        "card_name": "Mx. Klimovets",
+        "number": 73,
+        "shape": "normal",
+        "set": "VAMP",
+        "rotated": false,
+        "position": "68"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Magnus, Prince of Portland",
+        "number": 70,
+        "shape": "normal",
+        "set": "VAMP",
+        "rotated": false,
+        "position": "59"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Xanthe, Baron of Seattle",
+        "number": 78,
+        "shape": "normal",
+        "set": "VAMP",
+        "rotated": false,
+        "position": "3"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Kemintiri, of the Red List",
+        "number": 90,
+        "shape": "planeswalker",
+        "set": "VAMP",
+        "rotated": false,
+        "position": "48"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Em, Prince of Houston",
+        "number": 64,
+        "shape": "normal",
+        "set": "VAMP",
+        "rotated": false,
+        "position": "0"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Gabriel, Salvation Seeker",
+        "number": 67,
+        "shape": "normal",
+        "set": "VAMP",
+        "rotated": false,
+        "position": "9"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Mora, Archbishop of Denver",
+        "number": 72,
+        "shape": "normal",
+        "set": "VAMP",
+        "rotated": false,
+        "position": "52"
+    },
+    {
+        "card_name": "Midora, Alicia's Eye",
+        "number": 71,
+        "shape": "normal",
+        "set": "VAMP",
+        "rotated": false,
+        "position": "8"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Orion, Prince of Nothing",
+        "number": 75,
+        "shape": "normal",
+        "set": "VAMP",
+        "rotated": false,
+        "position": "2"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "Sascha Vykos, Caine's Angel",
+        "number": 76,
+        "shape": "planeswalker",
+        "set": "VAMP",
+        "rotated": false,
+        "position": "38"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->colorless",
+    {
+        "card_name": "SchreckNet",
+        "number": 80,
+        "shape": "normal",
+        "set": "VAMP",
+        "rotated": false,
+        "position": "50"
+    },
+    {
+        "card_name": ".44 Magnum",
+        "number": 79,
+        "shape": "normal",
+        "set": "VAMP",
+        "rotated": false,
+        "position": "57"
+    },
+    {
+        "card_name": "reminder about the watermarks",
+        "number": 1,
+        "shape": "normal",
+        "set": "VAMP",
+        "rotated": false,
+        "position": "6"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Access Tunnel",
+        "number": 81,
+        "shape": "normal",
+        "set": "VAMP",
+        "rotated": false,
+        "position": "77"
+    },
+    {
+        "card_name": "Cheap Apartment",
+        "number": 82,
+        "shape": "normal",
+        "set": "VAMP",
+        "rotated": false,
+        "position": "19"
+    },
+    {
+        "card_name": "Condemned Church",
+        "number": 83,
+        "shape": "normal",
+        "set": "VAMP",
+        "rotated": false,
+        "position": "15"
+    },
+    {
+        "card_name": "Penthouse Suite",
+        "number": 84,
+        "shape": "normal",
+        "set": "VAMP",
+        "rotated": false,
+        "position": "16"
+    },
+    {
+        "card_name": "Quiet Study",
+        "number": 85,
+        "shape": "normal",
+        "set": "VAMP",
+        "rotated": false,
+        "position": "20"
+    },
+    {
+        "card_name": "Roadside Hotel",
+        "number": 86,
+        "shape": "normal",
+        "set": "VAMP",
+        "rotated": false,
+        "position": "18"
+    },
+    {
+        "card_name": "Rogue's Passage",
+        "number": 87,
+        "shape": "normal",
+        "set": "VAMP",
+        "rotated": false,
+        "position": "66"
+    },
+    {
+        "card_name": "Suburban Palace",
+        "number": 88,
+        "shape": "normal",
+        "set": "VAMP",
+        "rotated": false,
+        "position": "17"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    }
+]

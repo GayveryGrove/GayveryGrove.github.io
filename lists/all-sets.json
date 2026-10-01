@@ -1,1 +1,19 @@
-﻿{"sets": [{"set_code": "SRB", "set_name": "Surviving Suburbia", "formats": ""}, {"set_code": "VHS", "set_name": "Video Horror System", "formats": "MSEM"}]}
+﻿{
+    "sets": [
+        {
+            "set_code": "SRB",
+            "set_name": "Surviving Suburbia",
+            "formats": ""
+        },
+        {
+            "set_code": "VAMP",
+            "set_name": "Vampire: The Masquerade",
+            "formats": "EDH"
+        },
+        {
+            "set_code": "VHS",
+            "set_name": "Video Horror System",
+            "formats": "MSEM"
+        }
+    ]
+}

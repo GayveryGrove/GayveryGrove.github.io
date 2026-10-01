@@ -1,0 +1,1554 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>VHS</name>
+			<longname>Video Horror System</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-09-30</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Waking Watcher</name>
+			<text>At the beginning of your upkeep, each player discards a card.
+Whenever Waking Watcher attacks, if defending player has no cards in hand, it gets +3/+3 and gains menace until end of turn.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VHS-files/img/39_Waking Watcher.png" num="39">VHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Botched Experiment</name>
+			<text>Whenever a creature you control deals combat damage to a player, you may sacrifice it. If you do, draw cards equal to that creature&apos;s power.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VHS-files/img/15_Botched Experiment.png" num="15">VHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Remain Unawares</name>
+			<text>Choose a creature. Exile the rest.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VHS-files/img/11_Remain Unawares.png" num="11">VHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>5WW</manacost>
+				<cmc>7</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Roadside Reaper</name>
+			<text>First strike
+Whenever a creature dealt damage by Roadside Reaper this turn dies, you may discard a card. If you do, put a +1/+1 counter on Roadside Reaper and draw a card.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VHS-files/img/50_Roadside Reaper.png" num="50">VHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Brutalize</name>
+			<text>Target opponent sacrifices a creature.
+Rerun (Then if you cast this from your hand, exile it as it resolves. Whenever a creature you control dies, you may cast this card from exile without paying its mana cost.)</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VHS-files/img/29_Brutalize.png" num="29">VHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Unstoppable Slaughter</name>
+			<text>Unstoppable Slaughter deals 1 damage to each creature and each player. Whenever a creature dealt damage by Unstoppable Slaughter this turn dies this turn, repeat that process.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VHS-files/img/52_Unstoppable Slaughter.png" num="52">VHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>The Collection</name>
+			<text>Instant and sorcery spells you control have rerun. (Exile the spell as it resolves if you cast it from your hand. Whenever a creature you control dies, you may cast that card from exile without paying its mana cost.)</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VHS-files/img/76_The Collection.png" num="76">VHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>5</manacost>
+				<cmc>5</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Bedfellow</name>
+			<text>Bedfellow can&apos;t block or be blocked.
+Exile two cards from your graveyard: Bedfellow gets +1/+1 until end of turn.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VHS-files/img/28_Bedfellow.png" num="28">VHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Demented Host</name>
+			<text>Trample
+At the beginning of your upkeep, sacrifice another creature. If you do, put X +1/+1 counters on Demented Host, where X is that creature&apos;s power.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VHS-files/img/56_Demented Host.png" num="56">VHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Insect Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Living Broadcast</name>
+			<text>Living Broadcast can&apos;t block.
+Whenever you cast a spell from exile, you may return Living Broadcast from your graveyard to your hand.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VHS-files/img/33_Living Broadcast.png" num="33">VHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sheltered Snowman</name>
+			<text>Ward {2}
+Whenever you cast a spell from exile, put a +1/+1 counter on Sheltered Snowman. It can&apos;t be blocked this turn.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VHS-files/img/21_Sheltered Snowman.png" num="21">VHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Yeti</type>
+				<maintype>Creature</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Final Findings</name>
+			<text>Draw two cards.
+Rerun (Then if you cast this from your hand, exile it as it resolves. Whenever a creature you control dies, you may cast this card from exile without paying its mana cost.)</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VHS-files/img/18_Final Findings.png" num="18">VHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Derange</name>
+			<text>Target player discards two cards.
+Rerun (Then if you cast this from your hand, exile it as it resolves. Whenever a creature you control dies, you may cast this card from exile without paying its mana cost.)</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VHS-files/img/30_Derange.png" num="30">VHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Librarian of Whispers</name>
+			<text>Lifelink
+If a creature or planeswalker would die, instead exile it and put a +1/+1 counter on Librarian of Whispers.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VHS-files/img/5_Librarian of Whispers.png" num="5">VHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Catastrophic Crash</name>
+			<text>Choose one. If you&apos;re horrific, you may choose both instead. (You&apos;re horrific as long as you&apos;ve sacrificed a permanent or discarded a card this turn.)
+• Destroy target artifact.
+• Catastrophic Crash deals 3 damage to target creature.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VHS-files/img/42_Catastrophic Crash.png" num="42">VHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>RR</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Misshapen Monstrosity</name>
+			<text>Other creatures you control get +2/+0 and have menace.
+Whenever another creature you control dies, if it wasn&apos;t sacrificed, sacrifice a creature.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VHS-files/img/49_Misshapen Monstrosity.png" num="49">VHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Frozen Over</name>
+			<text>Put target creature on the bottom of its owner&apos;s library. That player reveals cards from the top of their library until they reveal a creature card, then puts all cards revealed this way into their graveyard.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VHS-files/img/19_Frozen Over.png" num="19">VHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>5U</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Bloody Valentine</name>
+			<text>At the beginning of each player&apos;s end step, Bloody Valentine deals 2 damage to that player unless they&apos;re horrific. (You&apos;re horrific as long as you&apos;ve sacrificed a permanent or discarded a card this turn.)</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VHS-files/img/41_Bloody Valentine.png" num="41">VHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Swarm of the Damned</name>
+			<text>At the beginning of each end step, create X 1/1 white Spirit creature tokens with flying, where X is the number of nontoken creatures that died this turn.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VHS-files/img/12_Swarm of the Damned.png" num="12">VHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Avenger of Nature</name>
+			<text>Trample
+Whenever a player casts a noncreature spell, that player sacrifices a noncreature permanent.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VHS-files/img/53_Avenger of Nature.png" num="53">VHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elk Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Malformed Mongrel</name>
+			<text>Haste
+Whenever Malformed Mongrel deals combat damage to a player, discard a card.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VHS-files/img/48_Malformed Mongrel.png" num="48">VHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Hound Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Subway Shambler</name>
+			<text>Subway Shambler can&apos;t be blocked by creatures with lesser power.
+At the beginning of each end step, if you&apos;re horrific, put a +1/+1 counter on Subway Shambler. (You&apos;re horrific as long as you&apos;ve sacrificed a permanent or discarded a card this turn.)</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VHS-files/img/64_Subway Shambler.png" num="64">VHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Exorcise</name>
+			<text>Exile target creature. Search its controller&apos;s graveyard and library for all cards with the same name as that creature and exile them. Then that player shuffles.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VHS-files/img/2_Exorcise.png" num="2">VHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>From Within the Dark</name>
+			<text>Whenever a creature enters the battlefield under your control for the first time each turn, you may sacrifice it. If you do, exile cards from the top of your library until you exile a creature card. Put that card onto the battlefield.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VHS-files/img/46_From Within the Dark.png" num="46">VHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Wiretapper</name>
+			<text>Flash
+When Wiretapper enters the battlefield, choose one—
+• Exile target spell. For as long as it remains exiled, its owner can cast it. Spells cast this way cost {2} more to cast.
+• Copy target spell. You may cast the copy.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VHS-files/img/26_Wiretapper.png" num="26">VHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Otherworldly Passage</name>
+			<text>Exile any number of target creatures you control. At the beginning of the next end step, return each creature card exiled this way and each creature card put into your graveyard from the battlefield this turn to the battlefield tapped.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VHS-files/img/9_Otherworldly Passage.png" num="9">VHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Veil of Innocence</name>
+			<text>As long as you control exactly one creature, no more than one creature can attack or block each combat.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VHS-files/img/13_Veil of Innocence.png" num="13">VHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Friends from the Beyond</name>
+			<text>At the beginning of your end step, if you own a card in exile, create a 1/1 white Spirit creature token with flying.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VHS-files/img/3_Friends from the Beyond.png" num="3">VHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ominous Discovery</name>
+			<text>Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.
+Rerun (Then if you cast this from your hand, exile it as it resolves. Whenever a creature you control dies, you may cast this card from exile without paying its mana cost.)</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VHS-files/img/20_Ominous Discovery.png" num="20">VHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Unseen Maniac</name>
+			<text>Discard a card: Unseen Maniac gets +1/+1 and can&apos;t be blocked this turn.
+Whenever Unseen Maniac deals combat damage to a player, draw a card.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VHS-files/img/24_Unseen Maniac.png" num="24">VHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Something in the Shadows</name>
+			<text>Look at the top five cards of your library. You may reveal a nonland card from among them. If you do, put that card into your hand and cast a copy of it without paying its mana cost. Put the rest into your graveyard.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VHS-files/img/23_Something in the Shadows.png" num="23">VHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Snowfield Doppelganger</name>
+			<text>You may have Snowfield Doppelganger enter the battlefield as a copy of any creature on the battlefield, except it has &quot;While a player is choosing targets as part of casting a spell, that player must choose at least one other creature with the same name as this creature if able.&quot;</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VHS-files/img/22_Snowfield Doppelganger.png" num="22">VHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Shapeshifter</type>
+				<maintype>Creature</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Whispering Paranoia</name>
+			<text>Whenever an opponent casts a spell, that player mills X cards, where X is that spell&apos;s mana value.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VHS-files/img/25_Whispering Paranoia.png" num="25">VHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Lepidopteradator</name>
+			<text>Flying
+At the beginning of your end step, if you&apos;re horrific, put a +1/+1 counter on Lepidopteradator. Otherwise, sacrifice it. (You&apos;re horrific as long as you&apos;ve sacrificed a permanent or discarded a card this turn.)</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VHS-files/img/32_Lepidopteradator.png" num="32">VHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Abhorrent Confidant</name>
+			<text>At the beginning of your end step, if you&apos;re horrific, you draw a card and you lose life equal to the number of cards in your hand. (You&apos;re horrific as long as you&apos;ve sacrificed a permanent or discarded a card this turn.)</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VHS-files/img/27_Abhorrent Confidant.png" num="27">VHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>End of the Rainbow</name>
+			<text>As an additional cost to cast this spell, sacrifice a creature.
+Create X Treasure tokens, where X is the sacrificed creature&apos;s mana value.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VHS-files/img/44_End of the Rainbow.png" num="44">VHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>He of All Hallow&apos;s Eve</name>
+			<text>Menace
+At the beginning of your end step, He of All Hallow&apos;s Eve deals damage equal to its power to you unless you&apos;re horrific. (You&apos;re horrific as long as you&apos;ve sacrificed a permanent or discarded a card this turn.)</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VHS-files/img/47_He of All Hallow&apos;s Eve.png" num="47">VHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>7/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shady Souvenirs</name>
+			<text>Discard your hand. Draw cards equal to the number of creatures that died this turn.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VHS-files/img/51_Shady Souvenirs.png" num="51">VHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Beat &amp; Batter</name>
+			<text>Damage can&apos;t be prevented this turn. Players can&apos;t gain life this turn. Beat &amp; Batter deals 2 damage to target player.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VHS-files/img/40_Beat &amp; Batter.png" num="40">VHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Frenzied Florist</name>
+			<text>{T}, Sacrifice another permanent: Add one mana of any color.
+At the beginning of your end step, if you&apos;re horrific, put a +1/+1 counter on target creature. (You&apos;re horrific as long as you&apos;ve sacrificed a permanent or discarded a card this turn.)</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VHS-files/img/58_Frenzied Florist.png" num="58">VHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Plagas Infestation</name>
+			<text>Enchant creature
+Enchanted creature loses all abilities and is a Horror creature with base power and toughness 3/3.
+Whenever enchanted creature deals combat damage to a creature, create a token that&apos;s a copy of Plagas Infestation and attach it to the damaged creature.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VHS-files/img/61_Plagas Infestation.png" num="61">VHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Misty Churchyard</name>
+			<text>Misty Churchyard enters the battlefield tapped.
+{T}: Add {W}.
+{1}{W}{W}: Until end of turn, Misty Churchyard becomes a 1/4 Cleric creature with &quot;Whenever this creature is dealt damage, put that many +1/+1 counters on it.&quot; Activate only if you&apos;re horrific.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VHS-files/img/80_Misty Churchyard.png" num="80">VHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Lost Station</name>
+			<text>Lost Station enters the battlefield tapped.
+{T}: Add {U}.
+{U}{U}: Until end of turn, Lost Station becomes a 2/2 Horror creature that can&apos;t be blocked. Activate only if you&apos;re horrific.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VHS-files/img/79_Lost Station.png" num="79">VHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Hellfire Caverns</name>
+			<text>Hellfire Caverns enters the battlefield tapped.
+{T}: Add {R}.
+{2}{R}: Until end of turn, Hellfire Caverns becomes a 3/3 Devil creature with menace. Activate only if you&apos;re horrific.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VHS-files/img/78_Hellfire Caverns.png" num="78">VHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Enshrouded Village</name>
+			<text>Enshrouded Village enters the battlefield tapped.
+{T}: Add {G}.
+{1}{G}{G}: Until end of turn, Enshrouded Village becomes a 4/4 Human creature with trample. Activate only if you&apos;re horrific.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VHS-files/img/77_Enshrouded Village.png" num="77">VHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Damned Detective</name>
+			<text>First strike
+Noncreature spells cost {1} more to cast as long as their controller is horrific. (A player is horrific as long as they&apos;ve sacrificed a permanent or discarded a card this turn.)</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VHS-files/img/66_Damned Detective.png" num="66">VHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>WU</manacost>
+				<cmc>2</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Keeper of the Collection</name>
+			<text>Whenever you cast a spell from exile, copy that spell. You may choose new targets for the copy.
+{B}, Discard a card: When you next cast a spell from your hand this turn, it gains rerun. Activate this ability only once each turn. (Exile it as it resolves if you cast it from your hand. Whenever a creature you control dies, you may cast that card from exile without paying its mana cost.)</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VHS-files/img/68_Keeper of the Collection.png" num="68">VHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Illusion</type>
+				<maintype>Creature</maintype>
+				<manacost>2UB</manacost>
+				<cmc>4</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>2/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Shepherd of Nowhere</name>
+			<text>Trample
+When The Shepherd of Nowhere enters the battlefield, each player sacrifices each other nontoken creature they control.
+Whenever another nontoken creature you control dies, create a token that&apos;s a copy of that creature.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VHS-files/img/74_The Shepherd of Nowhere.png" num="74">VHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Giant Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>5GW</manacost>
+				<cmc>7</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>John Furo, the Unfortunate</name>
+			<text>If another creature you control would die, exile it instead.
+When John Furo, the Unfortunate dies, until your next end step, you may play cards exiled with John Furo.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VHS-files/img/67_John Furo, the Unfortunate.png" num="67">VHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>RW</manacost>
+				<cmc>2</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ravenous Attraction</name>
+			<text>Ravenous Attraction enters the battlefield with a +1/+1 counter on it.
+Whenever a creature you control dies, double the number of each kind of counter on Ravenous Attraction.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VHS-files/img/72_Ravenous Attraction.png" num="72">VHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Octopus Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>1GU</manacost>
+				<cmc>3</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Raging Reflection</name>
+			<text>You may have Raging Reflection enter the battlefield as a copy of any creature on the battlefield, except it has &quot;When this creature enters the battlefield, it fights another target creature with the same name as it.&quot;</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VHS-files/img/71_Raging Reflection.png" num="71">VHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Reflection Shapeshifter</type>
+				<maintype>Creature</maintype>
+				<manacost>2UR</manacost>
+				<cmc>4</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Aspiring Hero</name>
+			<text>Whenever Aspiring Hero attacks alone, put a +1/+1 counter on it.
+When Aspiring Hero dies, each opponent gains life equal to its power.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VHS-files/img/1_Aspiring Hero.png" num="1">VHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Corpsebark</name>
+			<text>Defender
+Whenever a land enters the battlefield under your control, you may exile target permanent card from your graveyard.
+Sacrifice a land: Put a card exiled with Corpsebark into its owner&apos;s hand.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VHS-files/img/54_Corpsebark.png" num="54">VHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Plant</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Demented Brainiac</name>
+			<text>When Demented Brainiac enters the battlefield and at the beginning of your upkeep, each opponent mills two cards.
+{U}, Sacrifice Demented Brainiac: Exile each opponent&apos;s graveyard. Until end of turn, you may cast instant and sorcery spells exiled this way, and you may spend mana as though it were mana of any color to cast them.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VHS-files/img/17_Demented Brainiac.png" num="17">VHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horror Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Night of the Unliving</name>
+			<text>At the beginning of your upkeep, if there are no noncreature cards in your graveyard, you may return target creature card from your graveyard to the battlefield.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VHS-files/img/35_Night of the Unliving.png" num="35">VHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Sunken Homestead</name>
+			<text>Sunken Homestead enters the battlefield tapped.
+{T}: Add {B}.
+{2}{B}: Until end of turn, Sunken Homestead becomes a 2/2 Zombie creature with &quot;When this creature dies, return it to the battlefield.&quot; Activate only if you&apos;re horrific.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VHS-files/img/81_Sunken Homestead.png" num="81">VHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Rite of the Unnatural</name>
+			<text>As an additional cost to cast this spell, sacrifice a noncreature permanent.
+Search your library for a creature card with mana value equal to 1 plus the sacrificed permanent&apos;s mana value, put it onto the battlefield, then shuffle.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VHS-files/img/62_Rite of the Unnatural.png" num="62">VHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>GG</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Forlorn Toymaker</name>
+			<text>{1}{G}, {T}, Sacrifice another nontoken creature: Create two tokens that are copies of the sacrificed creature, except they have base power and toughness 0/1. Activate only as a sorcery.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VHS-files/img/57_Forlorn Toymaker.png" num="57">VHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Zealous Rabble</name>
+			<text>Zealous Rabble gets +1/+1 for each creature token you control.
+At the beginning of your end step, if you&apos;re horrific, create a token that&apos;s a copy of Zealous Rabble, except it doesn&apos;t have this ability. (You&apos;re horrific as long as you&apos;ve sacrificed a permanent or discarded a card this turn.)</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VHS-files/img/65_Zealous Rabble.png" num="65">VHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Speak No Evil</name>
+			<text>Choose one or more—
+• Counter target activated or triggered ability.
+• Prevent all combat damage that would be dealt this turn.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VHS-files/img/63_Speak No Evil.png" num="63">VHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Maddened Preacher</name>
+			<text>Players can&apos;t sacrifice creatures to cast spells or activate abilities unless they sacrifice an additional creature. The same is true for discarding cards and paying life.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VHS-files/img/8_Maddened Preacher.png" num="8">VHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Planchette Poltergeist</name>
+			<text>Flying
+When Planchette Poltergeist enters the battlefield, you may exile target creature. Its owner may cast it from exile for as long as it remains exiled.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VHS-files/img/10_Planchette Poltergeist.png" num="10">VHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Grasping Souls</name>
+			<text>Exile target creature. Return that creature to the battlefield under its owner&apos;s control at the beginning of the next end step.
+Rerun (Then if you cast this from your hand, exile it as it resolves. Whenever a creature you control dies, you may cast this card from exile without paying its mana cost.)</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VHS-files/img/4_Grasping Souls.png" num="4">VHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Violent Feeding</name>
+			<text>Destroy target creature or planeswalker. Each player loses life equal to that permanent&apos;s mana value.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VHS-files/img/38_Violent Feeding.png" num="38">VHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Horrific Invocation</name>
+			<text>You may put a permanent card from your hand onto the battlefield.
+Rerun (Then if you cast this from your hand, exile it as it resolves. Whenever a creature you control dies, you may cast this card from exile without paying its mana cost.)</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VHS-files/img/60_Horrific Invocation.png" num="60">VHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Spirit VHS</name>
+			<text>Flying</text>
+			<set rarity="common" picurl="https://gayverygrove.github.io/sets/VHS-files/img/1t_Spirit.png" num="1">VHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Treasure VHS</name>
+			<text>{T}, Sacrifice this artifact: Add one mana of any color.</text>
+			<set rarity="common" picurl="https://gayverygrove.github.io/sets/VHS-files/img/4t_Treasure.png" num="4">VHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Treasure</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Sea of Corpses</name>
+			<text>This spell costs {2} less to cast for each creature that died this turn.
+Each player exiles all creature cards from their graveyard, then sacrifices each creature they control, then puts all creature cards they own exiled this way onto the battlefield. Exile Sea of Corpses.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VHS-files/img/73_Sea of Corpses.png" num="73">VHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>6BR</manacost>
+				<cmc>8</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Spiraling Madness</name>
+			<text>At the beginning of each player&apos;s upkeep, that player discards a card. If that player has no cards in hand, they instead sacrifice a permanent. If they control no permanents, they instead lose the game.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VHS-files/img/36_Spiraling Madness.png" num="36">VHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Starving Stalker</name>
+			<text>Menace
+Discard a creature card or sacrifice a creature or exile a creature card from your graveyard: Put a +1/+1 counter on Starving Stalker. Activate only once each turn.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VHS-files/img/75_Starving Stalker.png" num="75">VHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>BG</manacost>
+				<cmc>2</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Morbid Mimic</name>
+			<text>Whenever Morbid Mimic enters the battlefield or attacks, exile up to one target creature card from a graveyard.
+Morbid Mimic has all activated abilities of cards exiled with it.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VHS-files/img/69_Morbid Mimic.png" num="69">VHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>WB</manacost>
+				<cmc>2</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mr. Higgins</name>
+			<text>Whenever you tap a land for mana, add one mana of any type that land produced.
+Whenever you cast a spell with mana value greater than the number of lands you control, sacrifice a land.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VHS-files/img/70_Mr. Higgins.png" num="70">VHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>1RG</manacost>
+				<cmc>3</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Foreboding Presence</name>
+			<text>Whenever a player casts a spell, put a doom counter on Foreboding Presence.
+At the beginning of each player&apos;s end step, if no spells were cast this turn, sacrifice Foreboding Presence. It deals damage equal to the number of doom counters on it to that player.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VHS-files/img/45_Foreboding Presence.png" num="45">VHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Dead End</name>
+			<text>Counter target spell if it wasn&apos;t cast from a player&apos;s hand.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VHS-files/img/16_Dead End.png" num="16">VHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Lost in the Light</name>
+			<text>Creatures can&apos;t attack you or planeswalkers you control unless their controller pays 2 life for each creature they control that&apos;s attacking you or a planeswalker you control.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VHS-files/img/7_Lost in the Light.png" num="7">VHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Jumpscare</name>
+			<text>Return target creature card from a graveyard to the battlefield. Then if it wasn&apos;t put into a graveyard from the battlefield this turn, exile it.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VHS-files/img/31_Jumpscare.png" num="31">VHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Apocalypse Awakens</name>
+			<text>Create an 8/8 blue Kraken creature token with hexproof.
+Rerun (Then if you cast this from your hand, exile it as it resolves. Whenever a creature you control dies, you may cast this card from exile without paying its mana cost.)</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VHS-files/img/14_Apocalypse Awakens.png" num="14">VHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>5UU</manacost>
+				<cmc>7</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Cutthroat Carnie</name>
+			<text>Haste
+Whenever a creature dealt combat damage by Cutthroat Carnie this turn dies, you may have it fight target creature.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VHS-files/img/55_Cutthroat Carnie.png" num="55">VHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Vicious Effigy</name>
+			<text>Flying
+Whenever you cast a spell from exile, each opponent loses 2 life.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VHS-files/img/37_Vicious Effigy.png" num="37">VHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mr. Jackston, the Proprietor</name>
+			<text>You and permanents you control have hexproof from spells that share a name with a card exiled with Mr. Jackston.
+Sacrifice a creature or discard a card: Exile the top card of target player&apos;s library. You may cast that card for as long as it remains exiled. Any player may activate this ability but only once each turn and only during their turn.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VHS-files/img/34_Mr. Jackston, the Proprietor.png" num="34">VHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lisa, the Daughter</name>
+			<text>When Lisa enters the battlefield, create Mother, a legendary 4/1 black Demon creature token with flying that can&apos;t block.
+If Lisa, the Daughter would be dealt damage, that damage is dealt to a Demon you control instead.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VHS-files/img/6_Lisa, the Daughter.png" num="6">VHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Hewitt Brothers</name>
+			<text>Trample
+Whenever a creature you don&apos;t control dies, you gain 2 life.
+Whenever you gain life, put that many +1/+1 counters on target creature you control.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VHS-files/img/59_The Hewitt Brothers.png" num="59">VHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mother VHS</name>
+			<text>Flying
+Mother can&apos;t block.</text>
+			<set rarity="common" picurl="https://gayverygrove.github.io/sets/VHS-files/img/3t_Mother.png" num="3">VHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Token Creature — Demon</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Kraken VHS</name>
+			<text>Hexproof</text>
+			<set rarity="common" picurl="https://gayverygrove.github.io/sets/VHS-files/img/2t_Kraken.png" num="2">VHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Kraken</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>8/8</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Swamp</name>
+			<text></text>
+			<set rarity="special" picurl="https://gayverygrove.github.io/sets/VHS-files/img/86_Swamp.png" num="86">VHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Island</name>
+			<text></text>
+			<set rarity="special" picurl="https://gayverygrove.github.io/sets/VHS-files/img/83_Island.png" num="83">VHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Island</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Forest</name>
+			<text></text>
+			<set rarity="special" picurl="https://gayverygrove.github.io/sets/VHS-files/img/82_Forest.png" num="82">VHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Plains</name>
+			<text></text>
+			<set rarity="special" picurl="https://gayverygrove.github.io/sets/VHS-files/img/85_Plains.png" num="85">VHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Mountain</name>
+			<text></text>
+			<set rarity="special" picurl="https://gayverygrove.github.io/sets/VHS-files/img/84_Mountain.png" num="84">VHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Communion</name>
+			<text>Gain control of target creature until end of turn. Untap it. It gains haste until end of turn.
+Rerun (Then if you cast this from your hand, exile it as it resolves. Whenever a creature you control dies, you may cast this card from exile without paying its mana cost.)</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/VHS-files/img/43_Communion.png" num="43">VHS</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

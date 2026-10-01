@@ -1,4 +1,4 @@
-[CustomCards]
+ï»¿[CustomCards]
 	[
 		{
 			"name": "Accidental Awakening",
@@ -7,7 +7,7 @@
 			"type": "Instant",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/1_Accidental Awakening.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/1_Accidental Awakening.png"
 			}
 		},
 		{
@@ -17,27 +17,27 @@
 			"type": "Instant",
 			"collector_number": "74",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/74_Morbid Discovery.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/74_Morbid Discovery.png"
 			}
 		},
 		{
 			"name": "Inquisitive Youth",
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
-			"type": "Creature — Human",
+			"type": "Creature â€” Human",
 			"collector_number": "97",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/97_Inquisitive Youth.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/97_Inquisitive Youth.png"
 			}
 		},
 		{
 			"name": "Enclosed Kraken",
 			"rarity": "common",
 			"mana_cost": "{3}{U}{U}",
-			"type": "Creature — Kraken",
+			"type": "Creature â€” Kraken",
 			"collector_number": "36",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/36_Enclosed Kraken.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/36_Enclosed Kraken.png"
 			}
 		},
 		{
@@ -47,17 +47,17 @@
 			"type": "Sorcery",
 			"collector_number": "118",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/118_Club Meetup.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/118_Club Meetup.png"
 			}
 		},
 		{
 			"name": "Slumbering Stargazer",
 			"rarity": "common",
 			"mana_cost": "{4}{G}{G}",
-			"type": "Creature — Giant",
+			"type": "Creature â€” Giant",
 			"collector_number": "136",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/136_Slumbering Stargazer.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/136_Slumbering Stargazer.png"
 			}
 		},
 		{
@@ -67,7 +67,7 @@
 			"type": "Sorcery",
 			"collector_number": "110",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/110_Terrifying Teachings.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/110_Terrifying Teachings.png"
 			}
 		},
 		{
@@ -77,17 +77,17 @@
 			"type": "Artifact",
 			"collector_number": "153",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/153_Puzzler's Clubhouse.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/153_Puzzler's Clubhouse.png"
 			}
 		},
 		{
 			"name": "Basement Genius",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{U}",
-			"type": "Creature — Human Advisor",
+			"type": "Creature â€” Human Advisor",
 			"collector_number": "142",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/142_Basement Genius.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/142_Basement Genius.png"
 			}
 		},
 		{
@@ -97,27 +97,27 @@
 			"type": "Sorcery",
 			"collector_number": "62",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/62_Discovery in the Dark.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/62_Discovery in the Dark.png"
 			}
 		},
 		{
 			"name": "Unsettling Ornaments",
 			"rarity": "common",
 			"mana_cost": "{2}",
-			"type": "Artifact Creature — Bird",
+			"type": "Artifact Creature â€” Bird",
 			"collector_number": "166",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/166_Unsettling Ornaments.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/166_Unsettling Ornaments.png"
 			}
 		},
 		{
 			"name": "Streetlamp Stalker",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{R}",
-			"type": "Creature — Vampire",
+			"type": "Creature â€” Vampire",
 			"collector_number": "154",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/154_Streetlamp Stalker.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/154_Streetlamp Stalker.png"
 			}
 		},
 		{
@@ -127,47 +127,47 @@
 			"type": "Enchantment",
 			"collector_number": "143",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/143_Childhood Wanderings.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/143_Childhood Wanderings.png"
 			}
 		},
 		{
 			"name": "Juvenile Informant",
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
-			"type": "Creature — Human Rogue",
+			"type": "Creature â€” Human Rogue",
 			"collector_number": "130",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/130_Juvenile Informant.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/130_Juvenile Informant.png"
 			}
 		},
 		{
 			"name": "Unwavering Investigator",
 			"rarity": "common",
 			"mana_cost": "{3}{W}{W}",
-			"type": "Creature — Human Rogue",
+			"type": "Creature â€” Human Rogue",
 			"collector_number": "27",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/27_Unwavering Investigator.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/27_Unwavering Investigator.png"
 			}
 		},
 		{
 			"name": "Blackeye Bully",
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
-			"type": "Creature — Human Berserker",
+			"type": "Creature â€” Human Berserker",
 			"collector_number": "58",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/58_Blackeye Bully.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/58_Blackeye Bully.png"
 			}
 		},
 		{
 			"name": "Cursed Camera",
 			"rarity": "common",
 			"mana_cost": "{2}",
-			"type": "Artifact — Equipment",
+			"type": "Artifact â€” Equipment",
 			"collector_number": "161",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/161_Cursed Camera.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/161_Cursed Camera.png"
 			}
 		},
 		{
@@ -177,7 +177,7 @@
 			"type": "Instant",
 			"collector_number": "54",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/54_Suspicious Shortcut.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/54_Suspicious Shortcut.png"
 			}
 		},
 		{
@@ -187,7 +187,7 @@
 			"type": "Instant",
 			"collector_number": "106",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/106_Shock.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/106_Shock.png"
 			}
 		},
 		{
@@ -197,37 +197,37 @@
 			"type": "Sorcery",
 			"collector_number": "16",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/16_Keep Tabs.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/16_Keep Tabs.png"
 			}
 		},
 		{
 			"name": "Consuming Blob",
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
-			"type": "Creature — Ooze",
+			"type": "Creature â€” Ooze",
 			"collector_number": "121",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/121_Consuming Blob.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/121_Consuming Blob.png"
 			}
 		},
 		{
 			"name": "Chilling Cabbie",
 			"rarity": "common",
 			"mana_cost": "{2}{R}{R}",
-			"type": "Creature — Horror",
+			"type": "Creature â€” Horror",
 			"collector_number": "88",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/88_Chilling Cabbie.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/88_Chilling Cabbie.png"
 			}
 		},
 		{
 			"name": "Bedside Poltergeist",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
-			"type": "Creature — Spirit",
+			"type": "Creature â€” Spirit",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/3_Bedside Poltergeist.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/3_Bedside Poltergeist.png"
 			}
 		},
 		{
@@ -237,47 +237,47 @@
 			"type": "Instant",
 			"collector_number": "47",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/47_Public Exorcism.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/47_Public Exorcism.png"
 			}
 		},
 		{
 			"name": "Tabby of Terror",
 			"rarity": "common",
 			"mana_cost": "{6}{B}{B}",
-			"type": "Creature — Cat Zombie",
+			"type": "Creature â€” Cat Zombie",
 			"collector_number": "81",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/81_Tabby of Terror.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/81_Tabby of Terror.png"
 			}
 		},
 		{
 			"name": "Steely Sasquatch",
 			"rarity": "common",
 			"mana_cost": "{4}{G}",
-			"type": "Creature — Yeti",
+			"type": "Creature â€” Yeti",
 			"collector_number": "139",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/139_Steely Sasquatch.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/139_Steely Sasquatch.png"
 			}
 		},
 		{
 			"name": "Stashed Away",
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
-			"type": "Enchantment — Aura",
+			"type": "Enchantment â€” Aura",
 			"collector_number": "52",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/52_Stashed Away.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/52_Stashed Away.png"
 			}
 		},
 		{
 			"name": "Grade School Ghouls",
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
-			"type": "Creature — Zombie",
+			"type": "Creature â€” Zombie",
 			"collector_number": "69",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/69_Grade School Ghouls.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/69_Grade School Ghouls.png"
 			}
 		},
 		{
@@ -287,7 +287,7 @@
 			"type": "Instant",
 			"collector_number": "22",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/22_Remain Courageous.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/22_Remain Courageous.png"
 			}
 		},
 		{
@@ -297,47 +297,47 @@
 			"type": "Sorcery",
 			"collector_number": "91",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/91_Fearful Finding.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/91_Fearful Finding.png"
 			}
 		},
 		{
 			"name": "Invisible Prankster",
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
-			"type": "Creature — Human Rogue",
+			"type": "Creature â€” Human Rogue",
 			"collector_number": "41",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/41_Invisible Prankster.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/41_Invisible Prankster.png"
 			}
 		},
 		{
 			"name": "Gigantic Lepidoptera",
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
-			"type": "Creature — Insect",
+			"type": "Creature â€” Insect",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/12_Gigantic Lepidoptera.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/12_Gigantic Lepidoptera.png"
 			}
 		},
 		{
 			"name": "Detention",
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
-			"type": "Enchantment — Aura",
+			"type": "Enchantment â€” Aura",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/7_Detention.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/7_Detention.png"
 			}
 		},
 		{
 			"name": "Confident Punk",
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
-			"type": "Creature — Human Warrior",
+			"type": "Creature â€” Human Warrior",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/6_Confident Punk.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/6_Confident Punk.png"
 			}
 		},
 		{
@@ -347,47 +347,47 @@
 			"type": "Instant",
 			"collector_number": "21",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/21_Rally the Gang.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/21_Rally the Gang.png"
 			}
 		},
 		{
 			"name": "Novice Puzzler",
 			"rarity": "common",
 			"mana_cost": "{W}",
-			"type": "Creature — Human Rogue",
+			"type": "Creature â€” Human Rogue",
 			"collector_number": "19",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/19_Novice Puzzler.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/19_Novice Puzzler.png"
 			}
 		},
 		{
 			"name": "Benevolent Phantasm",
 			"rarity": "common",
 			"mana_cost": "{5}{W}",
-			"type": "Creature — Spirit",
+			"type": "Creature â€” Spirit",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/4_Benevolent Phantasm.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/4_Benevolent Phantasm.png"
 			}
 		},
 		{
 			"name": "Sleepless Guide",
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
-			"type": "Creature — Human Advisor",
+			"type": "Creature â€” Human Advisor",
 			"collector_number": "24",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/24_Sleepless Guide.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/24_Sleepless Guide.png"
 			}
 		},
 		{
 			"name": "Lucky Bystander",
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
-			"type": "Creature — Human",
+			"type": "Creature â€” Human",
 			"collector_number": "42",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/42_Lucky Bystander.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/42_Lucky Bystander.png"
 			}
 		},
 		{
@@ -397,7 +397,7 @@
 			"type": "Instant",
 			"collector_number": "64",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/64_Driveway Liturgy.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/64_Driveway Liturgy.png"
 			}
 		},
 		{
@@ -407,57 +407,57 @@
 			"type": "Land",
 			"collector_number": "167",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/167_Autumn Glade.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/167_Autumn Glade.png"
 			}
 		},
 		{
 			"name": "Undead Artist",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{B}",
-			"type": "Creature — Zombie Artist",
+			"type": "Creature â€” Zombie Artist",
 			"collector_number": "157",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/157_Undead Artist.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/157_Undead Artist.png"
 			}
 		},
 		{
 			"name": "Incited Attic",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{G}",
-			"type": "Artifact Creature — Construct",
+			"type": "Artifact Creature â€” Construct",
 			"collector_number": "148",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/148_Incited Attic.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/148_Incited Attic.png"
 			}
 		},
 		{
 			"name": "Summertime Sharpshooter",
 			"rarity": "uncommon",
 			"mana_cost": "{R}{W}",
-			"type": "Creature — Human Warrior",
+			"type": "Creature â€” Human Warrior",
 			"collector_number": "155",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/155_Summertime Sharpshooter.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/155_Summertime Sharpshooter.png"
 			}
 		},
 		{
 			"name": "Man in Black",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{U}",
-			"type": "Creature — Advisor",
+			"type": "Creature â€” Advisor",
 			"collector_number": "151",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/151_Man in Black.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/151_Man in Black.png"
 			}
 		},
 		{
 			"name": "Disgruntled Librarian",
 			"rarity": "common",
 			"mana_cost": "{1}{W}",
-			"type": "Creature — Human Horror",
+			"type": "Creature â€” Human Horror",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/8_Disgruntled Librarian.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/8_Disgruntled Librarian.png"
 			}
 		},
 		{
@@ -467,87 +467,87 @@
 			"type": "Sorcery",
 			"collector_number": "50",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/50_Spill the Beans.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/50_Spill the Beans.png"
 			}
 		},
 		{
 			"name": "Rosebury Delinquent",
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
-			"type": "Creature — Human Rogue",
+			"type": "Creature â€” Human Rogue",
 			"collector_number": "48",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/48_Rosebury Delinquent.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/48_Rosebury Delinquent.png"
 			}
 		},
 		{
 			"name": "Teacher's Aide",
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
-			"type": "Creature — Human Advisor",
+			"type": "Creature â€” Human Advisor",
 			"collector_number": "55",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/55_Teacher's Aide.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/55_Teacher's Aide.png"
 			}
 		},
 		{
 			"name": "Bony Blockade",
 			"rarity": "common",
 			"mana_cost": "{U}",
-			"type": "Creature — Skeleton Wall",
+			"type": "Creature â€” Skeleton Wall",
 			"collector_number": "30",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/30_Bony Blockade.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/30_Bony Blockade.png"
 			}
 		},
 		{
 			"name": "Normal Neighbor",
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
-			"type": "Creature — Rogue",
+			"type": "Creature â€” Rogue",
 			"collector_number": "45",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/45_Normal Neighbor.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/45_Normal Neighbor.png"
 			}
 		},
 		{
 			"name": "Foolish Fortune",
 			"rarity": "common",
 			"mana_cost": "{B}",
-			"type": "Enchantment — Aura",
+			"type": "Enchantment â€” Aura",
 			"collector_number": "66",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/66_Foolish Fortune.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/66_Foolish Fortune.png"
 			}
 		},
 		{
 			"name": "Fridge Creeper",
 			"rarity": "common",
 			"mana_cost": "{B}",
-			"type": "Creature — Horror",
+			"type": "Creature â€” Horror",
 			"collector_number": "68",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/68_Fridge Creeper.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/68_Fridge Creeper.png"
 			}
 		},
 		{
 			"name": "Repulsive Relative",
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
-			"type": "Creature — Human Horror",
+			"type": "Creature â€” Human Horror",
 			"collector_number": "77",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/77_Repulsive Relative.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/77_Repulsive Relative.png"
 			}
 		},
 		{
 			"name": "Malicious Mall Goth",
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
-			"type": "Creature — Human Warlock",
+			"type": "Creature â€” Human Warlock",
 			"collector_number": "73",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/73_Malicious Mall Goth.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/73_Malicious Mall Goth.png"
 			}
 		},
 		{
@@ -557,47 +557,47 @@
 			"type": "Sorcery",
 			"collector_number": "63",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/63_Dishearten.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/63_Dishearten.png"
 			}
 		},
 		{
 			"name": "Worn Crowherder",
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
-			"type": "Artifact Creature — Scarecrow",
+			"type": "Artifact Creature â€” Scarecrow",
 			"collector_number": "84",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/84_Worn Crowherder.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/84_Worn Crowherder.png"
 			}
 		},
 		{
 			"name": "Sewer Sludge",
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
-			"type": "Creature — Ooze",
+			"type": "Creature â€” Ooze",
 			"collector_number": "78",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/78_Sewer Sludge.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/78_Sewer Sludge.png"
 			}
 		},
 		{
 			"name": "Guardian of the Grill",
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
-			"type": "Creature — Human",
+			"type": "Creature â€” Human",
 			"collector_number": "93",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/93_Guardian of the Grill.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/93_Guardian of the Grill.png"
 			}
 		},
 		{
 			"name": "Station Scaleling",
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
-			"type": "Creature — Dragon",
+			"type": "Creature â€” Dragon",
 			"collector_number": "108",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/108_Station Scaleling.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/108_Station Scaleling.png"
 			}
 		},
 		{
@@ -607,17 +607,17 @@
 			"type": "Enchantment",
 			"collector_number": "89",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/89_Cornfield Creeping.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/89_Cornfield Creeping.png"
 			}
 		},
 		{
 			"name": "Happy Campers",
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
-			"type": "Creature — Human",
+			"type": "Creature â€” Human",
 			"collector_number": "95",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/95_Happy Campers.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/95_Happy Campers.png"
 			}
 		},
 		{
@@ -627,7 +627,7 @@
 			"type": "Instant",
 			"collector_number": "100",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/100_Momentary Infestation.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/100_Momentary Infestation.png"
 			}
 		},
 		{
@@ -637,17 +637,17 @@
 			"type": "Sorcery",
 			"collector_number": "137",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/137_Spirited Victory.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/137_Spirited Victory.png"
 			}
 		},
 		{
 			"name": "School Summoner",
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
-			"type": "Creature — Human Wizard",
+			"type": "Creature â€” Human Wizard",
 			"collector_number": "135",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/135_School Summoner.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/135_School Summoner.png"
 			}
 		},
 		{
@@ -657,127 +657,127 @@
 			"type": "Instant",
 			"collector_number": "123",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/123_Destructive Defense.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/123_Destructive Defense.png"
 			}
 		},
 		{
 			"name": "Ice Cream Truck",
 			"rarity": "common",
 			"mana_cost": "{3}",
-			"type": "Artifact — Vehicle",
+			"type": "Artifact â€” Vehicle",
 			"collector_number": "162",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/162_Ice Cream Truck.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/162_Ice Cream Truck.png"
 			}
 		},
 		{
 			"name": "Stuffed Locker",
 			"rarity": "common",
 			"mana_cost": "{2}",
-			"type": "Artifact — Clue",
+			"type": "Artifact â€” Clue",
 			"collector_number": "165",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/165_Stuffed Locker.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/165_Stuffed Locker.png"
 			}
 		},
 		{
 			"name": "Seaborn Befuddler",
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
-			"type": "Creature — Merfolk",
+			"type": "Creature â€” Merfolk",
 			"collector_number": "49",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/49_Seaborn Befuddler.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/49_Seaborn Befuddler.png"
 			}
 		},
 		{
 			"name": "Birdwatching",
 			"rarity": "common",
 			"mana_cost": "{U}",
-			"type": "Enchantment — Aura",
+			"type": "Enchantment â€” Aura",
 			"collector_number": "29",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/29_Birdwatching.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/29_Birdwatching.png"
 			}
 		},
 		{
 			"name": "Morning Mailman",
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
-			"type": "Creature — Human Scout",
+			"type": "Creature â€” Human Scout",
 			"collector_number": "133",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/133_Morning Mailman.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/133_Morning Mailman.png"
 			}
 		},
 		{
 			"name": "Spooked Pooch",
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
-			"type": "Creature — Dog",
+			"type": "Creature â€” Dog",
 			"collector_number": "138",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/138_Spooked Pooch.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/138_Spooked Pooch.png"
 			}
 		},
 		{
 			"name": "Jack, Monstrous Liaison",
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{G}",
-			"type": "Legendary Planeswalker — Jack",
+			"type": "Legendary Planeswalker â€” Jack",
 			"collector_number": "150",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/150_Jack, Monstrous Liaison.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/150_Jack, Monstrous Liaison.png"
 			}
 		},
 		{
 			"name": "Plant",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Plant",
+			"type": "Token Creature â€” Plant",
 			"collector_number": "7",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/7_Plant.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/7t_Plant.png"
 			}
 		},
 		{
 			"name": "Clinging Toy",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{W}",
-			"type": "Artifact Creature — Construct",
+			"type": "Artifact Creature â€” Construct",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/5_Clinging Toy.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/5_Clinging Toy.png"
 			}
 		},
 		{
 			"name": "Popup Puppeteer",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
-			"type": "Creature — Human Warlock",
+			"type": "Creature â€” Human Warlock",
 			"collector_number": "20",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/20_Popup Puppeteer.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/20_Popup Puppeteer.png"
 			}
 		},
 		{
 			"name": "Gossiping Posse",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{W}",
-			"type": "Creature — Human Scout",
+			"type": "Creature â€” Human Scout",
 			"collector_number": "13",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/13_Gossiping Posse.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/13_Gossiping Posse.png"
 			}
 		},
 		{
 			"name": "Ghostly Assistant",
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
-			"type": "Creature — Spirit",
+			"type": "Creature â€” Spirit",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/10_Ghostly Assistant.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/10_Ghostly Assistant.png"
 			}
 		},
 		{
@@ -787,17 +787,17 @@
 			"type": "Instant",
 			"collector_number": "14",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/14_Hide.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/14_Hide.png"
 			}
 		},
 		{
 			"name": "Alluring Presence",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}{W}",
-			"type": "Creature — Spirit",
+			"type": "Creature â€” Spirit",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/2_Alluring Presence.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/2_Alluring Presence.png"
 			}
 		},
 		{
@@ -807,7 +807,7 @@
 			"type": "Instant",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/9_Fakeout.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/9_Fakeout.png"
 			}
 		},
 		{
@@ -817,7 +817,7 @@
 			"type": "Enchantment",
 			"collector_number": "35",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/35_Diligent Notetaking.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/35_Diligent Notetaking.png"
 			}
 		},
 		{
@@ -827,37 +827,37 @@
 			"type": "Sorcery",
 			"collector_number": "34",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/34_Cram.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/34_Cram.png"
 			}
 		},
 		{
 			"name": "Playground Poltergeist",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{U}",
-			"type": "Creature — Spirit",
+			"type": "Creature â€” Spirit",
 			"collector_number": "46",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/46_Playground Poltergeist.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/46_Playground Poltergeist.png"
 			}
 		},
 		{
 			"name": "Neighborhood Watch",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{U}",
-			"type": "Creature — Eye",
+			"type": "Creature â€” Eye",
 			"collector_number": "44",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/44_Neighborhood Watch.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/44_Neighborhood Watch.png"
 			}
 		},
 		{
 			"name": "Starstruck Squids",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
-			"type": "Creature — Squid",
+			"type": "Creature â€” Squid",
 			"collector_number": "51",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/51_Starstruck Squids.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/51_Starstruck Squids.png"
 			}
 		},
 		{
@@ -867,27 +867,27 @@
 			"type": "Instant",
 			"collector_number": "32",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/32_Common Sense.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/32_Common Sense.png"
 			}
 		},
 		{
 			"name": "Frosted Fiend",
 			"rarity": "uncommon",
 			"mana_cost": "{5}{U}{U}",
-			"type": "Creature — Elemental Construct",
+			"type": "Creature â€” Elemental Construct",
 			"collector_number": "38",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/38_Frosted Fiend.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/38_Frosted Fiend.png"
 			}
 		},
 		{
 			"name": "Starving Slime",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{B}",
-			"type": "Creature — Ooze",
+			"type": "Creature â€” Ooze",
 			"collector_number": "79",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/79_Starving Slime.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/79_Starving Slime.png"
 			}
 		},
 		{
@@ -897,7 +897,7 @@
 			"type": "Sorcery",
 			"collector_number": "80",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/80_Surrounded by Shadows.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/80_Surrounded by Shadows.png"
 			}
 		},
 		{
@@ -907,7 +907,7 @@
 			"type": "Enchantment",
 			"collector_number": "70",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/70_The House of Nightmares.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/70_The House of Nightmares.png"
 			}
 		},
 		{
@@ -917,37 +917,37 @@
 			"type": "Sorcery",
 			"collector_number": "59",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/59_The Bogeyman's Clutches.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/59_The Bogeyman's Clutches.png"
 			}
 		},
 		{
 			"name": "Puzzler's Watchman",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
-			"type": "Creature — Human Scout",
+			"type": "Creature â€” Human Scout",
 			"collector_number": "76",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/76_Puzzler's Watchman.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/76_Puzzler's Watchman.png"
 			}
 		},
 		{
 			"name": "Freaks of Fourth Street",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
-			"type": "Creature — Human Horror",
+			"type": "Creature â€” Human Horror",
 			"collector_number": "67",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/67_Freaks of Fourth Street.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/67_Freaks of Fourth Street.png"
 			}
 		},
 		{
 			"name": "Channel Zero",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}",
-			"type": "Artifact Creature — Horror",
+			"type": "Artifact Creature â€” Horror",
 			"collector_number": "60",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/60_Channel Zero.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/60_Channel Zero.png"
 			}
 		},
 		{
@@ -957,7 +957,7 @@
 			"type": "Sorcery",
 			"collector_number": "90",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/90_Evening Escapades.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/90_Evening Escapades.png"
 			}
 		},
 		{
@@ -967,7 +967,7 @@
 			"type": "Instant",
 			"collector_number": "87",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/87_Bedside Bonfire.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/87_Bedside Bonfire.png"
 			}
 		},
 		{
@@ -977,27 +977,27 @@
 			"type": "Sorcery",
 			"collector_number": "101",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/101_Monstrous Melody.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/101_Monstrous Melody.png"
 			}
 		},
 		{
 			"name": "Halloween Wanderers",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
-			"type": "Creature — Human Scout",
+			"type": "Creature â€” Human Scout",
 			"collector_number": "94",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/94_Halloween Wanderers.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/94_Halloween Wanderers.png"
 			}
 		},
 		{
 			"name": "Clutch Spinner",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{G}",
-			"type": "Creature — Spider",
+			"type": "Creature â€” Spider",
 			"collector_number": "119",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/119_Clutch Spinner.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/119_Clutch Spinner.png"
 			}
 		},
 		{
@@ -1007,7 +1007,7 @@
 			"type": "Sorcery",
 			"collector_number": "128",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/128_In The Face of Danger.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/128_In The Face of Danger.png"
 			}
 		},
 		{
@@ -1017,47 +1017,47 @@
 			"type": "Enchantment",
 			"collector_number": "132",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/132_Monstrous Appetite.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/132_Monstrous Appetite.png"
 			}
 		},
 		{
 			"name": "Amphibititan",
 			"rarity": "uncommon",
 			"mana_cost": "{5}{G}",
-			"type": "Creature — Frog",
+			"type": "Creature â€” Frog",
 			"collector_number": "114",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/114_Amphibititan.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/114_Amphibititan.png"
 			}
 		},
 		{
 			"name": "Swampside Guide",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
-			"type": "Creature — Faerie Scout",
+			"type": "Creature â€” Faerie Scout",
 			"collector_number": "140",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/140_Swampside Guide.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/140_Swampside Guide.png"
 			}
 		},
 		{
 			"name": "Calamari Cook",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{G}",
-			"type": "Creature — Fish",
+			"type": "Creature â€” Fish",
 			"collector_number": "116",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/116_Calamari Cook.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/116_Calamari Cook.png"
 			}
 		},
 		{
 			"name": "Adventurous Tyke",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
-			"type": "Creature — Human Druid",
+			"type": "Creature â€” Human Druid",
 			"collector_number": "113",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/113_Adventurous Tyke.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/113_Adventurous Tyke.png"
 			}
 		},
 		{
@@ -1067,57 +1067,57 @@
 			"type": "Land",
 			"collector_number": "174",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/174_Hiddard's Office.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/174_Hiddard's Office.png"
 			}
 		},
 		{
 			"name": "Ryan Elworm, the Fist",
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{G}",
-			"type": "Legendary Creature — Human Warrior",
+			"type": "Legendary Creature â€” Human Warrior",
 			"collector_number": "134",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/134_Ryan Elworm, the Fist.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/134_Ryan Elworm, the Fist.png"
 			}
 		},
 		{
 			"name": "Carlos Zevallos, The Brains",
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{U}",
-			"type": "Legendary Creature — Human Artificer",
+			"type": "Legendary Creature â€” Human Artificer",
 			"collector_number": "31",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/31_Carlos Zevallos, The Brains.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/31_Carlos Zevallos, The Brains.png"
 			}
 		},
 		{
 			"name": "Rex Moray, the Soul",
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{W}",
-			"type": "Legendary Creature — Human Advisor",
+			"type": "Legendary Creature â€” Human Advisor",
 			"collector_number": "23",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/23_Rex Moray, the Soul.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/23_Rex Moray, the Soul.png"
 			}
 		},
 		{
 			"name": "Storm of Spirits",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}{U}",
-			"type": "Creature — Spirit",
+			"type": "Creature â€” Spirit",
 			"collector_number": "53",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/53_Storm of Spirits.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/53_Storm of Spirits.png"
 			}
 		},
 		{
 			"name": "Lucy Willhooks, the Heart",
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{R}",
-			"type": "Legendary Creature — Human",
+			"type": "Legendary Creature â€” Human",
 			"collector_number": "99",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/99_Lucy Willhooks, the Heart.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/99_Lucy Willhooks, the Heart.png"
 			}
 		},
 		{
@@ -1127,7 +1127,7 @@
 			"type": "Sorcery",
 			"collector_number": "92",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/92_Friends Forever.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/92_Friends Forever.png"
 			}
 		},
 		{
@@ -1137,17 +1137,17 @@
 			"type": "Instant",
 			"collector_number": "72",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/72_Last Gasp.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/72_Last Gasp.png"
 			}
 		},
 		{
 			"name": "Lucy Willhooks, Adventurer",
 			"rarity": "special",
 			"mana_cost": "{2}{R}{R}",
-			"type": "Legendary Planeswalker — Lucy",
+			"type": "Legendary Planeswalker â€” Lucy",
 			"collector_number": "179",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/179_Lucy Willhooks, Adventurer.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/179_Lucy Willhooks, Adventurer.png"
 			}
 		},
 		{
@@ -1157,27 +1157,27 @@
 			"type": "Enchantment",
 			"collector_number": "28",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/28_Youthful Tenacity.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/28_Youthful Tenacity.png"
 			}
 		},
 		{
 			"name": "Jack Attack",
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
-			"type": "Artifact Creature — Construct",
+			"type": "Artifact Creature â€” Construct",
 			"collector_number": "163",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/163_Jack Attack.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/163_Jack Attack.png"
 			}
 		},
 		{
 			"name": "Horrible Harlequin",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
-			"type": "Creature — Horror",
+			"type": "Creature â€” Horror",
 			"collector_number": "96",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/96_Horrible Harlequin.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/96_Horrible Harlequin.png"
 			}
 		},
 		{
@@ -1187,27 +1187,27 @@
 			"type": "Instant",
 			"collector_number": "111",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/111_Uncontrolled Burn.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/111_Uncontrolled Burn.png"
 			}
 		},
 		{
 			"name": "Dead's Best Friend",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
-			"type": "Creature — Dog Spirit",
+			"type": "Creature â€” Dog Spirit",
 			"collector_number": "122",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/122_Dead's Best Friend.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/122_Dead's Best Friend.png"
 			}
 		},
 		{
 			"name": "Ivy Elemental",
 			"rarity": "common",
 			"mana_cost": "{X}{G}",
-			"type": "Creature — Elemental",
+			"type": "Creature â€” Elemental",
 			"collector_number": "129",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/129_Ivy Elemental.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/129_Ivy Elemental.png"
 			}
 		},
 		{
@@ -1217,67 +1217,67 @@
 			"type": "Enchantment",
 			"collector_number": "147",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/147_Freakish Fiction.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/147_Freakish Fiction.png"
 			}
 		},
 		{
 			"name": "Sympathetic Soul",
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
-			"type": "Creature — Spirit",
+			"type": "Creature â€” Spirit",
 			"collector_number": "109",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/109_Sympathetic Soul.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/109_Sympathetic Soul.png"
 			}
 		},
 		{
 			"name": "Ringwoods Invader",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{R}",
-			"type": "Creature — Alien",
+			"type": "Creature â€” Alien",
 			"collector_number": "104",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/104_Ringwoods Invader.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/104_Ringwoods Invader.png"
 			}
 		},
 		{
 			"name": "Pint-Sized Pilferer",
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
-			"type": "Creature — Gnome",
+			"type": "Creature â€” Gnome",
 			"collector_number": "103",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/103_Pint-Sized Pilferer.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/103_Pint-Sized Pilferer.png"
 			}
 		},
 		{
 			"name": "Frankenboy",
 			"rarity": "common",
 			"mana_cost": "{G}",
-			"type": "Creature — Human Construct",
+			"type": "Creature â€” Human Construct",
 			"collector_number": "125",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/125_Frankenboy.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/125_Frankenboy.png"
 			}
 		},
 		{
 			"name": "Adolescent Witch",
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
-			"type": "Creature — Human Warlock",
+			"type": "Creature â€” Human Warlock",
 			"collector_number": "85",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/85_Adolescent Witch.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/85_Adolescent Witch.png"
 			}
 		},
 		{
 			"name": "Ted Moray, Too Old for This",
 			"rarity": "rare",
 			"mana_cost": "{3}{B}{B}",
-			"type": "Legendary Creature — Human Employee",
+			"type": "Legendary Creature â€” Human Employee",
 			"collector_number": "83",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/83_Ted Moray, Too Old for This.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/83_Ted Moray, Too Old for This.png"
 			}
 		},
 		{
@@ -1287,37 +1287,37 @@
 			"type": "Instant",
 			"collector_number": "105",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/105_Say Cheese!.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/105_Say Cheese!.png"
 			}
 		},
 		{
 			"name": "Wage Flayer",
 			"rarity": "uncommon",
 			"mana_cost": "{W}{B}",
-			"type": "Creature — Horror Advisor",
+			"type": "Creature â€” Horror Advisor",
 			"collector_number": "160",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/160_Wage Flayer.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/160_Wage Flayer.png"
 			}
 		},
 		{
 			"name": "Awoken Intelligence",
 			"rarity": "common",
 			"mana_cost": "{4}{R}{R}",
-			"type": "Artifact Creature — Construct",
+			"type": "Artifact Creature â€” Construct",
 			"collector_number": "86",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/86_Awoken Intelligence.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/86_Awoken Intelligence.png"
 			}
 		},
 		{
 			"name": "Genial Treebeard",
 			"rarity": "common",
 			"mana_cost": "{2}{G}{G}",
-			"type": "Creature — Giant",
+			"type": "Creature â€” Giant",
 			"collector_number": "126",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/126_Genial Treebeard.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/126_Genial Treebeard.png"
 			}
 		},
 		{
@@ -1327,47 +1327,47 @@
 			"type": "Artifact",
 			"collector_number": "164",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/164_Shambling Suites.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/164_Shambling Suites.png"
 			}
 		},
 		{
 			"name": "Colossal Gastropod",
 			"rarity": "rare",
 			"mana_cost": "{5}{G}{G}",
-			"type": "Creature — Snail",
+			"type": "Creature â€” Snail",
 			"collector_number": "120",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/120_Colossal Gastropod.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/120_Colossal Gastropod.png"
 			}
 		},
 		{
 			"name": "Stuffed Savior",
 			"rarity": "rare",
 			"mana_cost": "{W}",
-			"type": "Artifact Creature — Bear Knight",
+			"type": "Artifact Creature â€” Bear Knight",
 			"collector_number": "26",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/26_Stuffed Savior.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/26_Stuffed Savior.png"
 			}
 		},
 		{
 			"name": "Stand Tall",
 			"rarity": "rare",
 			"mana_cost": "{4}{W}{W}",
-			"type": "Enchantment — Aura",
+			"type": "Enchantment â€” Aura",
 			"collector_number": "25",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/25_Stand Tall.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/25_Stand Tall.png"
 			}
 		},
 		{
 			"name": "Kitted-Out Investigators",
 			"rarity": "rare",
 			"mana_cost": "{2}{W}",
-			"type": "Creature — Human Advisor",
+			"type": "Creature â€” Human Advisor",
 			"collector_number": "17",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/17_Kitted-Out Investigators.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/17_Kitted-Out Investigators.png"
 			}
 		},
 		{
@@ -1377,7 +1377,7 @@
 			"type": "Instant",
 			"collector_number": "33",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/33_Confirm Suspicions.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/33_Confirm Suspicions.png"
 			}
 		},
 		{
@@ -1387,47 +1387,47 @@
 			"type": "Sorcery",
 			"collector_number": "56",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/56_Unravel Realities.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/56_Unravel Realities.png"
 			}
 		},
 		{
 			"name": "Helicopter Faerie",
 			"rarity": "rare",
 			"mana_cost": "{U}",
-			"type": "Creature — Faerie",
+			"type": "Creature â€” Faerie",
 			"collector_number": "40",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/40_Helicopter Faerie.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/40_Helicopter Faerie.png"
 			}
 		},
 		{
 			"name": "Gargantuan Angler",
 			"rarity": "rare",
 			"mana_cost": "{5}{U}{U}",
-			"type": "Creature — Leviathan",
+			"type": "Creature â€” Leviathan",
 			"collector_number": "39",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/39_Gargantuan Angler.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/39_Gargantuan Angler.png"
 			}
 		},
 		{
 			"name": "Demented Dentist",
 			"rarity": "rare",
 			"mana_cost": "{1}{B}",
-			"type": "Creature — Human Advisor",
+			"type": "Creature â€” Human Advisor",
 			"collector_number": "61",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/61_Demented Dentist.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/61_Demented Dentist.png"
 			}
 		},
 		{
 			"name": "The Intruder From Beyond",
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{B}",
-			"type": "Legendary Planeswalker — Rynea",
+			"type": "Legendary Planeswalker â€” Rynea",
 			"collector_number": "71",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/71_The Intruder From Beyond.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/71_The Intruder From Beyond.png"
 			}
 		},
 		{
@@ -1437,7 +1437,7 @@
 			"type": "Sorcery",
 			"collector_number": "98",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/98_Invasion from the Garden.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/98_Invasion from the Garden.png"
 			}
 		},
 		{
@@ -1447,27 +1447,27 @@
 			"type": "Sorcery",
 			"collector_number": "112",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/112_Your Greatest Terror.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/112_Your Greatest Terror.png"
 			}
 		},
 		{
 			"name": "Spunky Sportster",
 			"rarity": "rare",
 			"mana_cost": "{R}{R}",
-			"type": "Creature — Human Warrior",
+			"type": "Creature â€” Human Warrior",
 			"collector_number": "107",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/107_Spunky Sportster.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/107_Spunky Sportster.png"
 			}
 		},
 		{
 			"name": "Easter Ravager",
 			"rarity": "rare",
 			"mana_cost": "{3}{G}",
-			"type": "Creature — Rabbit Horror",
+			"type": "Creature â€” Rabbit Horror",
 			"collector_number": "124",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/124_Easter Ravager.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/124_Easter Ravager.png"
 			}
 		},
 		{
@@ -1477,47 +1477,47 @@
 			"type": "Enchantment",
 			"collector_number": "131",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/131_Lunar Awakening.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/131_Lunar Awakening.png"
 			}
 		},
 		{
 			"name": "Backyard Naturalist",
 			"rarity": "rare",
 			"mana_cost": "{1}{G}",
-			"type": "Creature — Human Druid",
+			"type": "Creature â€” Human Druid",
 			"collector_number": "115",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/115_Backyard Naturalist.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/115_Backyard Naturalist.png"
 			}
 		},
 		{
 			"name": "Imaginative Rascal",
 			"rarity": "rare",
 			"mana_cost": "{G}",
-			"type": "Creature — Human",
+			"type": "Creature â€” Human",
 			"collector_number": "127",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/127_Imaginative Rascal.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/127_Imaginative Rascal.png"
 			}
 		},
 		{
 			"name": "Perfect Replacement",
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{U}",
-			"type": "Creature — Human Child",
+			"type": "Creature â€” Human Child",
 			"collector_number": "152",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/152_Perfect Replacement.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/152_Perfect Replacement.png"
 			}
 		},
 		{
 			"name": "Voracious Gremlins",
 			"rarity": "rare",
 			"mana_cost": "{U}{B}",
-			"type": "Creature — Gremlin",
+			"type": "Creature â€” Gremlin",
 			"collector_number": "159",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/159_Voracious Gremlins.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/159_Voracious Gremlins.png"
 			}
 		},
 		{
@@ -1527,17 +1527,17 @@
 			"type": "Enchantment",
 			"collector_number": "145",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/145_Falling to Fear.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/145_Falling to Fear.png"
 			}
 		},
 		{
 			"name": "Fourth Street Widow",
 			"rarity": "rare",
 			"mana_cost": "{6}{R}{G}",
-			"type": "Creature — Ogre",
+			"type": "Creature â€” Ogre",
 			"collector_number": "146",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/146_Fourth Street Widow.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/146_Fourth Street Widow.png"
 			}
 		},
 		{
@@ -1547,7 +1547,7 @@
 			"type": "Instant",
 			"collector_number": "158",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/158_Under the Covers.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/158_Under the Covers.png"
 			}
 		},
 		{
@@ -1557,17 +1557,17 @@
 			"type": "Enchantment",
 			"collector_number": "141",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/141_Alchemical Breakthrough.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/141_Alchemical Breakthrough.png"
 			}
 		},
 		{
 			"name": "Elementary Spymaster",
 			"rarity": "rare",
 			"mana_cost": "{1}{U}{R}",
-			"type": "Creature — Human Wizard",
+			"type": "Creature â€” Human Wizard",
 			"collector_number": "144",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/144_Elementary Spymaster.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/144_Elementary Spymaster.png"
 			}
 		},
 		{
@@ -1577,7 +1577,7 @@
 			"type": "Enchantment",
 			"collector_number": "156",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/156_Teamwork.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/156_Teamwork.png"
 			}
 		},
 		{
@@ -1587,7 +1587,7 @@
 			"type": "Land",
 			"collector_number": "177",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/177_Suspicious Alleyway.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/177_Suspicious Alleyway.png"
 			}
 		},
 		{
@@ -1597,7 +1597,7 @@
 			"type": "Land",
 			"collector_number": "175",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/175_Hilltop Haunt.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/175_Hilltop Haunt.png"
 			}
 		},
 		{
@@ -1607,7 +1607,7 @@
 			"type": "Land",
 			"collector_number": "169",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/169_Chilling Cellar.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/169_Chilling Cellar.png"
 			}
 		},
 		{
@@ -1617,7 +1617,7 @@
 			"type": "Land",
 			"collector_number": "171",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/171_Deep Dark Woods.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/171_Deep Dark Woods.png"
 			}
 		},
 		{
@@ -1627,7 +1627,7 @@
 			"type": "Land",
 			"collector_number": "178",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/178_Unsettling Classroom.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/178_Unsettling Classroom.png"
 			}
 		},
 		{
@@ -1637,17 +1637,17 @@
 			"type": "Sorcery",
 			"collector_number": "102",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/102_One Last Hurrah.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/102_One Last Hurrah.png"
 			}
 		},
 		{
 			"name": "Invading Reclaimer",
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{B}",
-			"type": "Artifact Creature — Construct",
+			"type": "Artifact Creature â€” Construct",
 			"collector_number": "149",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/149_Invading Reclaimer.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/149_Invading Reclaimer.png"
 			}
 		},
 		{
@@ -1657,37 +1657,37 @@
 			"type": "Sorcery",
 			"collector_number": "18",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/18_Lost and Alone.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/18_Lost and Alone.png"
 			}
 		},
 		{
 			"name": "Flying Saucer",
 			"rarity": "rare",
 			"mana_cost": "{3}{U}{U}",
-			"type": "Artifact Creature — Alien Ship",
+			"type": "Artifact Creature â€” Alien Ship",
 			"collector_number": "37",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/37_Flying Saucer.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/37_Flying Saucer.png"
 			}
 		},
 		{
 			"name": "Technicolor Tutor",
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{B}",
-			"type": "Creature — Horror",
+			"type": "Creature â€” Horror",
 			"collector_number": "82",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/82_Technicolor Tutor.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/82_Technicolor Tutor.png"
 			}
 		},
 		{
 			"name": "Homegrown Studio",
 			"rarity": "rare",
 			"mana_cost": "{4}{W}{W}",
-			"type": "Artifact Creature — Plant",
+			"type": "Artifact Creature â€” Plant",
 			"collector_number": "15",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/15_Homegrown Studio.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/15_Homegrown Studio.png"
 			}
 		},
 		{
@@ -1697,137 +1697,137 @@
 			"type": "Enchantment",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/11_Ghostly Crossing.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/11_Ghostly Crossing.png"
 			}
 		},
 		{
 			"name": "Amateur Occultist",
 			"rarity": "rare",
 			"mana_cost": "{1}{B}",
-			"type": "Creature — Human Warlock",
+			"type": "Creature â€” Human Warlock",
 			"collector_number": "57",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/57_Amateur Occultist.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/57_Amateur Occultist.png"
 			}
 		},
 		{
 			"name": "Mother Mother",
 			"rarity": "rare",
 			"mana_cost": "{4}{B}{B}",
-			"type": "Creature — Demon",
+			"type": "Creature â€” Demon",
 			"collector_number": "75",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/75_Mother Mother.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/75_Mother Mother.png"
 			}
 		},
 		{
 			"name": "Clue",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Artifact — Clue",
+			"type": "Token Artifact â€” Clue",
 			"collector_number": "9",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/9_Clue.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/9t_Clue.png"
 			}
 		},
 		{
 			"name": "Horror",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Horror",
+			"type": "Token Creature â€” Horror",
 			"collector_number": "3",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/3_Horror.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/3t_Horror.png"
 			}
 		},
 		{
 			"name": "Human",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Human",
+			"type": "Token Creature â€” Human",
 			"collector_number": "1",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/1_Human.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/1t_Human.png"
 			}
 		},
 		{
 			"name": "Egg",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Egg",
+			"type": "Token Creature â€” Egg",
 			"collector_number": "5",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/5_Egg.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/5t_Egg.png"
 			}
 		},
 		{
 			"name": "Construct",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Artifact Creature — Construct",
+			"type": "Token Artifact Creature â€” Construct",
 			"collector_number": "10",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/10_Construct.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/10t_Construct.png"
 			}
 		},
 		{
 			"name": "Rabbit",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Rabbit",
+			"type": "Token Creature â€” Rabbit",
 			"collector_number": "2",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/2_Rabbit.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/2t_Rabbit.png"
 			}
 		},
 		{
 			"name": "Fish",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Fish",
+			"type": "Token Creature â€” Fish",
 			"collector_number": "6",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/6_Fish.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/6t_Fish.png"
 			}
 		},
 		{
 			"name": "Spider",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Spider",
+			"type": "Token Creature â€” Spider",
 			"collector_number": "8",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/8_Spider.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/8t_Spider.png"
 			}
 		},
 		{
 			"name": "Gnome",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Gnome",
+			"type": "Token Creature â€” Gnome",
 			"collector_number": "4",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/4_Gnome.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/4t_Gnome.png"
 			}
 		},
 		{
 			"name": "Thopter",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Artifact Creature — Thopter",
+			"type": "Token Artifact Creature â€” Thopter",
 			"collector_number": "12",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/12_Thopter.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/12t_Thopter.png"
 			}
 		},
 		{
 			"name": "Doll",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Artifact Creature — Doll",
+			"type": "Token Artifact Creature â€” Doll",
 			"collector_number": "11",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/11_Doll.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/11t_Doll.png"
 			}
 		},
 		{
@@ -1837,7 +1837,7 @@
 			"type": "Land",
 			"collector_number": "172",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/172_Fearful Fields.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/172_Fearful Fields.png"
 			}
 		},
 		{
@@ -1847,7 +1847,7 @@
 			"type": "Land",
 			"collector_number": "176",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/176_Pumpkin Patch.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/176_Pumpkin Patch.png"
 			}
 		},
 		{
@@ -1857,7 +1857,7 @@
 			"type": "Land",
 			"collector_number": "170",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/170_Corporate Cubicle.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/170_Corporate Cubicle.png"
 			}
 		},
 		{
@@ -1867,7 +1867,7 @@
 			"type": "Land",
 			"collector_number": "168",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/168_Basement Laboratory.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/168_Basement Laboratory.png"
 			}
 		},
 		{
@@ -1877,7 +1877,7 @@
 			"type": "Land",
 			"collector_number": "173",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/173_Flooded Playground.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/173_Flooded Playground.png"
 			}
 		},
 		{
@@ -1887,17 +1887,17 @@
 			"type": "Sorcery",
 			"collector_number": "43",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/43_Lunar Repetition.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/43_Lunar Repetition.png"
 			}
 		},
 		{
 			"name": "Camp Lune Counselor",
 			"rarity": "rare",
 			"mana_cost": "{1}{G}",
-			"type": "Creature — Human Werewolf",
+			"type": "Creature â€” Human Werewolf",
 			"collector_number": "117",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/117_Camp Lune Counselor.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/117_Camp Lune Counselor.png"
 			}
 		},
 		{
@@ -1907,9 +1907,9 @@
 			"type": "Sorcery",
 			"collector_number": "65",
 			"image_uris": {
-				"en": "https://GayveryGrove.github.io/sets/SRB-files/img/65_Face the Truth.png"
+				"en": "https://gayverygrove.github.io/sets/SRB-files/img/65_Face the Truth.png"
 			}
-		},
+		}
 	]
 
 [rare(1)]

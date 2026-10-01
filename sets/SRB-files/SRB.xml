@@ -1,0 +1,3315 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>SRB</name>
+			<longname>Surviving Suburbia</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-09-30</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Accidental Awakening</name>
+			<text>Destroy target attacking or blocking creature. Investigate. (Create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this artifact: Draw a card.&quot;)</text>
+			<set rarity="common" picurl="https://gayverygrove.github.io/sets/SRB-files/img/1_Accidental Awakening.png" num="1">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Morbid Discovery</name>
+			<text>Destroy target creature or planeswalker. Investigate. (Create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this artifact: Draw a card.&quot;)</text>
+			<set rarity="common" picurl="https://gayverygrove.github.io/sets/SRB-files/img/74_Morbid Discovery.png" num="74">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Inquisitive Youth</name>
+			<text>When Inquisitive Youth dies, put a +1/+1 counter on target tapped creature you control.</text>
+			<set rarity="common" picurl="https://gayverygrove.github.io/sets/SRB-files/img/97_Inquisitive Youth.png" num="97">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Enclosed Kraken</name>
+			<text>Startle {1}{U}{U} (You may cast this spell from your hand for its startle cost. If you do, exile it when it enters or if it would leave the battlefield. You may cast it from exile.)
+When Enclosed Kraken enters the battlefield, target player mills three cards.
+Enclosed Kraken can&apos;t attack unless a player has seven or more cards in their graveyard.</text>
+			<set rarity="common" picurl="https://gayverygrove.github.io/sets/SRB-files/img/36_Enclosed Kraken.png" num="36">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Kraken</type>
+				<maintype>Creature</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>6/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Club Meetup</name>
+			<text>Look at the top four cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in a random order. Investigate. (Create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this artifact: Draw a card.&quot;)</text>
+			<set rarity="common" picurl="https://gayverygrove.github.io/sets/SRB-files/img/118_Club Meetup.png" num="118">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Slumbering Stargazer</name>
+			<text>Startle {2}{G} (You may cast this spell from your hand for its startle cost. If you do, exile it when it enters or if it would leave the battlefield. You may cast it from exile.)
+Trample
+When Slumbering Stargazer enters the battlefield, put two +1/+1 counters on target creature you control.</text>
+			<set rarity="common" picurl="https://gayverygrove.github.io/sets/SRB-files/img/136_Slumbering Stargazer.png" num="136">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Giant</type>
+				<maintype>Creature</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Terrifying Teachings</name>
+			<text>Choose one—
+• Creatures you control get +2/+0 until end of turn.
+• Terrifying Teachings deals damage equal to the number of creatures you control to target creature or planeswalker you don&apos;t control.</text>
+			<set rarity="common" picurl="https://gayverygrove.github.io/sets/SRB-files/img/110_Terrifying Teachings.png" num="110">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Puzzler&apos;s Clubhouse</name>
+			<text>When Puzzler&apos;s Clubhouse enters the battlefield, investigate. (Create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this artifact: Draw a card.&quot;)
+At the beginning of combat on your turn, distribute X +1/+1 counters among creatures you control, where X is the number of cards you&apos;ve drawn this turn.</text>
+			<set rarity="uncommon" picurl="https://gayverygrove.github.io/sets/SRB-files/img/153_Puzzler&apos;s Clubhouse.png" num="153">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1GW</manacost>
+				<cmc>3</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Basement Genius</name>
+			<text>If a creature entering the battlefield would cause a triggered ability of a permanent you control to trigger, if that creature wasn&apos;t cast from your hand, that ability triggers an additional time.</text>
+			<set rarity="uncommon" picurl="https://gayverygrove.github.io/sets/SRB-files/img/142_Basement Genius.png" num="142">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>1GU</manacost>
+				<cmc>3</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Discovery in the Dark</name>
+			<text>Choose one—
+• Target player sacrifices a creature.
+• Return target creature card from your graveyard to your hand.</text>
+			<set rarity="common" picurl="https://gayverygrove.github.io/sets/SRB-files/img/62_Discovery in the Dark.png" num="62">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Unsettling Ornaments</name>
+			<text>At the beginning of your upkeep, if Unsettling Ornaments is on the battlefield, return all cards named Unsettling Ornaments from your graveyard to your battlefield.</text>
+			<set rarity="common" picurl="https://gayverygrove.github.io/sets/SRB-files/img/166_Unsettling Ornaments.png" num="166">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Streetlamp Stalker</name>
+			<text>Flying
+When Streetlamp Stalker enters the battlefield, unnerve target creature until your next turn. (Turn that creature face down and remove all damage from it. It&apos;s a 2/2 with no abilities.)
+Face-down creatures can&apos;t block.</text>
+			<set rarity="uncommon" picurl="https://gayverygrove.github.io/sets/SRB-files/img/154_Streetlamp Stalker.png" num="154">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vampire</type>
+				<maintype>Creature</maintype>
+				<manacost>2BR</manacost>
+				<cmc>4</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Childhood Wanderings</name>
+			<text>Whenever one or more creatures you control deal combat damage to a player, Childhood Wanderings deals 2 damage to that player.
+{1}{UR}{UR}: Target creature with power 2 or less can&apos;t be blocked this turn.</text>
+			<set rarity="uncommon" picurl="https://gayverygrove.github.io/sets/SRB-files/img/143_Childhood Wanderings.png" num="143">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>UR</manacost>
+				<cmc>2</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Juvenile Informant</name>
+			<text>Whenever Juvenile Informant deals combat damage to a player, investigate. (Create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this artifact: Draw a card.&quot;)</text>
+			<set rarity="common" picurl="https://gayverygrove.github.io/sets/SRB-files/img/130_Juvenile Informant.png" num="130">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Unwavering Investigator</name>
+			<text>Ward {2} (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)
+Unwavering Investigator can&apos;t be blocked by Horrors.</text>
+			<set rarity="common" picurl="https://gayverygrove.github.io/sets/SRB-files/img/27_Unwavering Investigator.png" num="27">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Blackeye Bully</name>
+			<text>Menace
+When Blackeye Bully enters the battlefield, unnerve another target creature until end of turn. (Turn that creature face down and remove all damage from it. It&apos;s a 2/2 with no abilities.)</text>
+			<set rarity="common" picurl="https://gayverygrove.github.io/sets/SRB-files/img/58_Blackeye Bully.png" num="58">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Berserker</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cursed Camera</name>
+			<text>Equipped creature gets +1/+1.
+Whenever equipped creature attacks, you may unnerve target creature defending player controls until end of turn. (Turn that creature face down and remove all damage from it. It&apos;s a 2/2 with no abilities.)
+Equip {2}</text>
+			<set rarity="common" picurl="https://gayverygrove.github.io/sets/SRB-files/img/161_Cursed Camera.png" num="161">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Suspicious Shortcut</name>
+			<text>Choose one—
+• Return target creature you don&apos;t control to its owner&apos;s hand.
+• Target creature you control can&apos;t be blocked this turn.</text>
+			<set rarity="common" picurl="https://gayverygrove.github.io/sets/SRB-files/img/54_Suspicious Shortcut.png" num="54">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Shock</name>
+			<text>Shock deals 2 damage to any target.</text>
+			<set rarity="common" picurl="https://gayverygrove.github.io/sets/SRB-files/img/106_Shock.png" num="106">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Keep Tabs</name>
+			<text>Choose one—
+• Destroy target artifact or enchantment.
+• Investigate. (Create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this artifact: Draw a card.&quot;)</text>
+			<set rarity="common" picurl="https://gayverygrove.github.io/sets/SRB-files/img/16_Keep Tabs.png" num="16">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Consuming Blob</name>
+			<text>Trample
+Whenever another creature enters the battlefield under your control, put a +1/+1 counter on Consuming Blob.</text>
+			<set rarity="common" picurl="https://gayverygrove.github.io/sets/SRB-files/img/121_Consuming Blob.png" num="121">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ooze</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Chilling Cabbie</name>
+			<text>Haste
+When Chilling Cabbie enters the battlefield, you may unnerve target creature until your next turn. (Turn that creature face down and remove all damage from it. It&apos;s a 2/2 with no abilities.)</text>
+			<set rarity="common" picurl="https://gayverygrove.github.io/sets/SRB-files/img/88_Chilling Cabbie.png" num="88">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bedside Poltergeist</name>
+			<text>Flying
+Whenever an artifact enters the battlefield under your control, put a +1/+1 counter on Bedside Poltergeist. This ability triggers only once each turn.</text>
+			<set rarity="common" picurl="https://gayverygrove.github.io/sets/SRB-files/img/3_Bedside Poltergeist.png" num="3">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Public Exorcism</name>
+			<text>Counter target permanent spell.</text>
+			<set rarity="common" picurl="https://gayverygrove.github.io/sets/SRB-files/img/47_Public Exorcism.png" num="47">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Tabby of Terror</name>
+			<text>As an additional cost to cast this spell, you may sacrifice any number of artifacts. This spell costs {2} less to cast for each artifact sacrificed this way.
+When Tabby of Terror enters the battlefield, target opponent loses 3 life and you gain 3 life.</text>
+			<set rarity="common" picurl="https://gayverygrove.github.io/sets/SRB-files/img/81_Tabby of Terror.png" num="81">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat Zombie</type>
+				<maintype>Creature</maintype>
+				<manacost>6BB</manacost>
+				<cmc>8</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Steely Sasquatch</name>
+			<text>Steely Sasquatch can&apos;t be turned face down.</text>
+			<set rarity="common" picurl="https://gayverygrove.github.io/sets/SRB-files/img/139_Steely Sasquatch.png" num="139">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Yeti</type>
+				<maintype>Creature</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Stashed Away</name>
+			<text>Enchant nonland permanent
+Enchanted permanent is a Clue artifact with &quot;{2}, Sacrifice this artifact: Draw a card,&quot; and it loses all other abilities. (If it was a creature, it&apos;s no longer a creature.)</text>
+			<set rarity="common" picurl="https://gayverygrove.github.io/sets/SRB-files/img/52_Stashed Away.png" num="52">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Grade School Ghouls</name>
+			<text>When Grade School Ghouls dies, investigate. (Create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this artifact: Draw a card.&quot;)</text>
+			<set rarity="common" picurl="https://gayverygrove.github.io/sets/SRB-files/img/69_Grade School Ghouls.png" num="69">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Remain Courageous</name>
+			<text>Creatures you control get +1/+1 until end of turn. You may turn any number of face down creatures you control face up.</text>
+			<set rarity="common" picurl="https://gayverygrove.github.io/sets/SRB-files/img/22_Remain Courageous.png" num="22">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Fearful Finding</name>
+			<text>Unnerve target creature until end of turn. Creatures without flying can&apos;t block this turn. (Turn that creature face down and remove all damage from it. It&apos;s a 2/2 with no abilities.)</text>
+			<set rarity="common" picurl="https://gayverygrove.github.io/sets/SRB-files/img/91_Fearful Finding.png" num="91">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Invisible Prankster</name>
+			<text>Invisible Prankster can&apos;t be blocked by Humans.</text>
+			<set rarity="common" picurl="https://gayverygrove.github.io/sets/SRB-files/img/41_Invisible Prankster.png" num="41">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gigantic Lepidoptera</name>
+			<text>Startle {W} (You may cast this spell from your hand for its startle cost. If you do, exile it when it enters or if it would leave the battlefield. You may cast it from exile.)
+Flying
+When Gigantic Lepidoptera enters the battlefield, target creature gains flying until end of turn.</text>
+			<set rarity="common" picurl="https://gayverygrove.github.io/sets/SRB-files/img/12_Gigantic Lepidoptera.png" num="12">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Detention</name>
+			<text>Enchant creature
+Enchanted creature can&apos;t attack, block, or be the target of spells or abilities its controller controls.</text>
+			<set rarity="common" picurl="https://gayverygrove.github.io/sets/SRB-files/img/7_Detention.png" num="7">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Confident Punk</name>
+			<text>Confident Punk has first strike as long as it&apos;s attacking.</text>
+			<set rarity="common" picurl="https://gayverygrove.github.io/sets/SRB-files/img/6_Confident Punk.png" num="6">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rally the Gang</name>
+			<text>Create two 1/1 white Human creature tokens.</text>
+			<set rarity="common" picurl="https://gayverygrove.github.io/sets/SRB-files/img/21_Rally the Gang.png" num="21">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Novice Puzzler</name>
+			<text>Lifelink
+Novice Puzzler enters the battlefield with a +1/+1 counter on it if you investigated this turn.</text>
+			<set rarity="common" picurl="https://gayverygrove.github.io/sets/SRB-files/img/19_Novice Puzzler.png" num="19">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Benevolent Phantasm</name>
+			<text>Startle {W} (You may cast this spell from your hand for its startle cost. If you do, exile it when it enters or if it would leave the battlefield. You may cast it from exile.)
+When Benevolent Phantasm enters the battlefield, you gain 2 life and investigate. (Create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this artifact: Draw a card.&quot;)</text>
+			<set rarity="common" picurl="https://gayverygrove.github.io/sets/SRB-files/img/4_Benevolent Phantasm.png" num="4">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>5W</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sleepless Guide</name>
+			<text>Whenever Sleepless Guide deals combat damage to a player, you may exile target creature you control, then return it to the battlefield.</text>
+			<set rarity="common" picurl="https://gayverygrove.github.io/sets/SRB-files/img/24_Sleepless Guide.png" num="24">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lucky Bystander</name>
+			<text>{T}: Draw a card, then discard a card.</text>
+			<set rarity="common" picurl="https://gayverygrove.github.io/sets/SRB-files/img/42_Lucky Bystander.png" num="42">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Driveway Liturgy</name>
+			<text>As an additional cost to cast this spell, sacrifice a creature or artifact.
+Scry 2, then draw two cards.</text>
+			<set rarity="common" picurl="https://gayverygrove.github.io/sets/SRB-files/img/64_Driveway Liturgy.png" num="64">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Autumn Glade</name>
+			<text>{T}, Sacrifice Autumn Glade: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.</text>
+			<set rarity="common" picurl="https://gayverygrove.github.io/sets/SRB-files/img/167_Autumn Glade.png" num="167">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Undead Artist</name>
+			<text>When Undead Artist enters the battlefield, you lose 1 life and investigate. (Create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this artifact: Draw a card.&quot;)
+At the beginning of your end step, each opponent loses X life, where X is the number of permanents you sacrificed this turn.</text>
+			<set rarity="uncommon" picurl="https://gayverygrove.github.io/sets/SRB-files/img/157_Undead Artist.png" num="157">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zombie Artist</type>
+				<maintype>Creature</maintype>
+				<manacost>1UB</manacost>
+				<cmc>3</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Incited Attic</name>
+			<text>Trample
+Incited Attic can&apos;t attack unless a creature you control with a +1/+1 counter on it attacks. (If this has a +1/+1 counter on it, it can attack.)</text>
+			<set rarity="uncommon" picurl="https://gayverygrove.github.io/sets/SRB-files/img/148_Incited Attic.png" num="148">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>1RG</manacost>
+				<cmc>3</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Summertime Sharpshooter</name>
+			<text>Summertime Sharpshooter has first strike as long as it&apos;s attacking.
+Summertime Sharpshooter&apos;s power is equal to the number of creatures you control.</text>
+			<set rarity="uncommon" picurl="https://gayverygrove.github.io/sets/SRB-files/img/155_Summertime Sharpshooter.png" num="155">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>RW</manacost>
+				<cmc>2</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>*/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Man in Black</name>
+			<text>Man in Black can&apos;t be blocked as long as a creature entered the battlefield under your control this turn.
+Whenever Man in Black deals combat damage to a player, put a +1/+1 counter on each tapped creature you control.</text>
+			<set rarity="uncommon" picurl="https://gayverygrove.github.io/sets/SRB-files/img/151_Man in Black.png" num="151">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>1WU</manacost>
+				<cmc>3</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Disgruntled Librarian</name>
+			<text>{W}, {T}: Tap target creature.</text>
+			<set rarity="common" picurl="https://gayverygrove.github.io/sets/SRB-files/img/8_Disgruntled Librarian.png" num="8">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Spill the Beans</name>
+			<text>Draw a card.
+Investigate. (Create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this artifact: Draw a card.&quot;)</text>
+			<set rarity="common" picurl="https://gayverygrove.github.io/sets/SRB-files/img/50_Spill the Beans.png" num="50">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Rosebury Delinquent</name>
+			<text>Whenever Rosebury Delinquent or another creature enters the battlefield under your control, you may scry 1.</text>
+			<set rarity="common" picurl="https://gayverygrove.github.io/sets/SRB-files/img/48_Rosebury Delinquent.png" num="48">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Teacher&apos;s Aide</name>
+			<text>Activated abilities of artifacts you control cost {1} less to activate. This effect can&apos;t reduce the mana in that cost to less than one mana.</text>
+			<set rarity="common" picurl="https://gayverygrove.github.io/sets/SRB-files/img/55_Teacher&apos;s Aide.png" num="55">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bony Blockade</name>
+			<text>Defender
+When Bony Blockade enters the battlefield, investigate. (Create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this artifact: Draw a card.&quot;)</text>
+			<set rarity="common" picurl="https://gayverygrove.github.io/sets/SRB-files/img/30_Bony Blockade.png" num="30">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Skeleton Wall</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>0/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Normal Neighbor</name>
+			<text>Normal Neighbor can&apos;t be blocked.
+When Normal Neighbor enters the battlefield, return a creature you control to its owner&apos;s hand.</text>
+			<set rarity="common" picurl="https://gayverygrove.github.io/sets/SRB-files/img/45_Normal Neighbor.png" num="45">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Foolish Fortune</name>
+			<text>Enchant creature
+Enchanted creature gets -1/-1 and can&apos;t block.
+{3}{B}{B}, Sacrifice Foolish Fortune: Destroy enchanted creature.</text>
+			<set rarity="common" picurl="https://gayverygrove.github.io/sets/SRB-files/img/66_Foolish Fortune.png" num="66">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Fridge Creeper</name>
+			<text>Deathtouch
+Fridge Creeper enters the battlefield with an additional +1/+1 counter on it if you sacrificed a permanent this turn.</text>
+			<set rarity="common" picurl="https://gayverygrove.github.io/sets/SRB-files/img/68_Fridge Creeper.png" num="68">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Repulsive Relative</name>
+			<text>Whenever you sacrifice a permanent, put a +1/+1 counter on Repulsive Relative.</text>
+			<set rarity="common" picurl="https://gayverygrove.github.io/sets/SRB-files/img/77_Repulsive Relative.png" num="77">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Malicious Mall Goth</name>
+			<text>{1}, Sacrifice a creature or artifact: You draw a card and you lose 1 life.</text>
+			<set rarity="common" picurl="https://gayverygrove.github.io/sets/SRB-files/img/73_Malicious Mall Goth.png" num="73">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dishearten</name>
+			<text>Target player discards two cards. You may put a card that player owns in exile into their graveyard.</text>
+			<set rarity="common" picurl="https://gayverygrove.github.io/sets/SRB-files/img/63_Dishearten.png" num="63">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Worn Crowherder</name>
+			<text>Whenever a face-down creature you don&apos;t control dies, Worn Crowherder deals 1 damage to each opponent.</text>
+			<set rarity="common" picurl="https://gayverygrove.github.io/sets/SRB-files/img/84_Worn Crowherder.png" num="84">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Scarecrow</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sewer Sludge</name>
+			<text>Lifelink
+Sewer Sludge gets +1/+1 as long as you sacrificed a permanent this turn.</text>
+			<set rarity="common" picurl="https://gayverygrove.github.io/sets/SRB-files/img/78_Sewer Sludge.png" num="78">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ooze</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Guardian of the Grill</name>
+			<text>When Guardian of the Grill dies, create a 1/1 white Human creature token.</text>
+			<set rarity="common" picurl="https://gayverygrove.github.io/sets/SRB-files/img/93_Guardian of the Grill.png" num="93">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Station Scaleling</name>
+			<text>Flying
+{R}: Station Scaleling gets +1/+0 until end of turn.</text>
+			<set rarity="common" picurl="https://gayverygrove.github.io/sets/SRB-files/img/108_Station Scaleling.png" num="108">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cornfield Creeping</name>
+			<text>When Cornfield Creeping enters the battlefield, gain control of target creature until end of turn. Untap it. It gains haste until end of turn.
+{R}, Sacrifice Cornfield Creeping: Target creature can&apos;t block this turn.</text>
+			<set rarity="common" picurl="https://gayverygrove.github.io/sets/SRB-files/img/89_Cornfield Creeping.png" num="89">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Happy Campers</name>
+			<text>Whenever Happy Campers attacks, it deals 1 damage to the player or planeswalker it&apos;s attacking.</text>
+			<set rarity="common" picurl="https://gayverygrove.github.io/sets/SRB-files/img/95_Happy Campers.png" num="95">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Momentary Infestation</name>
+			<text>Choose one—
+• Destroy target artifact.
+• Discard a card. If you do, draw two cards.</text>
+			<set rarity="common" picurl="https://gayverygrove.github.io/sets/SRB-files/img/100_Momentary Infestation.png" num="100">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Spirited Victory</name>
+			<text>Target creature you control deals damage equal to its power to target creature you don&apos;t control.</text>
+			<set rarity="common" picurl="https://gayverygrove.github.io/sets/SRB-files/img/137_Spirited Victory.png" num="137">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>School Summoner</name>
+			<text>Startle {1}{G} (You may cast this spell from your hand for its startle cost. If you do, exile it when it enters or if it would leave the battlefield. You may cast it from exile.)
+When School Summoner enters the battlefield, create a 1/1 colorless Construct artifact creature token.</text>
+			<set rarity="common" picurl="https://gayverygrove.github.io/sets/SRB-files/img/135_School Summoner.png" num="135">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Destructive Defense</name>
+			<text>Choose one—
+• Destroy target artifact or enchantment.
+• Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.</text>
+			<set rarity="common" picurl="https://gayverygrove.github.io/sets/SRB-files/img/123_Destructive Defense.png" num="123">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ice Cream Truck</name>
+			<text>Ice Cream Truck must be blocked if able.
+Crew 2 (Tap any number of creatures you control with total power 2 or more: This Vehicle becomes an artifact creature until end of turn.)</text>
+			<set rarity="common" picurl="https://gayverygrove.github.io/sets/SRB-files/img/162_Ice Cream Truck.png" num="162">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Stuffed Locker</name>
+			<text>When Stuffed Locker enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle.
+{2}, Sacrifice Stuffed Locker: Draw a card.</text>
+			<set rarity="common" picurl="https://gayverygrove.github.io/sets/SRB-files/img/165_Stuffed Locker.png" num="165">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Clue</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Seaborn Befuddler</name>
+			<text>Flash
+When Seaborn Befuddler enters the battlefield, you may return another target permanent you control to its owner&apos;s hand.</text>
+			<set rarity="common" picurl="https://gayverygrove.github.io/sets/SRB-files/img/49_Seaborn Befuddler.png" num="49">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Merfolk</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Birdwatching</name>
+			<text>Enchant creature
+Enchanted creature has flying.
+If enchanted creature would die, instead return it to its owner&apos;s hand.</text>
+			<set rarity="common" picurl="https://gayverygrove.github.io/sets/SRB-files/img/29_Birdwatching.png" num="29">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Morning Mailman</name>
+			<text>Haste
+When Morning Mailman enters the battlefield, draw a card.</text>
+			<set rarity="common" picurl="https://gayverygrove.github.io/sets/SRB-files/img/133_Morning Mailman.png" num="133">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Spooked Pooch</name>
+			<text>When Spooked Pooch enters the battlefield, put a +1/+1 counter on target creature you control.</text>
+			<set rarity="common" picurl="https://gayverygrove.github.io/sets/SRB-files/img/138_Spooked Pooch.png" num="138">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dog</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Jack, Monstrous Liaison</name>
+			<text></text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/SRB-files/img/150_Jack, Monstrous Liaison.png" num="150">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Jack</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2BG</manacost>
+				<cmc>4</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Plant SRB</name>
+			<text>When this creature dies, you may mill three cards.</text>
+			<set rarity="common" picurl="https://gayverygrove.github.io/sets/SRB-files/img/7t_Plant.png" num="7">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Plant</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Clinging Toy</name>
+			<text>Startle {W} (You may cast this spell from your hand for its startle cost. If you do, exile it when it enters or if it would leave the battlefield. You may cast it from exile.)
+When Clinging Toy enters the battlefield, you may exile target nonartifact creature until Clinging Toy leaves the battlefield.</text>
+			<set rarity="uncommon" picurl="https://gayverygrove.github.io/sets/SRB-files/img/5_Clinging Toy.png" num="5">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Popup Puppeteer</name>
+			<text>When Popup Puppeteer enters the battlefield and at the beginning of your upkeep, if you control no Dolls, you may pay {1}. If you do, create a 1/1 colorless Doll artifact creature token.</text>
+			<set rarity="uncommon" picurl="https://gayverygrove.github.io/sets/SRB-files/img/20_Popup Puppeteer.png" num="20">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gossiping Posse</name>
+			<text>When Gossiping Posse leaves the battlefield, investigate. (Create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this artifact: Draw a card.&quot;)</text>
+			<set rarity="uncommon" picurl="https://gayverygrove.github.io/sets/SRB-files/img/13_Gossiping Posse.png" num="13">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ghostly Assistant</name>
+			<text>Flying
+Whenever you investigate for the first time each turn, investigate an additional time.</text>
+			<set rarity="uncommon" picurl="https://gayverygrove.github.io/sets/SRB-files/img/10_Ghostly Assistant.png" num="10">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hide</name>
+			<text>Counter target spell or ability that targets you or a permanent you control unless that spell&apos;s controller pays {2}. When they do, investigate. (Create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this artifact: Draw a card.&quot;)</text>
+			<set rarity="uncommon" picurl="https://gayverygrove.github.io/sets/SRB-files/img/14_Hide.png" num="14">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Alluring Presence</name>
+			<text>Flying
+When Alluring Presence enters the battlefield, create three 1/1 white Human creature tokens.</text>
+			<set rarity="uncommon" picurl="https://gayverygrove.github.io/sets/SRB-files/img/2_Alluring Presence.png" num="2">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fakeout</name>
+			<text>Prevent all damage that would be dealt to and dealt by target creature this turn. Scry 1.</text>
+			<set rarity="uncommon" picurl="https://gayverygrove.github.io/sets/SRB-files/img/9_Fakeout.png" num="9">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Diligent Notetaking</name>
+			<text>Whenever you sacrifice a Clue, scry 2. (Do this before you draw.)
+{2}, Sacrifice Diligent Notetaking: Investigate twice. (To investigate, create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this artifact: Draw a card.&quot;)</text>
+			<set rarity="uncommon" picurl="https://gayverygrove.github.io/sets/SRB-files/img/35_Diligent Notetaking.png" num="35">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Cram</name>
+			<text>As an additional cost to cast this spell, sacrifice an artifact or creature.
+Draw three cards.</text>
+			<set rarity="uncommon" picurl="https://gayverygrove.github.io/sets/SRB-files/img/34_Cram.png" num="34">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Playground Poltergeist</name>
+			<text>Startle {1}{U} (You may cast this spell from your hand for its startle cost. If you do, exile it when it enters or if it would leave the battlefield. You may cast it from exile.)
+When Playground Poltergeist enters the battlefield, draw a card for each creature that entered the battlefield this turn.</text>
+			<set rarity="uncommon" picurl="https://gayverygrove.github.io/sets/SRB-files/img/46_Playground Poltergeist.png" num="46">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Neighborhood Watch</name>
+			<text>Flash
+Flying
+When Neighborhood Watch enters the battlefield, counter all spells and other abilities.</text>
+			<set rarity="uncommon" picurl="https://gayverygrove.github.io/sets/SRB-files/img/44_Neighborhood Watch.png" num="44">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Eye</type>
+				<maintype>Creature</maintype>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Starstruck Squids</name>
+			<text>Flying
+When Starstruck Squids leaves the battlefield, draw a card.</text>
+			<set rarity="uncommon" picurl="https://gayverygrove.github.io/sets/SRB-files/img/51_Starstruck Squids.png" num="51">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Squid</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Common Sense</name>
+			<text>As an additional cost to cast this spell, sacrifice a Clue or pay {1}.
+Counter target spell.</text>
+			<set rarity="uncommon" picurl="https://gayverygrove.github.io/sets/SRB-files/img/32_Common Sense.png" num="32">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>UU</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Frosted Fiend</name>
+			<text>Startle {2}{U} (You may cast this spell from your hand for its startle cost. If you do, exile it when it enters or if it would leave the battlefield. You may cast it from exile.)
+When Frosted Fiend enters the battlefield, tap target creature you don&apos;t control. it doesn&apos;t untap during its controller&apos;s next untap step.</text>
+			<set rarity="uncommon" picurl="https://gayverygrove.github.io/sets/SRB-files/img/38_Frosted Fiend.png" num="38">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>5UU</manacost>
+				<cmc>7</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>6/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Starving Slime</name>
+			<text>Deathtouch
+When Starving Slime enters the battlefield, you may unnerve another target creature until Starving Slime leaves the battlefield. (Turn that creature face down and remove all damage from it. It&apos;s a 2/2 with no abilities.)</text>
+			<set rarity="uncommon" picurl="https://gayverygrove.github.io/sets/SRB-files/img/79_Starving Slime.png" num="79">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ooze</type>
+				<maintype>Creature</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Surrounded by Shadows</name>
+			<text>Unnerve up to one target creature until end of turn. (Turn that creature face down and remove all damage from it. It&apos;s a 2/2 with no abilities.)
+All creatures get -2/-2 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://gayverygrove.github.io/sets/SRB-files/img/80_Surrounded by Shadows.png" num="80">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>The House of Nightmares</name>
+			<text>Whenever The House of Nightmares enters the battlefield or you sacrifice a permanent, put a +1/+1 counter on it.
+At the beginning of combat on your turn, you may have The House of Nightmares become a 0/0 Skeleton creature with menace until end of turn.</text>
+			<set rarity="uncommon" picurl="https://gayverygrove.github.io/sets/SRB-files/img/70_The House of Nightmares.png" num="70">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>The Bogeyman&apos;s Clutches</name>
+			<text>Target opponent reveals their hand. You choose a nonland card from among them. That player discards that card.</text>
+			<set rarity="uncommon" picurl="https://gayverygrove.github.io/sets/SRB-files/img/59_The Bogeyman&apos;s Clutches.png" num="59">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Puzzler&apos;s Watchman</name>
+			<text>Whenever a creature dies, investigate. This ability triggers only once each turn. (To investigate, create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this artifact: Draw a card.&quot;)</text>
+			<set rarity="uncommon" picurl="https://gayverygrove.github.io/sets/SRB-files/img/76_Puzzler&apos;s Watchman.png" num="76">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Freaks of Fourth Street</name>
+			<text>Whenever Freaks of Fourth Street attacks, unnerve target creature defending player controls until end of turn. (Turn that creature face down and remove all damage from it. It&apos;s a 2/2 with no abilities.)</text>
+			<set rarity="uncommon" picurl="https://gayverygrove.github.io/sets/SRB-files/img/67_Freaks of Fourth Street.png" num="67">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Channel Zero</name>
+			<text>Startle {3}{B} (You may cast this spell from your hand for its startle cost. If you do, exile it when it enters or if it would leave the battlefield. You may cast it from exile.)
+When Channel Zero enters the battlefield, target creature you don&apos;t control gets -2/-2 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://gayverygrove.github.io/sets/SRB-files/img/60_Channel Zero.png" num="60">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Evening Escapades</name>
+			<text>Exile the top two cards of your library with a venture counter on it. You may play those cards during any turn where a creature you controlled dealt combat damage to a player.</text>
+			<set rarity="uncommon" picurl="https://gayverygrove.github.io/sets/SRB-files/img/90_Evening Escapades.png" num="90">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Bedside Bonfire</name>
+			<text>Choose one—
+• Bedside Bonfire deals 2 damage to target creature or planeswalker.
+• Destroy target artifact with mana value 3 or less.</text>
+			<set rarity="uncommon" picurl="https://gayverygrove.github.io/sets/SRB-files/img/87_Bedside Bonfire.png" num="87">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Monstrous Melody</name>
+			<text>Choose one—
+• Monstrous Melody deals 3 damage to each face-down creature.
+• Monstrous Melody deals 3 damage to each face-up creature.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/SRB-files/img/101_Monstrous Melody.png" num="101">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Halloween Wanderers</name>
+			<text>Whenever Halloween Wanderers attacks, create a 1/1 white Human creature token tapped and attacking. Exile that token at the beginning of the next end step unless Halloween Wanderers dealt combat damage to a player this turn.</text>
+			<set rarity="uncommon" picurl="https://gayverygrove.github.io/sets/SRB-files/img/94_Halloween Wanderers.png" num="94">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Clutch Spinner</name>
+			<text>Reach
+Startle {2}{G} (You may cast this spell from your hand for its startle cost. If you do, exile it when it enters or if it would leave the battlefield. You may cast it from exile.)
+When Clutch Spinner leaves the battlefield, create a 1/2 green Spider creature token with reach.</text>
+			<set rarity="uncommon" picurl="https://gayverygrove.github.io/sets/SRB-files/img/119_Clutch Spinner.png" num="119">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spider</type>
+				<maintype>Creature</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>In The Face of Danger</name>
+			<text>Investigate, then target creature you control gets +1/+1 until end of turn for each Clue you control. That creature fights target creature you don&apos;t control. (To investigate, create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this artifact: Draw a card.&quot;)</text>
+			<set rarity="uncommon" picurl="https://gayverygrove.github.io/sets/SRB-files/img/128_In The Face of Danger.png" num="128">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Monstrous Appetite</name>
+			<text>When Monstrous Appetite enters the battlefield, create a 0/1 white Rabbit creature token.
+Sacrifice a creature or artifact: Put a +1/+1 counter on target creature token you control. Activate only once each turn and only as a sorcery.</text>
+			<set rarity="uncommon" picurl="https://gayverygrove.github.io/sets/SRB-files/img/132_Monstrous Appetite.png" num="132">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Amphibititan</name>
+			<text>Startle {1}{G} (You may cast this spell from your hand for its startle cost. If you do, exile it when it enters or if it would leave the battlefield. You may cast it from exile.)
+When Amphibititan enters the battlefield, you may destroy target artifact or enchantment.</text>
+			<set rarity="uncommon" picurl="https://gayverygrove.github.io/sets/SRB-files/img/114_Amphibititan.png" num="114">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Frog</type>
+				<maintype>Creature</maintype>
+				<manacost>5G</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Swampside Guide</name>
+			<text>Flash
+Whenever you draw a card, put a +1/+1 counter on Swampside Guide.</text>
+			<set rarity="uncommon" picurl="https://gayverygrove.github.io/sets/SRB-files/img/140_Swampside Guide.png" num="140">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Calamari Cook</name>
+			<text>When Calamari Cook enters the battlefield, create a 1/1 green Fish creature token.
+Sacrifice another creature: You gain 2 life.</text>
+			<set rarity="uncommon" picurl="https://gayverygrove.github.io/sets/SRB-files/img/116_Calamari Cook.png" num="116">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Fish</type>
+				<maintype>Creature</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Adventurous Tyke</name>
+			<text>{T}: Add one mana of any color.
+{T}: Add two mana of any one color. You can&apos;t spend this mana to cast spells from your hand.</text>
+			<set rarity="uncommon" picurl="https://gayverygrove.github.io/sets/SRB-files/img/113_Adventurous Tyke.png" num="113">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hiddard&apos;s Office</name>
+			<text>{T}: Add {C}.
+{T}, Tap an untapped artifact you control: Add one mana of any color.</text>
+			<set rarity="uncommon" picurl="https://gayverygrove.github.io/sets/SRB-files/img/174_Hiddard&apos;s Office.png" num="174">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Ryan Elworm, the Fist</name>
+			<text>Trample
+Whenever one or more creatures you control deal combat damage to a player, investigate.
+{G}, Sacrifice a Clue: Put two +1/+1 counters on Ryan Elworm, the Fist.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/SRB-files/img/134_Ryan Elworm, the Fist.png" num="134">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Carlos Zevallos, The Brains</name>
+			<text>Defender
+At the beginning of your upkeep, investigate.
+{U}, Sacrifice a Clue: Create a 1/1 colorless Thopter artifact creature token with flying.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/SRB-files/img/31_Carlos Zevallos, The Brains.png" num="31">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>1UU</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rex Moray, the Soul</name>
+			<text>Flash
+Whenever one or more other creatures you control die, investigate.
+{W}, Sacrifice a Clue: Target creature you control gains hexproof until end of turn.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/SRB-files/img/23_Rex Moray, the Soul.png" num="23">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Storm of Spirits</name>
+			<text>Startle {U}{U} (You may cast this spell from your hand for its startle cost. If you do, exile it when it enters or if it would leave the battlefield. You may cast it from exile.)
+Flying
+When Storm of Spirits enters the battlefield, return target nonland permanent to its owner&apos;s hand.</text>
+			<set rarity="uncommon" picurl="https://gayverygrove.github.io/sets/SRB-files/img/53_Storm of Spirits.png" num="53">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lucy Willhooks, the Heart</name>
+			<text>Whenever another creature you control becomes the target of a spell or ability you don&apos;t control, investigate.
+{R}, Sacrifice a Clue: Target creature you control gets +2/+0 until end of turn.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/SRB-files/img/99_Lucy Willhooks, the Heart.png" num="99">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Friends Forever</name>
+			<text>Discard your hand, then draw a card for each creature you control.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/SRB-files/img/92_Friends Forever.png" num="92">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Last Gasp</name>
+			<text>Target creature gets -3/-3 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://gayverygrove.github.io/sets/SRB-files/img/72_Last Gasp.png" num="72">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Lucy Willhooks, Adventurer</name>
+			<text></text>
+			<set rarity="special" picurl="https://gayverygrove.github.io/sets/SRB-files/img/179_Lucy Willhooks, Adventurer.png" num="179">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Lucy</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<loyalty>4</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Youthful Tenacity</name>
+			<text>Whenever a creature you control leaves the battlefield, put a +1/+1 counter on Youthful Tenacity.
+Remove a +1/+1 counter from Youthful Tenacity: Put a +1/+1 counter on target creature you control. Activate only as a sorcery and only once each turn.</text>
+			<set rarity="uncommon" picurl="https://gayverygrove.github.io/sets/SRB-files/img/28_Youthful Tenacity.png" num="28">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Jack Attack</name>
+			<text>Flash
+When Jack Attack enters the battlefield, you may sacrifice a permanent. If you do, create a black 3/2 Horror creature token.</text>
+			<set rarity="uncommon" picurl="https://gayverygrove.github.io/sets/SRB-files/img/163_Jack Attack.png" num="163">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Horrible Harlequin</name>
+			<text>Horrible Harlequin can&apos;t be blocked by face-down creatures.
+{4}: Unnerve target creature you don&apos;t control until end of turn. Activate only as a sorcery. (Turn that creature face down and remove all damage from it. It&apos;s a 2/2 with no abilities.)</text>
+			<set rarity="uncommon" picurl="https://gayverygrove.github.io/sets/SRB-files/img/96_Horrible Harlequin.png" num="96">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Uncontrolled Burn</name>
+			<text>Uncontrolled Burn deals 4 damage to target creature or planeswalker and 2 damage to you.</text>
+			<set rarity="uncommon" picurl="https://gayverygrove.github.io/sets/SRB-files/img/111_Uncontrolled Burn.png" num="111">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Dead&apos;s Best Friend</name>
+			<text>Trample
+Whenever one or more +1/+1 counters are put on another creature you control, put that many +1/+1 counters on Dead&apos;s Best Friend. This ability triggers only once each turn.</text>
+			<set rarity="uncommon" picurl="https://gayverygrove.github.io/sets/SRB-files/img/122_Dead&apos;s Best Friend.png" num="122">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dog Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ivy Elemental</name>
+			<text>Ivy Elemental enters the battlefield with X +1/+1 counters on it.</text>
+			<set rarity="common" picurl="https://gayverygrove.github.io/sets/SRB-files/img/129_Ivy Elemental.png" num="129">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>XG</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Freakish Fiction</name>
+			<text>Whenever a token you control is put into a graveyard from the battlefield, each opponent loses 1 life and you gain 1 life.
+{4}, Exile a creature card from your graveyard: Create a tapped 3/2 black Horror creature token.</text>
+			<set rarity="uncommon" picurl="https://gayverygrove.github.io/sets/SRB-files/img/147_Freakish Fiction.png" num="147">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>BG</manacost>
+				<cmc>2</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Sympathetic Soul</name>
+			<text>Whenever a nontoken creature you control dies, if it had a +1/+1 counter on it, create a white 1/1 Human creature token.</text>
+			<set rarity="common" picurl="https://gayverygrove.github.io/sets/SRB-files/img/109_Sympathetic Soul.png" num="109">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ringwoods Invader</name>
+			<text>Menace
+Whenever Ringwoods Invader attacks, put a +1/+1 counter on each attacking creature you control without a +1/+1 counter on it.</text>
+			<set rarity="uncommon" picurl="https://gayverygrove.github.io/sets/SRB-files/img/104_Ringwoods Invader.png" num="104">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Alien</type>
+				<maintype>Creature</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Pint-Sized Pilferer</name>
+			<text>Haste
+Whenever Pint-Sized Pilferer attacks, you may remove a +1/+1 counter from a creature you control. If you do, Pint-Sized Pilferer gets +2/+2 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://gayverygrove.github.io/sets/SRB-files/img/103_Pint-Sized Pilferer.png" num="103">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Gnome</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Frankenboy</name>
+			<text>Frankenboy enters the battlefield with a +1/+1 counter on it.
+When Frankenboy dies, put its counters on target creature you control.</text>
+			<set rarity="common" picurl="https://gayverygrove.github.io/sets/SRB-files/img/125_Frankenboy.png" num="125">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Adolescent Witch</name>
+			<text>{5}{R}, {T}: Adolescent Witch deals 3 damage to target player or planeswalker. This ability costs {1} less to activate for each +1/+1 counter among creatures you control.</text>
+			<set rarity="common" picurl="https://gayverygrove.github.io/sets/SRB-files/img/85_Adolescent Witch.png" num="85">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ted Moray, Too Old for This</name>
+			<text>Ward—Pay 3 life.
+Whenever an opponent draws a card, they lose 2 life. If they&apos;ve drawn two or more cards this turn, they also discard a card. If they&apos;ve drawn three or more cards this turn, they also sacrifice a nonland permanent.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/SRB-files/img/83_Ted Moray, Too Old for This.png" num="83">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Employee</type>
+				<maintype>Creature</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Say Cheese!</name>
+			<text>Say Cheese! deals X damage to target creature or planeswalker. If you control a creature with a +1/+1 counter on it, it deals X plus 2 damage instead.</text>
+			<set rarity="uncommon" picurl="https://gayverygrove.github.io/sets/SRB-files/img/105_Say Cheese!.png" num="105">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>XR</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Wage Flayer</name>
+			<text>Whenever one or more artifacts are put into your graveyard from the battlefield, each opponent loses 1 life and you gain 1 life.</text>
+			<set rarity="uncommon" picurl="https://gayverygrove.github.io/sets/SRB-files/img/160_Wage Flayer.png" num="160">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horror Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>WB</manacost>
+				<cmc>2</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Awoken Intelligence</name>
+			<text>When Awoken Intelligence enters the battlefield, Human creatures can&apos;t block this turn.</text>
+			<set rarity="common" picurl="https://gayverygrove.github.io/sets/SRB-files/img/86_Awoken Intelligence.png" num="86">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>4RR</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>6/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Genial Treebeard</name>
+			<text>Reach
+{1}{G}, Discard Genial Treebeard: Put a +1/+1 counter on target creature you control and draw a card. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://gayverygrove.github.io/sets/SRB-files/img/126_Genial Treebeard.png" num="126">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Giant</type>
+				<maintype>Creature</maintype>
+				<manacost>2GG</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shambling Suites</name>
+			<text>{T}: Add one mana of any color.
+{8}: Shambling Suites becomes a Horror artifact creature with base power and toughness 8/8 and trample until end of turn. This ability costs {1} less to activate for each other artifact you control.</text>
+			<set rarity="uncommon" picurl="https://gayverygrove.github.io/sets/SRB-files/img/164_Shambling Suites.png" num="164">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Colossal Gastropod</name>
+			<text>Colossal Gastropod can&apos;t be blocked by creatures with power 2 or less.
+When Colossal Gastropod enters the battlefield, destroy target noncreature permanent.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/SRB-files/img/120_Colossal Gastropod.png" num="120">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Snail</type>
+				<maintype>Creature</maintype>
+				<manacost>5GG</manacost>
+				<cmc>7</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Stuffed Savior</name>
+			<text>Sacrifice Stuffed Savior: Another target creature you control gains indestructible until end of turn.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/SRB-files/img/26_Stuffed Savior.png" num="26">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Bear Knight</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Stand Tall</name>
+			<text>Enchant creature
+Enchanted creature has &quot;You can&apos;t lose the game and your opponents can&apos;t win the game.&quot;</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/SRB-files/img/25_Stand Tall.png" num="25">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>4WW</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Kitted-Out Investigators</name>
+			<text>Double strike
+Clues you control are Equipment with equip {1} and &quot;Equipped creature gets +1/+0&quot; in addition to their other types.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/SRB-files/img/17_Kitted-Out Investigators.png" num="17">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Confirm Suspicions</name>
+			<text>Counter target spell.
+Investigate three times.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/SRB-files/img/33_Confirm Suspicions.png" num="33">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Unravel Realities</name>
+			<text>Return all nonland permanents to their owner&apos;s hands.
+You may cast a card you own that&apos;s in your hand or exiled with a startle ability without paying its mana cost.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/SRB-files/img/56_Unravel Realities.png" num="56">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>5UU</manacost>
+				<cmc>7</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Helicopter Faerie</name>
+			<text>Flying
+Helicopter Faerie gets +3/+3 as long as you control three or more creatures named Helicopter Faerie.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/SRB-files/img/40_Helicopter Faerie.png" num="40">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gargantuan Angler</name>
+			<text>Hexproof
+Your opponents must attack you with at least one creature each combat if able.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/SRB-files/img/39_Gargantuan Angler.png" num="39">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Leviathan</type>
+				<maintype>Creature</maintype>
+				<manacost>5UU</manacost>
+				<cmc>7</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>5/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Demented Dentist</name>
+			<text>When Demented Dentist enters the battlefield, target player reveals their hand. You choose a noncreature, nonland card from it. Exile that card until Demented Dentist leaves the battlefield.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/SRB-files/img/61_Demented Dentist.png" num="61">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Intruder From Beyond</name>
+			<text></text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/SRB-files/img/71_The Intruder From Beyond.png" num="71">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Rynea</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Invasion from the Garden</name>
+			<text>As an additional cost to cast this spell, remove X +1/+1 counters from among creatures you control.
+Choose one—
+• Create X 2/2 red Gnome creature tokens with haste.
+• Destroy up to X target artifacts.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/SRB-files/img/98_Invasion from the Garden.png" num="98">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Your Greatest Terror</name>
+			<text>Unnerve all creatures target player controls until your next turn. (Turn those creatures face down and remove all damage from them. They&apos;re 2/2s with no abilities.)</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/SRB-files/img/112_Your Greatest Terror.png" num="112">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Spunky Sportster</name>
+			<text>First strike
+Whenever a creature entering the battlefield causes a triggered ability of a permanent your opponents control to trigger, Spunky Sportster deals 2 damage to that player.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/SRB-files/img/107_Spunky Sportster.png" num="107">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>RR</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Easter Ravager</name>
+			<text>Startle {G} (You may cast this spell from your hand for its startle cost. If you do, exile it when it enters or if it would leave the battlefield. You may cast it from exile.)
+When Easter Ravager enters the battlefield, create a 0/1 green Egg creature token. If it was cast from exile, create a token that&apos;s a copy of Easter Ravager instead.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/SRB-files/img/124_Easter Ravager.png" num="124">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Rabbit Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lunar Awakening</name>
+			<text>Creatures you control with +1/+1 counters on them have base power and toughness 5/5, have trample, and are Horrors in addition to their other types.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/SRB-files/img/131_Lunar Awakening.png" num="131">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Backyard Naturalist</name>
+			<text>{T}: Add X mana in any combination of colors, where X is the number of creatures that entered the battlefield under your control this turn.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/SRB-files/img/115_Backyard Naturalist.png" num="115">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Druid</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Imaginative Rascal</name>
+			<text>Whenever Imaginative Rascal attacks, you may remove a +1/+1 counter from it. If you do, it becomes a legendary Human Warrior with trample, indestructible, and base power and toughness 4/4 until end of turn.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/SRB-files/img/127_Imaginative Rascal.png" num="127">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Perfect Replacement</name>
+			<text>When Perfect Replacement enters the battlefield, you may exile target creature until Perfect Replacement leaves the battlefield. If you do, Perfect Replacement becomes a copy of that card, except it has base power and toughness 1/1.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/SRB-files/img/152_Perfect Replacement.png" num="152">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Child</type>
+				<maintype>Creature</maintype>
+				<manacost>2WU</manacost>
+				<cmc>4</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Voracious Gremlins</name>
+			<text>Whenever you sacrifice a permanent, Voracious Gremlins gets +1/+1 until end of turn.
+{3}, Sacrifice a noncreature, nonland permanent: Create a token that&apos;s a copy of Voracious Gremlins.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/SRB-files/img/159_Voracious Gremlins.png" num="159">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Gremlin</type>
+				<maintype>Creature</maintype>
+				<manacost>UB</manacost>
+				<cmc>2</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Falling to Fear</name>
+			<text>At the beginning of your upkeep, unnerve target nonland permanent until end of turn. (Turn that permanent face-down. It&apos;s a 2/2 creature with no abilities.)
+Whenever a face-down creature dies, exile it. You may play that card for as long as it remains exiled, and you may spend mana as though it were mana of any type to cast them.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/SRB-files/img/145_Falling to Fear.png" num="145">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1BR</manacost>
+				<cmc>3</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Fourth Street Widow</name>
+			<text>As an additional cost to cast this spell, you may remove any number of counters from creatures you control. This spell costs {1} less to cast for each counter removed this way.
+This spell can&apos;t be countered.
+Trample, haste</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/SRB-files/img/146_Fourth Street Widow.png" num="146">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ogre</type>
+				<maintype>Creature</maintype>
+				<manacost>6RG</manacost>
+				<cmc>8</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>7/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Under the Covers</name>
+			<text>Creatures you control gain hexproof and indestructible until end of turn.
+Investigate. (Create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this artifact: Draw a card.&quot;)</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/SRB-files/img/158_Under the Covers.png" num="158">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1GW</manacost>
+				<cmc>3</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Alchemical Breakthrough</name>
+			<text>You may cast spells for their startle costs as though they had flash.
+Whenever a creature enters the battlefield under your control, if it was cast from exile, create a token that&apos;s a copy of that creature, except it&apos;s a 1/1.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/SRB-files/img/141_Alchemical Breakthrough.png" num="141">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>GU</manacost>
+				<cmc>2</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Elementary Spymaster</name>
+			<text>Whenever Elementary Spymaster deals combat damage to a player, exile that many cards from the top of your library. You may play one of them this turn.
+{1}{R}: Elementary Spymaster gets +1/+0 until end of turn.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/SRB-files/img/144_Elementary Spymaster.png" num="144">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1UR</manacost>
+				<cmc>3</cmc>
+				<colors>UR</colors>
+				<coloridentity>UR</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Teamwork</name>
+			<text>At the beginning of combat on your turn, creatures you control gain flying until end of turn if you control a creature with flying. The same is true for first strike, double strike, haste, lifelink, menace, trample, and vigilance.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/SRB-files/img/156_Teamwork.png" num="156">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>RW</manacost>
+				<cmc>2</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Suspicious Alleyway</name>
+			<text>Suspicious Alleyway enters the battlefield tapped.
+{T}: Add {B} or {R}.
+{2}, Sacrifice Suspicious Alleyway: Draw a card.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/SRB-files/img/177_Suspicious Alleyway.png" num="177">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Hilltop Haunt</name>
+			<text>Hilltop Haunt enters the battlefield tapped.
+{T}: Add {W} or {U}.
+{2}, Sacrifice Hilltop Haunt: Draw a card.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/SRB-files/img/175_Hilltop Haunt.png" num="175">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Chilling Cellar</name>
+			<text>Chilling Cellar enters the battlefield tapped.
+{T}: Add {U} or {B}.
+{2}, Sacrifice Chilling Cellar: Draw a card.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/SRB-files/img/169_Chilling Cellar.png" num="169">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Deep Dark Woods</name>
+			<text>Deep Dark Woods enters the battlefield tapped.
+{T}: Add {B} or {G}.
+{2}, Sacrifice Deep Dark Woods: Draw a card.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/SRB-files/img/171_Deep Dark Woods.png" num="171">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Unsettling Classroom</name>
+			<text>Unsettling Classroom enters the battlefield tapped.
+{T}: Add {R} or {W}.
+{2}, Sacrifice Unsettling Classroom: Draw a card.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/SRB-files/img/178_Unsettling Classroom.png" num="178">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>One Last Hurrah</name>
+			<text>Return target creature card from your graveyard to the battlefield. That creature gains haste and vigilance until end of turn. After the first postcombat main phase this turn, there&apos;s an additional combat phase followed by an additional main phase. Exile that creature at the beginning of the next end step.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/SRB-files/img/102_One Last Hurrah.png" num="102">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Invading Reclaimer</name>
+			<text>When Invading Reclaimer enters the battlefield, create a 1/1 colorless Construct artifact creature token.
+{T}, Sacrifice five other artifacts: Exile target nonland permanent. Activate only as a sorcery.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/SRB-files/img/149_Invading Reclaimer.png" num="149">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>2WB</manacost>
+				<cmc>4</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lost and Alone</name>
+			<text>Each player who controls a creature with power 3 or less draws a card. Then, destroy all creatures.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/SRB-files/img/18_Lost and Alone.png" num="18">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Flying Saucer</name>
+			<text>Flying
+When Flying Saucer enters the battlefield, gain control of target creature for as long as you control Flying Saucer.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/SRB-files/img/37_Flying Saucer.png" num="37">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Alien Ship</type>
+				<maintype>Creature</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Technicolor Tutor</name>
+			<text>Ward—Discard a card.
+Menace, trample
+When Technicolor Tutor enters the battlefield, target opponent may search their library for a card, put it into their hand, and shuffle.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/SRB-files/img/82_Technicolor Tutor.png" num="82">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Homegrown Studio</name>
+			<text>When Homegrown Studio enters the battlefield, investigate.
+At the beginning of combat on your turn, up to one target artifact you control becomes a creature with base power and toughness each equal to the number of artifacts you control until end of turn.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/SRB-files/img/15_Homegrown Studio.png" num="15">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Plant</type>
+				<maintype>Creature</maintype>
+				<manacost>4WW</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ghostly Crossing</name>
+			<text>Flash
+If a creature you control would die, exile it instead.
+At the beginning of your upkeep, sacrifice Ghostly Crossing and put all cards exiled with it onto the battlefield under their owner&apos;s control.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/SRB-files/img/11_Ghostly Crossing.png" num="11">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Amateur Occultist</name>
+			<text>Lifelink
+At the beginning of each end step, if you lost life this turn, you lose that much life and you draw a card.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/SRB-files/img/57_Amateur Occultist.png" num="57">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mother Mother</name>
+			<text>At the beginning of each player&apos;s upkeep, that player unnerves a non-Demon creature they control until Mother Mother leaves the battlefield.
+Whenever Mother Mother deals combat damage to a player, you may gain control of target face-down creature.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/SRB-files/img/75_Mother Mother.png" num="75">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon</type>
+				<maintype>Creature</maintype>
+				<manacost>4BB</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Clue SRB</name>
+			<text>{2}, Sacrifice this artifact: Draw a card.</text>
+			<set rarity="common" picurl="https://gayverygrove.github.io/sets/SRB-files/img/9t_Clue.png" num="9">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Clue</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Horror SRB</name>
+			<text></text>
+			<set rarity="common" picurl="https://gayverygrove.github.io/sets/SRB-files/img/3t_Horror.png" num="3">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Horror</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Human SRB</name>
+			<text></text>
+			<set rarity="common" picurl="https://gayverygrove.github.io/sets/SRB-files/img/1t_Human.png" num="1">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Human</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Egg SRB</name>
+			<text></text>
+			<set rarity="common" picurl="https://gayverygrove.github.io/sets/SRB-files/img/5t_Egg.png" num="5">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Egg</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Construct SRB</name>
+			<text></text>
+			<set rarity="common" picurl="https://gayverygrove.github.io/sets/SRB-files/img/10t_Construct.png" num="10">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Rabbit SRB</name>
+			<text></text>
+			<set rarity="common" picurl="https://gayverygrove.github.io/sets/SRB-files/img/2t_Rabbit.png" num="2">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Rabbit</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Fish SRB</name>
+			<text></text>
+			<set rarity="common" picurl="https://gayverygrove.github.io/sets/SRB-files/img/6t_Fish.png" num="6">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Fish</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Spider SRB</name>
+			<text>Reach</text>
+			<set rarity="common" picurl="https://gayverygrove.github.io/sets/SRB-files/img/8t_Spider.png" num="8">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Spider</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Gnome SRB</name>
+			<text>Haste</text>
+			<set rarity="common" picurl="https://gayverygrove.github.io/sets/SRB-files/img/4t_Gnome.png" num="4">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Gnome</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Thopter SRB</name>
+			<text>Flying</text>
+			<set rarity="common" picurl="https://gayverygrove.github.io/sets/SRB-files/img/12t_Thopter.png" num="12">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact Creature — Thopter</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Doll SRB</name>
+			<text></text>
+			<set rarity="common" picurl="https://gayverygrove.github.io/sets/SRB-files/img/11t_Doll.png" num="11">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact Creature — Doll</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Fearful Fields</name>
+			<text>Fearful Fields enters the battlefield tapped.
+{T}: Add {R} or {G}.
+{2}, Sacrifice Fearful Fields: Draw a card.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/SRB-files/img/172_Fearful Fields.png" num="172">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Pumpkin Patch</name>
+			<text>Pumpkin Patch enters the battlefield tapped.
+{T}: Add {G} or {W}.
+{2}, Sacrifice Pumpkin Patch: Draw a card.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/SRB-files/img/176_Pumpkin Patch.png" num="176">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Corporate Cubicle</name>
+			<text>Corporate Cubicle enters the battlefield tapped.
+{T}: Add {W} or {B}.
+{2}, Sacrifice Corporate Cubicle: Draw a card.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/SRB-files/img/170_Corporate Cubicle.png" num="170">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Basement Laboratory</name>
+			<text>Basement Laboratory enters the battlefield tapped.
+{T}: Add {G} or {U}.
+{2}, Sacrifice Basement Laboratory: Draw a card.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/SRB-files/img/168_Basement Laboratory.png" num="168">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Flooded Playground</name>
+			<text>Flooded Playground enters the battlefield tapped.
+{T}: Add {U} or {R}.
+{2}, Sacrifice Flooded Playground: Draw a card.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/SRB-files/img/173_Flooded Playground.png" num="173">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Lunar Repetition</name>
+			<text>Exile each instant and/or sorcery card from your graveyard. For each card exiled this way, copy that card. You may cast the copy without paying its mana cost.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/SRB-files/img/43_Lunar Repetition.png" num="43">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Camp Lune Counselor</name>
+			<text>Ward {1}
+At the beginning of each player&apos;s upkeep, if no spells were cast last turn, put two +1/+1 counters on Camp Lune Counselor. Until end of turn, it gains trample and isn&apos;t a Human.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/SRB-files/img/117_Camp Lune Counselor.png" num="117">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Werewolf</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Face the Truth</name>
+			<text>As an additional cost to cast this spell, you may sacrifice any number of artifacts. This spell costs {2} less to cast for each artifact sacrificed this way.
+Face the Truth deals X damage to any target. You gain X life.</text>
+			<set rarity="rare" picurl="https://gayverygrove.github.io/sets/SRB-files/img/65_Face the Truth.png" num="65">SRB</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>XBB</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

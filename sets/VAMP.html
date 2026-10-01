@@ -1,7 +1,7 @@
 ﻿<html>
 <head>
-  <title>Surviving Suburbia</title>
-  <link rel="icon" type="image/x-icon" href="../sets/SRB-files/icon.png">
+  <title>Vampire: The Masquerade</title>
+  <link rel="icon" type="image/x-icon" href="../sets/VAMP-files/icon.png">
   <link rel="stylesheet" href="../resources/mana.css">
   <link rel="stylesheet" href="../resources/header.css">
   <link rel="stylesheet" href="../resources/card-text.css">
@@ -349,12 +349,10 @@
 	<div class="banner">
 		<div class="banner-container">
 			<div class="set-banner" id="set-banner">
-				<img class="set-logo" src="../sets/SRB-files/icon.png">
+				<img class="set-logo" src="../sets/VAMP-files/icon.png">
 				<div class="banner-text">
-					<div class="set-title">Surviving Suburbia</div>
-					<div class="extras-container"><a href="../sets/SRB-files/SRB-draft.txt" download>Draft</a><div class="dot"> • </div>
-			<a onclick="packOnePickOne()">P1P1</a><div class="dot"> • </div>
-<a href="../sets/SRB-files/SRB.xml" download>Play</a><div class="dot"> • </div>
+					<div class="set-title">Vampire: The Masquerade</div>
+					<div class="extras-container"><a href="../sets/VAMP-files/VAMP.xml" download>Play</a><div class="dot"> • </div>
 			<a onclick="randomSetCard()">I'm Feeling Lucky</a>
 				</div>
 			</div>
@@ -505,7 +503,7 @@
 				}
 
 
-			await fetch(rootPath + '/sets/SRB-files/SRB-draft.txt')
+			await fetch(rootPath + '/sets/VAMP-files/VAMP-draft.txt')
 				.then(response => response.text())
 				.then(text => {
 					draft_file = text.replace(/},\n\t]/g, '}\n\t]');
@@ -515,7 +513,7 @@
       
 			for (let i = 0; i < card_list_arrayified.length; i++)
 			{
-				if (card_list_arrayified[i].set == "SRB")
+				if (card_list_arrayified[i].set == "VAMP")
 				{
 					set_list_arrayified.push(card_list_arrayified[i]);
 				}
@@ -1337,7 +1335,7 @@
 			let set_card_list = [];
 			for (card of card_list_arrayified)
 			{
-				if (card.set == "SRB")
+				if (card.set == "VAMP")
 				{
 					set_card_list.push(card);
 				}
